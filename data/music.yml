@@ -1,0 +1,101 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Music
+  filter_List :
+    - filter_Type : featured
+      filter_Title : Featured      
+
+    - filter_Type : rock
+      filter_Title : Rock
+    
+    - filter_Type : classical
+      filter_Title : Classical
+      
+    - filter_Type : theatre
+      filter_Title : Theatre
+
+  portfolio_Item :
+    - types : ["rock", "featured"]
+      image : images/music/ancient-babies.jpg
+      URL : http://ancientbabies.com
+      title : Ancient Babies
+      content : Prog-dance-glam-theater-electronic indie rock on Mint 400 Records
+      
+    - types : ["rock", "featured"]
+      image : images/music/onward-chariots-bridge-square.jpg
+      URL : http://onwardchariots.com
+      title : Onward Chariots
+      content : International indie pop faves of the 2010s
+      
+    - types : ["rock", "theater", "classical", "featured"]
+      image : images/music/infiniteorchestra.jpg
+      URL : http://infiniteorchestra.com
+      title : Infinite Orchestra
+      content : Groundbreaking rock-classical-jazz-theater hybrid
+      
+    - types : ["rock"]
+      image : images/music/pilgrims.jpg
+      URL : #
+      title : The Pilgrims
+      content : Lounge-pop-punk, silly on the surface, sad on the inside
+      
+    - types : ["rock"]
+      image : images/music/big-lie-department2.jpg
+      URL : #
+      title : Older punkier bandsier
+      content : The Hope Bombs, Teen Satan, & Big Lie Department, oh my!
+      
+    - types : ["classical"]
+      image : images/music/old-piano.jpg
+      URL : #
+      title : Classical / New music
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["classical"]
+      image : images/music/burning-piano.jpg
+      URL : #
+      title : Crossover
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["theatre", "featured"]
+      image : images/music/steve-jobs.png
+      URL : #
+      title : Steve Jobs and the Fundamental Nature of the Universe
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["theatre", "featured"]
+      image : images/music/portfolio-8.jpg
+      URL : #
+      title : That's How I Was Radicalized
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["theatre", "featured"]
+      image : images/music/angelina-ballerina.jpg
+      URL : https://www.angelinamusical.com/
+      title : Angelina Ballerina, the Musical
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["theatre"]
+      image : images/music/angelina-ballerina-holiday.jpg
+      URL : https://www.angelinamusical.com/
+      title : Angelina Ballerina, the Very Merry Holiday Musical
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["theatre"]
+      image : images/music/portfolio-8.jpg
+      URL : https://www.concordtheatricals.com/p/4283/pop-star
+      title : Pop Star
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      
+    - types : ["theatre"]
+      image : images/music/portfolio-2.jpg
+      URL : https://www.concordtheatricals.com/p/6476/cinderellas-mice
+      title : Cinderella's Mice
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+
+    - types : ["theatre"]
+      image : images/music/portfolio-2.jpg
+      URL : #
+      title : more theatre!
+      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!      

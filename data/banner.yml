@@ -1,0 +1,11 @@
+############################### Banner ################################
+banner:
+  enable : true
+  bg_Image : "images/slider/node-interactive.jpg"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "Ben Morss, human"
+  content : "technology, music, and falafels"
+  button:
+    enable : true
+    label : "enter if you dare"
+    link : "#services"

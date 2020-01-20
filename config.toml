@@ -1,0 +1,112 @@
+################################# Default configuration ###################
+baseURL = "https://benmorss.com"
+title = "Ben Morss, human"
+theme = "meghna-hugo"
+publishDir = "public"
+# post pagination
+paginate = "6"
+# post excerpt
+summaryLength = "15"
+# disqus short name
+disqusShortname = "" # get your shortname form here : https://disqus.com
+# default content language
+defaultContentLanguage = "en"
+
+############################# Plugins ##########################
+# css plugins
+[[params.plugins.css]]
+URL = "plugins/bootstrap/bootstrap.min.css"
+[[params.plugins.css]]
+URL = "plugins/themify-icons/themify-icons.css"
+[[params.plugins.css]]
+URL = "plugins/animate-css/animate.css"
+[[params.plugins.css]]
+URL = "plugins/magnific-popup/magnific-popup.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick.css"
+
+# js plugins
+[[params.plugins.js]]
+URL = "plugins/jquery/jquery.min.js"
+[[params.plugins.js]]
+URL = "plugins/bootstrap/bootstrap.min.js"
+[[params.plugins.js]]
+URL = "plugins/slick/slick.min.js"
+[[params.plugins.js]]
+URL = "plugins/shuffle/shuffle.min.js"
+[[params.plugins.js]]
+URL = "plugins/magnific-popup/jquery.magnific-popup.min.js"
+[[params.plugins.js]]
+URL = "plugins/wow/wow.min.js"
+
+############################# Navigation ##################################
+[menu]
+
+  [[menu.main]]
+  name = "About Moi"
+  URL = "about"
+  weight = 1
+
+  [[menu.main]]
+  name = "Service"
+  URL = "services"
+  weight = 2
+
+  [[menu.main]]
+  name = "Music"
+  URL = "music"
+  weight = 3
+
+  [[menu.main]]
+  name = "Team"
+  URL = "team"
+  weight = 4
+
+  [[menu.main]]
+  name = "Pricing"
+  URL = "pricing"
+  weight = 5
+
+  [[menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 6
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "contact"
+  weight = 7
+
+
+
+############################# Default Parameters ##########################
+[params]
+# Metadata
+description = "Responsive Multipurpose Parallax HTML5 Template"
+author = "Themefisher"
+# Google Analitycs
+googleAnalitycsID = "Your ID"
+# post share
+postShare = true
+
+# preloader
+[params.preloader]
+enable = true
+preloader = "images/logo.png"
+
+############################# social icons ##########################
+[[params.social_Icon]]
+icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social_Icon]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social_Icon]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "#"
+
+[[params.social_Icon]]
+icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
+link = "#"
