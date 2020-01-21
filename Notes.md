@@ -1,5 +1,7 @@
-##MVP TASKS
+##MVP TASKS DONE
 * Music portfolio
+
+##MVP TASKS TO DO
 * Design band landing page
 * Make band pages for Pilgrims, Hope Bombs
 * Upload songs for Pilgrims
@@ -26,3 +28,4 @@
 [Meghna on github](https://github.com/themefisher/meghna-hugo)
 [Functions](https://gohugo.io/functions/index-function/)
 [Themify icons](https://themify.me/themify-icons)
+[Hugo Template Conditionals](https://forestry.io/blog/demystifying-hugo-conditionals/)

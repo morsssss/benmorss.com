@@ -2,6 +2,7 @@
 portfolio:
   enable : true
   title : Music
+  filter_Start: featured
   filter_List :
     - filter_Type : featured
       filter_Title : Featured      
@@ -9,21 +10,23 @@ portfolio:
     - filter_Type : rock
       filter_Title : Rock
     
-    - filter_Type : classical
-      filter_Title : Classical
-      
     - filter_Type : theatre
       filter_Title : Theatre
 
+    - filter_Type : classical
+      filter_Title : Classical
+      
   portfolio_Item :
     - types : ["rock", "featured"]
       image : images/music/ancient-babies.jpg
+      image_Thumb: images/music/ancient-babies-300px.jpg
       URL : http://ancientbabies.com
       title : Ancient Babies
       content : Prog-dance-glam-theater-electronic indie rock on Mint 400 Records
       
     - types : ["rock", "featured"]
       image : images/music/onward-chariots-bridge-square.jpg
+      image_Thumb : images/music/onward-chariots-bridge-square-300px.jpg
       URL : http://onwardchariots.com
       title : Onward Chariots
       content : International indie pop faves of the 2010s
@@ -42,6 +45,7 @@ portfolio:
       
     - types : ["rock"]
       image : images/music/big-lie-department2.jpg
+      image_Thumb : images/music/big-lie-department2-300px.jpg
       URL : #
       title : Older punkier bandsier
       content : The Hope Bombs, Teen Satan, & Big Lie Department, oh my!
@@ -50,52 +54,57 @@ portfolio:
       image : images/music/old-piano.jpg
       URL : #
       title : Classical / New music
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : We can't all be Beethoven, but we must try
       
     - types : ["classical"]
       image : images/music/burning-piano.jpg
+      image_Thumb : images/music/burning-piano-300px.jpg
       URL : #
       title : Crossover
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : Beethoven, but in "Bill and Ted's Excellent Adventure"
       
     - types : ["theatre", "featured"]
-      image : images/music/steve-jobs.png
+      image : images/music/steve-jobs.jpg
       URL : #
-      title : Steve Jobs and the Fundamental Nature of the Universe
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      title : Steve Jobs and the Fundamental Beauty of the Universe
+      content : Immersive conceptual techo-musical/opera
       
     - types : ["theatre", "featured"]
-      image : images/music/portfolio-8.jpg
+      image : images/music/activists.jpg
+      image_Thumb : images/music/activists-300px.jpg
       URL : #
       title : That's How I Was Radicalized
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : Activists on a cross-country caravan
       
     - types : ["theatre", "featured"]
-      image : images/music/angelina-ballerina.jpg
-      URL : https://www.angelinamusical.com/
+      image : images/music/angelina-ballerina-cast.jpg
+      image_Thumb : images/music/angelina-ballerina-cast-300px.jpg
+      URL : https://www.angelinamusical.com
       title : Angelina Ballerina, the Musical
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : Hit show based on the books and PBS series
       
     - types : ["theatre"]
-      image : images/music/angelina-ballerina-holiday.jpg
-      URL : https://www.angelinamusical.com/
+      image : images/music/angelina-holiday-cast.jpg
+      image_Thumb : images/music/angelina-holiday-cast-small.jpg
+      URL : https://www.angelinamusical.com
       title : Angelina Ballerina, the Very Merry Holiday Musical
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : Hit sequel to the hit show etc.
       
     - types : ["theatre"]
-      image : images/music/portfolio-8.jpg
+      image : images/music/pop-star.jpg
       URL : https://www.concordtheatricals.com/p/4283/pop-star
       title : Pop Star
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : 17 teens each get a solo in this rock musical
       
     - types : ["theatre"]
-      image : images/music/portfolio-2.jpg
+      image : images/music/cinderellas-mice.jpg
       URL : https://www.concordtheatricals.com/p/6476/cinderellas-mice
       title : Cinderella's Mice
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!
+      content : In which one of the mice wants to eat the buffet
 
     - types : ["theatre"]
-      image : images/music/portfolio-2.jpg
+      image : images/music/theatre.jpg
+      image_Thumb : images/music/theatre-300px.jpg
       URL : #
-      title : more theatre!
-      content : Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, nemo!      
+      title : moar musical theatre
+      content : Party of Five, Moon Month, and more
