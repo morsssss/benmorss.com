@@ -2305,4 +2305,13 @@ figcaption {
   padding: 10px;
   display: block;
 }
+
+/*=================================================================
+	Ben's pages styles
+==================================================================*/
+
+#music-single h2 {
+  margin-bottom: 40px;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
