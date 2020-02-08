@@ -5,7 +5,7 @@
 * Design band landing page
 * Make band pages for Pilgrims, Hope Bombs
 * Upload songs for Pilgrims
-* Upload songs for Hope Bombs
+* Fix and upload songs for Hope Bombs
 * Design theatre landing page
 * Design classical landing page
 * Create tech section
@@ -19,8 +19,8 @@
 * Upload songs for Teen Satan
 
 ## TODO:
-* Make portfolio images all more or less the same size
 * Make email submitting script
+* Make title for home page not repeat "Ben Morss"
 
 
 [Front matter](https://gohugo.io/content-management/front-matter/)

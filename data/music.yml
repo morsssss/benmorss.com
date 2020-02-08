@@ -39,40 +39,40 @@ portfolio:
       
     - types : ["rock"]
       image : images/music/pilgrims.jpg
-      URL : #
+      URL : music/coming-soon
       title : The Pilgrims
       content : Lounge-pop-punk, silly on the surface, sad on the inside
       
     - types : ["rock"]
       image : images/music/big-lie-department2.jpg
       image_Thumb : images/music/big-lie-department2-300px.jpg
-      URL : #
+      URL : music/coming-soon
       title : Older punkier bandsier
       content : The Hope Bombs, Teen Satan, & Big Lie Department, oh my!
       
     - types : ["classical"]
       image : images/music/old-piano.jpg
-      URL : #
+      URL : music/coming-soon
       title : Classical / New music
       content : We can't all be Beethoven, but we must try
       
     - types : ["classical"]
       image : images/music/burning-piano.jpg
       image_Thumb : images/music/burning-piano-300px.jpg
-      URL : #
+      URL : music/coming-soon
       title : Crossover
       content : Beethoven, but in "Bill and Ted's Excellent Adventure"
       
     - types : ["theatre", "featured"]
       image : images/music/steve-jobs.jpg
-      URL : #
+      URL : music/coming-soon
       title : Steve Jobs and the Fundamental Beauty of the Universe
       content : Immersive conceptual techo-musical/opera
       
     - types : ["theatre", "featured"]
       image : images/music/activists.jpg
       image_Thumb : images/music/activists-300px.jpg
-      URL : #
+      URL : music/activists
       title : That's How I Was Radicalized
       content : Activists on a cross-country caravan
       
@@ -81,7 +81,7 @@ portfolio:
       image_Thumb : images/music/angelina-ballerina-cast-300px.jpg
       URL : https://www.angelinamusical.com
       title : Angelina Ballerina, the Musical
-      content : Hit show based on the books and PBS series
+      content : Long-running hit show based on the books and PBS series
       
     - types : ["theatre"]
       image : images/music/angelina-holiday-cast.jpg
@@ -105,6 +105,6 @@ portfolio:
     - types : ["theatre"]
       image : images/music/theatre.jpg
       image_Thumb : images/music/theatre-300px.jpg
-      URL : #
+      URL : music/coming-soon
       title : moar musical theatre
       content : Party of Five, Moon Month, and more

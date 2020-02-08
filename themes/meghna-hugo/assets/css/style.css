@@ -893,6 +893,10 @@ a:hover {
   transition: .3s all;
 }
 
+.portfolio-filter .btn:hover {
+  cursor: pointer;
+}
+
 .portfolio-filter .btn.active {
   border-color: #57cbcc;
 }
@@ -2313,5 +2317,24 @@ figcaption {
 #music-single h2 {
   margin-bottom: 40px;
 }
+
+/*=================================================================
+	Ben's music example styles
+==================================================================*/
+				
+code { color: #0B0042; font-family: Courier,"Courier New",sans-serif,monospace;}
+				
+.measures { color: #0B0042; }
+.measures td { border: 2px double #668; min-width: 40px; padding: 7px 2px; text-align: center; color: #225; }
+.measures b { color: #225; }
+
+.score  { color: #0B0042; }
+.score td { border: 2px double #668; min-width: 40px; padding: 7px; text-align: left; color: #225; }
+
+.musicExample { clear: both; margin: 15px 0 40px; overflow: hidden;}
+.musicExample.oneElement table, .musicExample .score { margin: 0 auto; }
+.musicExample.oneElement audio { display: block; margin: 0 auto; }
+.musicExample.twoElements table { float: left; margin-left: 15px; }
+.musicExample.twoElements audio { float: right; margin-right: 15px; width: 250px; }
 
 /*# sourceMappingURL=maps/style.css.map */
