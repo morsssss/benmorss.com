@@ -43,13 +43,13 @@ URL = "plugins/wow/wow.min.js"
 [menu]
 
   [[menu.main]]
-  name = "About Moi"
+  name = "Things I Do"
   URL = "about"
   weight = 1
 
   [[menu.main]]
-  name = "Service"
-  URL = "services"
+  name = "Tech"
+  URL = "tech"
   weight = 2
 
   [[menu.main]]
@@ -58,55 +58,46 @@ URL = "plugins/wow/wow.min.js"
   weight = 3
 
   [[menu.main]]
-  name = "Team"
-  URL = "team"
-  weight = 4
-
-  [[menu.main]]
-  name = "Pricing"
-  URL = "pricing"
-  weight = 5
-
-  [[menu.main]]
-  name = "Blog"
+  name = "Rock Theory"
   URL = "blog"
-  weight = 6
+  weight = 4
 
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 7
+  weight = 5
 
 
 
 ############################# Default Parameters ##########################
 [params]
 # Metadata
-description = "All about Ben Morss, technologist, musician, and overall human being. Hear unusual music, read pop music analyses, say, 'wow, dood'!"
+description = "All about Ben Morss, technologist, musician, and overall human being. Hear his music! See him uncover the secret inner workings of your favorite pop songs! And read his writings about the Web."
 author = "Themefisher"
-# Google Analitycs
-googleAnalitycsID = "Your ID"
+# Google Analytics
+googleAnalyticsID = "Your ID"
 # post share
 postShare = true
+copyright = "copyright © 2020 ben morss, all rights reserved, dammit"
 
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/ben-in-green-small.jpg"
 
 ############################# social icons ##########################
 [[params.social_Icon]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/benmorss"
 
 [[params.social_Icon]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://twitter.com/benmorss"
 
 [[params.social_Icon]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.youtube.com/results?search_query=ben+morss"
 
 [[params.social_Icon]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.linkedin.com/in/ben-morss-15bab15/"

@@ -2,9 +2,9 @@
 cta:
   enable : true
   bg_Image : "images/backgrounds/bg-1.jpg"
-  title : "Great Design & Incredible Features"
-  content : "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis tenetur odio impedit incidunt? Omnis accusantium ea reiciendis, fugit commodi nostrum."
+  title : "Here's a cool brick wall"
+  content : "It's a wall made entirely of bricks! I wish I had something better to do with this section."
   button:
     enable : true
-    label : "Start a project with us"
-    link : "#contact"
+    label : "Skip ahead to music analysis"
+    link : "#blog"

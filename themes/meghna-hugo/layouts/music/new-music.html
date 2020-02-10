@@ -1,0 +1,45 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+<p>New music template!</p>
+<section id="music-single" class="parallax-section section section-bg overly">
+	<div class="container">
+		<div class="row">
+			{{"<!-- section title -->" | safeHTML }}
+			<div class="col-lg-12">
+				<div class="title text-center">
+					<h2>{{ index (split .Title " ") 0 }}
+						<span class="color">
+							{{ range after 1 (split .Title " ") }} {{ . }} {{ end }}
+						</span>
+					</h2>
+					<div class="border-meghna"></div>
+				</div>
+			</div>
+			{{"<!-- /section title -->" | safeHTML }}
+		</div>
+		<div class="row">
+			<div class="col-lg-6">
+				<h2>{{ .Title }}</h2>
+				{{ if .Params.Images }}
+				<img class="img-fluid" src="{{ .Params.Images | relURL }}" alt="image">
+				{{ end }}
+				{{ if .Params.Bandcamp_album }}
+				<iframe
+						style="border: 0; width: 390px; height: 373px;"
+						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album }}/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/"
+						seamless>
+					<a href="{{ .Params.Bandcamp_href }}">
+						{{ .Title }}
+					</a>
+				</iframe>
+				{{ end }}
+			</div>
+			<div class="col-lg-6">
+				{{ .Content }}
+			</div>
+		</div>
+	</div>
+</section>
+
+{{ end }}

@@ -52,7 +52,7 @@ portfolio:
       
     - types : ["classical"]
       image : images/music/old-piano.jpg
-      URL : music/coming-soon
+      URL : music/new-music
       title : Classical / New music
       content : We can't all be Beethoven, but we must try
       

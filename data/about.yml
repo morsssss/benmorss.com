@@ -1,19 +1,19 @@
 ############################# About ###################################
 about:
   enable : true
-  title : About Moi
+  title : Things I Do
   about_Item :
   - icon : ti-save # themify icon pack : https://themify.me/themify-icons
     title : Tech
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : "I'm a Developer Advocate at Google, working to improve the Web. I write code and words and make videos."
     link : tech
 
   - icon : ti-music-alt # themify icon pack : https://themify.me/themify-icons
     title : Music
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
+    content : "I write music. Indie rock, theater, classical, crossover, and more."
     link : music
 
   - icon : ti-light-bulb # themify icon pack : https://themify.me/themify-icons
-    title : Ideas
-    content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil, libero, perspiciatis eos provident laborum eum dignissimos.
-    link : ideas
+    title : Theory
+    content : "I love to uncover what makes pop songs tick."
+    link : blog

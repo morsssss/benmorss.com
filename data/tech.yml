@@ -1,18 +1,18 @@
-################################# Service #################################
-service:
+################################# Tech #################################
+tech:
   enable : true
-  title : Our Services
-  service_Item :
+  title : Tech stuff
+  tech_Item :
+    - icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
+      title : Videos
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
+    - icon : ti-microphone-alt # themify icon pack : https://themify.me/themify-icons
+      title : Talks
+      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      
     - icon : ti-world # themify icon pack : https://themify.me/themify-icons
-      title : WordPress Theme
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-layout # themify icon pack : https://themify.me/themify-icons
-      title : Responsive Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-blackboard # themify icon pack : https://themify.me/themify-icons
-      title : Media &amp; Advertisement
+      title : Conferences
       content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
       
     - icon : ti-palette # themify icon pack : https://themify.me/themify-icons

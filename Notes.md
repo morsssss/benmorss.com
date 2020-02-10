@@ -2,16 +2,20 @@
 * Music portfolio
 
 ## MVP TASKS TO DO
-* Design band landing page
-* Make band pages for Pilgrims, Hope Bombs
+* ~Design band landing page
+* ~Make band pages for Pilgrims, Hope Bombs
+* ~ Design theatre landing page
+* ~ Design classical landing page
+* ~ Figure out how to link to YouTube
+* ~ Add LinkedIn to social sharing buttons
 * Upload songs for Pilgrims
 * Fix and upload songs for Hope Bombs
-* Design theatre landing page
-* Design classical landing page
+* Write and edit meta descriptions
 * Create tech section
 * Design rock theory blog page
 * Include rock theory example CSS
 * Upload 1-2 rock theory articles
+* Google Analytics
 
 ## MORE TASKS
 * Make band page for Big Lie Department

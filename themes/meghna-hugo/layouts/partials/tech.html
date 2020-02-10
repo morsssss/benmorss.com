@@ -1,7 +1,7 @@
-{{ if .Site.Data.service.service.enable}}
-{{ with .Site.Data.service.service}}
-{{"<!-- service -->" | safeHTML }}
-<section id="services" class="bg-one section">
+{{ if .Site.Data.tech.tech.enable}}
+{{ with .Site.Data.tech.tech}}
+{{"<!-- tech -->" | safeHTML }}
+<section id="tech" class="bg-one section">
 	<div class="container">
 		<div class="row">
 			<div class="col-lg-12">
@@ -14,22 +14,22 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML }}
 
-			{{ range .service_Item}}
-			{{"<!-- Single Service Item -->" | safeHTML }}
+			{{ range .tech_Item}}
+			{{"<!-- Single tech Item -->" | safeHTML }}
 			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="service-block text-center">
-					<div class="service-icon text-center">
+				<div class="tech-block text-center">
+					<div class="tech-icon text-center">
 						<i class="{{ .icon }}"></i>
 					</div>
 					<h3>{{ .title | markdownify }}</h3>
 					<p>{{ .content | markdownify }}</p>
 				</div>
 			</article>
-			{{"<!-- End Single Service Item -->" | safeHTML }}
+			{{"<!-- End Single tech Item -->" | safeHTML }}
 			{{ end }}
 		</div>
 	</div>
 </section>
-{{"<!-- /service -->" | safeHTML }}
+{{"<!-- /tech -->" | safeHTML }}
 {{ end }}
 {{ end }}

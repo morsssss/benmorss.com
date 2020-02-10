@@ -17,12 +17,14 @@
 			{{"<!-- Contact Details -->" | safeHTML}}
 			<div class="contact-info col-lg-6 wow fadeInUp" data-wow-duration="500ms">
 				<h3>{{ .subtitle | markdownify }}</h3>
-				<p> {{ .content | markdownify }} </p>
+				<p> {{ .content | replaceRE "(\\.|!)" "$1<br/>" | safeHTML }} </p>
 				<div class="contact-details">
 					{{ range .contact_Details }}
 					<div class="con-info clearfix">
-						<i class="{{ .icon }}"></i>
-						<span>{{ .info }}</span>
+						<a href="{{ .link }}" target="_blank">
+							<i class="{{ .icon }}"></i>
+							<span>{{ .info }}</span>
+						</a>
 					</div>
 					{{ end }}
 				</div>

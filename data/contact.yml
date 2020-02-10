@@ -2,8 +2,8 @@
 contact:
   enable : true
   title : Say Howdy
-  subtitle : Contact Details
-  content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
+  subtitle : Get in touch
+  content : Don't be a stranger! Connect with me, on social media, the modern way. Or just send a message.
   form_Action: "#" #contact form works with https://formspree.io
   map:
     enable : false
@@ -12,14 +12,18 @@ contact:
     mapLongitude: -0.1622023
 
   contact_Details :
-    - icon : ti-location-pin # themify icon pack : https://themify.me/themify-icons
-      info : "Khaja Road, Bayzid, Chittagong, Bangladesh"
+    - icon : ti-twitter # themify icon pack : https://themify.me/themify-icons
+      info : Tweetier
+      link : https://twitter.com/benmorss
       
-    - icon : ti-mobile # themify icon pack : https://themify.me/themify-icons
-      info : "Phone: +880-31-000-000"
+    - icon : ti-linkedin
+      info : LinkedOut
+      link : https://www.linkedin.com/in/ben-morss-15bab15/
       
-    - icon : ti-printer # themify icon pack : https://themify.me/themify-icons
-      info : "Fax: +880-31-000-000"
-      
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Email: hello@meghna.com"
+    - icon : ti-email
+      info : "Email: ben@benmorss.com"
+      link : "mailto:ben@benmorss.com"
+
+    - icon : ti-github
+      info : "Github"
+      link : "https://github.com/morsssss"      
