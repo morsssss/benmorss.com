@@ -5,24 +5,30 @@ tech:
   tech_Item :
     - icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
       title : Videos
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-microphone-alt # themify icon pack : https://themify.me/themify-icons
+      content : I make videos about performance, web best practices, and AMP.
+      link : #
+
+    - icon : ti-microphone-alt
       title : Talks
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-world # themify icon pack : https://themify.me/themify-icons
+      content : I give talks at events around the world. I like to meet people!
+      link : #
+
+    - icon : ti-world
       title : Conferences
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-palette # themify icon pack : https://themify.me/themify-icons
-      title : Graphic Design
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      title : Apps Development
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
-      
-    - icon : ti-pulse # themify icon pack : https://themify.me/themify-icons
-      title : Networking
-      content : Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+      content : Here are some of the conferences where I've spoken.
+      link : #
+
+    - icon : ti-pencil
+      title : Articles
+      content : I write articles and blog posts about the web.
+      link : #
+
+    - icon : ti-bolt
+      title : Speed Demon
+      content : An automated performance testing tool that anyone can use.
+      link : https://medium.com/dev-channel/introducing-speed-demon-a36d95dd0174
+
+    - icon : ti-music
+      title : Composer's Friend
+      content : I created a system that does its best to write original tunes.
+      link : #

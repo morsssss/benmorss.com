@@ -17,13 +17,15 @@
 			{{ range .tech_Item}}
 			{{"<!-- Single tech Item -->" | safeHTML }}
 			<article class="col-lg-4 col-md-6 col-12 wow fadeInUp" data-wow-duration="500ms">
-				<div class="tech-block text-center">
-					<div class="tech-icon text-center">
-						<i class="{{ .icon }}"></i>
+				<a href="{{ .link }}">
+					<div class="tech-block text-center">
+						<div class="tech-icon text-center">
+							<i class="{{ .icon }}"></i>
+						</div>
+						<h3>{{ .title | markdownify }}</h3>
+						<p>{{ .content | markdownify }}</p>
 					</div>
-					<h3>{{ .title | markdownify }}</h3>
-					<p>{{ .content | markdownify }}</p>
-				</div>
+				</a>
 			</article>
 			{{"<!-- End Single tech Item -->" | safeHTML }}
 			{{ end }}

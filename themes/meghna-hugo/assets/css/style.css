@@ -994,6 +994,17 @@ a:hover {
 .tech-block .tech-icon {
   margin-bottom: 10px;
   font-size: 50px;
+  -webkit-transform: translateZ(0px);
+  transform: translateZ(0px);
+  transition-duration: 0.3s;
+  transition-property: -webkit-transform;
+  transition-property: transform;
+  transition-property: transform, -webkit-transform;  
+}
+
+.tech-block:hover .tech-icon {
+  -webkit-transform: translateY(-10px);
+  transform: translateY(-10px);
 }
 
 /*=================================================================
