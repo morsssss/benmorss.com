@@ -28,7 +28,7 @@ tech:
       content : An automated performance testing tool that anyone can use.
       link : https://medium.com/dev-channel/introducing-speed-demon-a36d95dd0174
 
-    - icon : ti-music
+    - icon : ti-music-alt
       title : Composer's Friend
       content : I created a system that does its best to write original tunes.
       link : #

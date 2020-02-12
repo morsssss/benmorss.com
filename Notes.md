@@ -11,7 +11,7 @@
 * Upload songs for Pilgrims
 * Fix and upload songs for Hope Bombs
 * Write and edit meta descriptions
-* Create tech section
+* Create tech page
 * Design rock theory blog page
 * Include rock theory example CSS
 * Upload 1-2 rock theory articles
@@ -26,6 +26,9 @@
 * Make email submitting script
 * Make title for home page not repeat "Ben Morss"
 
+### Tech page
+* Use the slick carousel that's built in.
+
 ### Useful links:
 * [Front matter](https://gohugo.io/content-management/front-matter/)
 * [Page-level params](https://gohugo.io/variables/page/#page-level-params)
@@ -33,7 +36,6 @@
 * [Functions](https://gohugo.io/functions/index-function/)
 * [Themify icons](https://themify.me/themify-icons)
 * [Hugo Template Conditionals](https://forestry.io/blog/demystifying-hugo-conditionals/)
-
 
 ### Making a landing page
 * Take a layout from main page layouts... skills seems as promising as any. Just simplify that down to a two-column layout where one side has a photo and a player embed, and the other has text.
