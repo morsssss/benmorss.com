@@ -1,8 +1,7 @@
 {{ define "main" }}
 
 {{ partial "navigation.html" . }}
-<p>New music template!</p>
-<section id="music-single" class="parallax-section section section-bg overly">
+<section id="new-music" class="parallax-section section section-bg overly">
 	<div class="container">
 		<div class="row">
 			{{"<!-- section title -->" | safeHTML }}
@@ -19,25 +18,26 @@
 			{{"<!-- /section title -->" | safeHTML }}
 		</div>
 		<div class="row">
-			<div class="col-lg-6">
-				<h2>{{ .Title }}</h2>
-				{{ if .Params.Images }}
-				<img class="img-fluid" src="{{ .Params.Images | relURL }}" alt="image">
+			<ul class="col-lg-10 offset-lg-1">
+				{{ range .Site.Data.music.newmusic.pieces.item }}
+				<li>
+					<div class="line1 row">
+						<div class="col-12 col-lg-6 col-md-6 col-sm-6">
+							<h4>{{ .title | markdownify }}</h4>
+						</div>
+						<div class="col-8 col-lg-4 col-md-4 col-sm-3">
+							<h6><i>{{ .instrumentation | markdownify }}</i></h6>
+						</div>
+						<div class="col-4 col-lg-2 col-md-2 col-sm-3">
+							<h6><a href="{{ .link }}" target="_blank">Sheet music</a></h6>
+						</div>
+					</div>
+					<div class="line2">
+						<p>{{ .description | markdownify }}</p>
+					</div>
+				</li>
 				{{ end }}
-				{{ if .Params.Bandcamp_album }}
-				<iframe
-						style="border: 0; width: 390px; height: 373px;"
-						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album }}/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/"
-						seamless>
-					<a href="{{ .Params.Bandcamp_href }}">
-						{{ .Title }}
-					</a>
-				</iframe>
-				{{ end }}
-			</div>
-			<div class="col-lg-6">
-				{{ .Content }}
-			</div>
+			</ul>
 		</div>
 	</div>
 </section>

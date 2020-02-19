@@ -1,0 +1,11 @@
+pieces : 
+  item : 
+  - title : Four Songs of Khalil Gibran
+    instrumentation : bass voice, string quartet
+    link : foo.pdf
+    description : "Quite an *astonishing* description of an amazing piece with lots of **text** and even a bit of markdown for fun! Also it should wrap so we can see how it looks if I have a lot of things to say about a particular composition. And \"double quotes \" are good too."
+
+  - title : Five Songs of Khalil Gibran
+    instrumentation : bass voice, string quartet
+    link : foo.pdf
+    description : "Some amazing music"

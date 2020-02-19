@@ -2328,8 +2328,32 @@ figcaption {
 	Ben's pages styles
 ==================================================================*/
 
+ul {
+  list-style: none;
+}
+
 #music-single h2 {
   margin-bottom: 40px;
+}
+
+#new-music ul {
+  width: 100%;
+}
+
+#new-music li {
+  padding-bottom: 20px;
+}
+
+#new-music .line1 {
+  display: flex;
+}
+
+#new-music .line1 .col-lg-2 {
+  text-align: right;
+}
+
+#new-music .line1 h6, a {
+  padding-top: 6px;
 }
 
 /*=================================================================
