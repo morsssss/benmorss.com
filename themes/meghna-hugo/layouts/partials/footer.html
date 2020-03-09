@@ -35,7 +35,7 @@
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
-{{ "<!-- google analitycs -->" | safeHTML }}
+{{ "<!-- google analytics -->" | safeHTML }}
 {{ if .Site.Params.googleAnalyticsID }}
 <script>
   (function (i, s, o, g, r, a, m) {

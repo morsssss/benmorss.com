@@ -101,3 +101,7 @@ link = "https://www.youtube.com/results?search_query=ben+morss"
 [[params.social_Icon]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.linkedin.com/in/ben-morss-15bab15/"
+
+[[params.social_Icon]]
+icon = "ti-email"
+link = "/#contact"

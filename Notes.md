@@ -11,6 +11,8 @@
 * Upload songs for Pilgrims
 * Fix and upload songs for Hope Bombs
 * Write and edit meta descriptions
+* Populate new music section
+* Create crossover section
 * Create tech page
 * Design rock theory blog page
 * Include rock theory example CSS
@@ -21,6 +23,7 @@
 * Make band page for Big Lie Department
 * Make band page for Teen Satan
 * Upload songs for Teen Satan
+* Include demos for classical music
 
 ## TODO:
 * Make email submitting script

@@ -15,22 +15,32 @@
 					</h2>
 					<div class="border-meghna"></div>
 				</div>
+<!--				<h2>{{ .Title }}</h2> -->
 			</div>
 			{{"<!-- /section title -->" | safeHTML }}
 		</div>
 		<div class="row">
 			<div class="col-lg-6">
-				<h2>{{ .Title }}</h2>
 				{{ if .Params.Images }}
 				<img class="img-fluid" src="{{ .Params.Images | relURL }}" alt="image">
 				{{ end }}
 				{{ if .Params.Bandcamp_album }}
 				<iframe
-						style="border: 0; width: 390px; height: 373px;"
-						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album }}/size=large/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/"
+						style="border: 0; width: 390px; height: {{ .Params.Bandcamp_height }}px;"
+						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album }}/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/"
 						seamless>
 					<a href="{{ .Params.Bandcamp_href }}">
-						{{ .Title }}
+						{{ .Params.Bandcamp_title }}
+					</a>
+				</iframe>
+				{{ end }}
+				{{ if .Params.Bandcamp_album_2 }}
+				<iframe
+						style="border: 0; width: 390px; height: {{ .Params.Bandcamp_height_2 }}px;"
+						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album_2 }}/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/"
+						seamless>
+					<a href="{{ .Params.Bandcamp_href_2 }}">
+						{{ .Params.Bandcamp_title_2 }}
 					</a>
 				</iframe>
 				{{ end }}
