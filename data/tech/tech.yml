@@ -1,0 +1,23 @@
+videos:
+  item: 
+  - title : I/O talk
+    vid : 2342347
+
+  - title : CDS talk
+    vid : 24234
+
+
+talks:
+  item: 
+  - title : I/O talk
+    vid : 2342347
+
+  - title : CDS talk
+    vid : 24234
+
+
+conferences:
+  item:
+  - name: SMX West
+    date: 1/1/2018
+    href: #

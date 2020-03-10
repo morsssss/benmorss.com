@@ -9,10 +9,11 @@
 * ~ Figure out how to link to YouTube
 * ~ Add LinkedIn to social sharing buttons
 * Upload songs for Pilgrims
-* Fix and upload songs for Hope Bombs
+* ~ Fix and upload songs for Hope Bombs
+* ~ Make all music landing pages
 * Write and edit meta descriptions
 * Populate new music section
-* Create crossover section
+* Create crossover section, or just dump it
 * Create tech page
 * Design rock theory blog page
 * Include rock theory example CSS

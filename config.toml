@@ -1,5 +1,5 @@
 ################################# Default configuration ###################
-baseURL = "https://benmorss.com"
+baseURL = "https://benmorss.com/"
 title = "Ben Morss, human"
 theme = "meghna-hugo"
 publishDir = "public"

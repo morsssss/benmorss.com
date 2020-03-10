@@ -2332,8 +2332,22 @@ ul {
   list-style: none;
 }
 
+@media (max-width: 576px) {
+  .text-center-xs {
+    text-align: center;
+  }
+}
+
 #music-single h2 {
   margin-bottom: 40px;
+}
+
+#music-single .col-lg-6 {
+  margin-bottom: 30px;
+}
+
+#music-single p {
+  padding: 5px;
 }
 
 #new-music ul {

@@ -5,7 +5,12 @@ pieces :
     link : foo.pdf
     description : "Quite an *astonishing* description of an amazing piece with lots of **text** and even a bit of markdown for fun! Also it should wrap so we can see how it looks if I have a lot of things to say about a particular composition. And \"double quotes \" are good too."
 
-  - title : Five Songs of Khalil Gibran
-    instrumentation : bass voice, string quartet
+  - title : Marvin Gardens
+    instrumentation : piano solo
     link : foo.pdf
-    description : "Some amazing music"
+    description :  A fun, lively, funky jazzy piece packed with spontaneous interruptions, weird digressions, and surprises. Sure to wake up your audience after you play that 37-minute atonal dirge
+
+  - title : Looking through the Eyes of Polyurethane
+    instrumentation : violin/piano duet
+    link : foo.pdf
+    description :  We start with the piano intro to *Looking through the Eyes of Love*, but we quickly grind that into hamburger. Fun episodes develop, new tunes emerge, each instrument gets to be a start, and, as always, we build to a spectacular finale.

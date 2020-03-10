@@ -65,7 +65,7 @@ portfolio:
       
     - types : ["theatre", "featured"]
       image : images/music/steve-jobs.jpg
-      URL : music/coming-soon
+      URL : music/steve-jobs
       title : Steve Jobs and the Fundamental Beauty of the Universe
       content : Immersive conceptual techo-musical/opera
       
