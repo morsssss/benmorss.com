@@ -11,10 +11,12 @@
 * Upload songs for Pilgrims
 * ~ Fix and upload songs for Hope Bombs
 * ~ Make all music landing pages
-* Write and edit meta descriptions
+* ~ Write and edit meta descriptions
 * Populate new music section
+* Make or obtain PDFs for new music
+* Populate tech section
 * Create crossover section, or just dump it
-* Create tech page
+* ~ Create tech page
 * Design rock theory blog page
 * Include rock theory example CSS
 * Upload 1-2 rock theory articles

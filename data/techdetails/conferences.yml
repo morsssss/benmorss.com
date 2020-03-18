@@ -1,0 +1,13 @@
+conferences :
+  title : Conferences
+  description : "A few of the conferences I've spoken at recently:"
+  item :
+  - name : SMX East
+    date : 1/1/2018
+    location : New York
+    href : #
+  
+  - name : AMP Roadshow
+    location: Worldwide
+    date : many
+    href : #

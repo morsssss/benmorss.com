@@ -48,14 +48,17 @@ jQuery(function ($) {
 		});
 	}
 	/* ========================================================================= */
-	/*	Testimonial Carousel
+	/*	All Carousels
 	/* =========================================================================  */
 
-	$("#testimonials").slick({
-		infinite: true,
-		arrows: false,
-		autoplay: true,
-		autoplaySpeed: 4000
+	$(".carousel").slick({
+		arrows: true,
+		infinite: false,
+		autoplay: false,
+		variableWidth: true,
+		swipeToSlide: true,
+		touchMove: true,
+		lazyload: 'progressive',
 	});
 
 	/* ========================================================================= */

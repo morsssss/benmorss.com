@@ -24,6 +24,8 @@ URL = "plugins/animate-css/animate.css"
 URL = "plugins/magnific-popup/magnific-popup.css"
 [[params.plugins.css]]
 URL = "plugins/slick/slick.css"
+[[params.plugins.css]]
+URL = "plugins/slick/slick-theme.css"
 
 # js plugins
 [[params.plugins.js]]
@@ -73,7 +75,7 @@ URL = "plugins/wow/wow.min.js"
 [params]
 # Metadata
 description = "All about Ben Morss, technologist, musician, and overall human being. Hear his music! See him uncover the secret inner workings of your favorite pop songs! And read his writings about the Web."
-author = "Themefisher"
+author = "Ben Morss"
 # Google Analytics
 googleAnalyticsID = "Your ID"
 # post share

@@ -242,7 +242,7 @@ a:hover {
   }
 }
 
-@media (max-width: 768px) {
+@media (min-width: 481px) and (max-width: 768px) {
   .section {
     padding: 80px 0;
   }
@@ -2328,13 +2328,44 @@ figcaption {
 	Ben's pages styles
 ==================================================================*/
 
-ul {
-  list-style: none;
-}
-
 @media (max-width: 576px) {
   .text-center-xs {
     text-align: center;
+  }
+}
+
+.carousel {
+  white-space: nowrap;
+}
+
+@media (max-width: 480px) {
+  .carousel iframe {
+    width: 320px;
+    height: 180px;
+  }
+
+  .carousel .slick-prev {
+    z-index: 10000;
+    left: 8px;
+  }
+
+  .carousel .slick-prev {
+    z-index: 10000;
+    right: 8px;
+  }
+}
+
+@media (min-width: 481px) and (max-width: 640px) {
+  .carousel iframe {
+    width: 400px;
+    height: 225px;
+  }
+}
+
+@media (min-width: 641px) { 
+  .carousel iframe {
+    width: 560px;
+    height: 315px;
   }
 }
 
@@ -2351,6 +2382,7 @@ ul {
 }
 
 #new-music ul {
+  list-style: none;
   width: 100%;
 }
 
@@ -2368,6 +2400,14 @@ ul {
 
 #new-music .line1 h6, a {
   padding-top: 6px;
+}
+
+.conference-details h4 {
+  padding-bottom: 15px;
+}
+
+.conference-details ul {
+  padding-left: 36px;
 }
 
 /*=================================================================

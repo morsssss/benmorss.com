@@ -6,22 +6,22 @@ tech:
     - icon : ti-video-camera # themify icon pack : https://themify.me/themify-icons
       title : Videos
       content : I make videos about performance, web best practices, and AMP.
-      link : #
+      link : tech/details#videos
 
     - icon : ti-microphone-alt
       title : Talks
       content : I give talks at events around the world. I like to meet people!
-      link : #
+      link : tech/details#talks
 
     - icon : ti-world
       title : Conferences
       content : Here are some of the conferences where I've spoken.
-      link : #
+      link : tech/details#conferences
 
     - icon : ti-pencil
       title : Articles
       content : I write articles and blog posts about the web.
-      link : #
+      link : tech/details#articles
 
     - icon : ti-bolt
       title : Speed Demon
@@ -31,4 +31,4 @@ tech:
     - icon : ti-music-alt
       title : Composer's Friend
       content : I created a system that does its best to write original tunes.
-      link : #
+      link : tech/details#projects
