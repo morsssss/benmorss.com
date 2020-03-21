@@ -1,8 +1,30 @@
 videos :
   title : Videos
   item : 
+  - title : Load code at the right time
+    vid : eDd6Y6Z50Mg
+    
   - title : State of the Web
     vid : 4LJjD0gRb5w
 
   - title : AMP Up #1
     vid : U9R23wY_GqE
+
+  - title : AMP Up #3
+    vid : 4f9KU5VJpOU
+
+  - title : AMP Up #4
+    vid : W7VjXjPMjwA
+
+  - title: Courses
+    vid : qWpZbADJlgE
+
+  - title : Find your biggest website problems quickly
+    vid : 1rjBtsLTLLY
+
+  - title : High-performance image carousels
+    vid : Vz3CCBZWkG8
+
+  - title : Actions & Events
+    vid : NySyeCLrnSA
+ 

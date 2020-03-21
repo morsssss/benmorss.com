@@ -4,4 +4,4 @@ description: Check out new "classical" music - and just plain old new music that
 layout: new-music
 ---
 
-**New music**, or perhaps **Classical music**!
+A few of the pieces I've written. For more, [get in touch](/#contact)!

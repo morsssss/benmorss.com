@@ -1,8 +1,23 @@
 talks :
   title : Talks
   item : 
+  - title : CDS '19
+    vid : FiZSaqJR9mM
+
+  - title : I/O '19
+    vid : 6Lo7pVUCBeA
+
+  - title : GDD Europe
+    vid : Y3M9NjUGL7c
+
+  - title : GDD India
+    vid : hBaIPXizkCk
+
+  - title: BrazilJS
+    vid: F7nbWEu2-9A
+
   - title : Pubtelligence
     vid : 00GoBs6Etws
 
-  - title : NodeJS
+  - title : Node+JS Interactive
     vid : vkmkiqxIFcA

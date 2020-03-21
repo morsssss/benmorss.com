@@ -12,10 +12,10 @@
 * ~ Fix and upload songs for Hope Bombs
 * ~ Make all music landing pages
 * ~ Write and edit meta descriptions
-* Populate new music section
-* Make or obtain PDFs for new music
-* Populate tech section
-* Create crossover section, or just dump it
+* ~ Populate new music section
+* ~ Make or obtain PDFs for new music
+* ~ Populate tech section
+* ~ Create crossover section, or just dump it
 * ~ Create tech page
 * Design rock theory blog page
 * Include rock theory example CSS

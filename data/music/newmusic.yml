@@ -1,16 +1,60 @@
 pieces : 
   item : 
+  - title : The Heart is Beating
+    instrumentation : piano and prerecorded electro-band
+    link : the-heart-is-beating.pdf
+    description : A prog-rock fiesta in which a pianist battles a classic-rock track that rapidly spins out of control, sliding into unexpected variations, time shifts, and epic tunes. In the middle, the pianist sings about a new birth. (The vocals can also be prerecorded for shyer pianists)
+    
   - title : Four Songs of Khalil Gibran
-    instrumentation : bass voice, string quartet
-    link : foo.pdf
-    description : "Quite an *astonishing* description of an amazing piece with lots of **text** and even a bit of markdown for fun! Also it should wrap so we can see how it looks if I have a lot of things to say about a particular composition. And \"double quotes \" are good too."
+    instrumentation : bass voice and string quartet
+    link : khalil2.pdf
+    description : "A setting of four selections from Gibran’s *The Prophet*. 
+**1) Pain:** a rolling, serious, romantic meditation on the necessity of this difficult experience
+**2) The Scarecrow:** our Scherzo, playful, full of sudden shifts and joyous surprises
+**3) Defeat:** sardonic, cruelly triumphant, but leading into...
+**4) Love:** elegaic, lovely, calm, thoughtful, and ultimately resolute."
+
+  - title : There Could be Holy Showers
+    instrumentation : mixed chorus and piano
+    link : holy-showers.pdf
+    description : When Monteverdi defined his new, expressive style of solo vocal writing as *seconda prattica*, as opposed to the conventional polyphonic style of *prima prattica*, he wrote a few pieces in both styles, just to say, ha! I thought this was pretty cool. So when I wrote *Hold Me Now* as the ultimate expression of the style of [the Infinite Orchestra](http://infiniteorchestra.com/hear.html), I wrote a choral version too. *Hold Me Now* is inspired by the Hafiz poem [Daniel Ladinsky wonderfully translated](https://www.amazon.com/Gift-Hafiz/dp/0140195815) as *There Could Be Holy Fallout*. And the choral version uses the text more literally.
 
   - title : Marvin Gardens
     instrumentation : piano solo
-    link : foo.pdf
+    link : marvin-gardens.pdf
     description :  A fun, lively, funky jazzy piece packed with spontaneous interruptions, weird digressions, and surprises. Sure to wake up your audience after you play that 37-minute atonal dirge
 
   - title : Looking through the Eyes of Polyurethane
     instrumentation : violin/piano duet
-    link : foo.pdf
-    description :  We start with the piano intro to *Looking through the Eyes of Love*, but we quickly grind that into hamburger. Fun episodes develop, new tunes emerge, each instrument gets to be a start, and, as always, we build to a spectacular finale.
+    link : polyurethane.pdf
+    description :  We start with the piano intro to *Looking through the Eyes of Love*, but we quickly grind that into hamburger. Fun episodes develop, new tunes emerge, each instrument gets to be a star, and, as always, we build to a spectacular finale.
+
+  - title : Outburst
+    instrumentation : piano, four hands
+    link : outburst.pdf
+    description : One pianist kicks off a jazzy tune. The other pianist interrupts them with an arpeggio. The roles reverse The pianists tussle for a while, and then the music begins to fade. Suddenly it gets extremely loud! These sudden outbursts continue in thrilling fashion until everything merges together and drives toward yet another thrilling, foot-stomping ending.
+    
+  - title : Shehekhiyanu
+    instrumentation : female voice and piano
+    link : shehekhiyanu.pdf
+    description : A lovely, lyrical setting of the Hebrew text
+
+  - title : All the Beautiful Colored Signs
+    instrumentation : violin and female vocals
+    link : all-the-beautiful-colored-signs.pdf
+    description : A violinist and singer wax rhapsodic about the joys of just giving in, conforming, and hanging out at the mall.
+
+  - title : Star Wars opening crawl
+    instrumentation : mixed chorus and piano
+    link : star-wars.pdf
+    description : "“A long time ago in a galaxy far, far away...” Yes, I set the opening crawl to “Star Wars: A New Hope” to music. Can you say, “Epic”? If you want to perform this at your local choral concert or fan convention, get in touch."
+
+  - title : Don't Forget to Give a Hoot
+    instrumentation : singing cellist
+    link : dont-forget-to-give-a-hoot.pdf
+    description : "The cellist rocks out on a grungy bass line while philosophizing tunefully, leaving breaks for cool cello solos. “I’m gonna supersize my car. I’m gonna pay to name a car. I won’t give up without a rumble in the Bronx,” she sings. “Life can last forever or longer. Fear can make you stronger. Shut up and dance.”"
+
+  - title : Journal of Desires
+    instrumentation : paino solo
+    link : journal-of-desires.pdf
+    description : A grand, jazzy, majestic piano showcase. A journal of desires.

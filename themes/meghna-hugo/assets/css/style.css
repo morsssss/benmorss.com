@@ -2381,6 +2381,18 @@ figcaption {
   padding: 5px;
 }
 
+@media (max-width: 480px) {
+  #new-music .content {
+    padding-bottom: 24px;
+  }
+}
+
+@media (min-width: 481px) {
+  #new-music .content {
+    padding-bottom: 48px;
+  }
+}
+
 #new-music ul {
   list-style: none;
   width: 100%;
@@ -2407,7 +2419,25 @@ figcaption {
 }
 
 .conference-details ul {
+  max-width: 700px;
   padding-left: 36px;
+  margin-bottom: 0;
+}
+
+#articles ul {
+  padding-bottom: 0;
+}
+
+#projects .row {
+  margin: 0 25px;
+}
+
+#projects h5 {
+  padding-bottom: 10px;
+}
+
+#projects .content {
+  max-width: 700px;
 }
 
 /*=================================================================

@@ -59,7 +59,7 @@ portfolio:
     - types : ["classical"]
       image : images/music/burning-piano.jpg
       image_Thumb : images/music/burning-piano-300px.jpg
-      URL : music/coming-soon
+      URL : music/new-music
       title : Crossover
       content : Beethoven, but in "Bill and Ted's Excellent Adventure"
       

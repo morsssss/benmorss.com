@@ -1,13 +1,58 @@
 conferences :
   title : Conferences
-  description : "A few of the conferences I've spoken at recently:"
+  description : "A few of the conferences where I've spoken recently:"
   item :
+  - name : Node+JS Interactive
+    location: Montreal
+    date : 12/12/2019
+    href : https://njsi2019.sched.com/event/XeD6
+
+  - name: BrazilJS
+    location: Porto Allegre
+    date: 8/22/2019
+    href: https://braziljs.org/conf/
+
+  - name : MailCon
+    location: New York
+    date : 8/10/2019
+    href : https://mailcon.com/
+
+  - name : Next10x
+    location: Boston
+    date : 5/1/2019
+    href : https://www.stonetemple.com/next10x-conference/
+
+  - name : Pubcon
+    location: Fort Lauderdale
+    date : 3/6/2019
+    href : https://www.pubcon.com/pubcon-florida-2019
+
+  - name : Vietnam Web Summit
+    location: Hanoi
+    date : 12/13/2018
+    href : https://vietnamwebsummit.com/vi/trang-chu/
+
+  - name : Internet Summit
+    location: Raleigh
+    date : 11/15/2018
+    href : https://internetsummit.com/
+
+  - name : Pubcon
+    location: Las Vegas
+    date : 10/17/2018
+    href : https://www.pubcon.com/las-vegas-2018
+
+  - name : Digital Summit
+    location: Atlanta
+    date : 5/18/2018
+    href : https://atlanta.digitalsummit.com/
+
   - name : SMX East
-    date : 1/1/2018
+    date : 9/27/2017
     location : New York
-    href : #
+    href : https://marketinglandevents.com/smx/east/
   
   - name : AMP Roadshow
-    location: Worldwide
-    date : many
-    href : #
+    location: US, China, Nigeria, Kenya, Pakistan, Argentina, Brazil, Colombia, Germany, France, Spain, England, etc
+    date : 2017-2020
+    href : https://amp.dev/events/amp-roadshow/
