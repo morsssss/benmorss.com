@@ -8,7 +8,6 @@
 * ~ Design classical landing page
 * ~ Figure out how to link to YouTube
 * ~ Add LinkedIn to social sharing buttons
-* Upload songs for Pilgrims
 * ~ Fix and upload songs for Hope Bombs
 * ~ Make all music landing pages
 * ~ Write and edit meta descriptions
@@ -17,16 +16,24 @@
 * ~ Populate tech section
 * ~ Create crossover section, or just dump it
 * ~ Create tech page
+* ~ Set up comments
 * Design rock theory blog page
-* Include rock theory example CSS
-* Upload 1-2 rock theory articles
-* Google Analytics
+  - ~ center blog images on home page
+  - ~ fix images on main blog page
+  - ~ how do people ever get to main blog page?
+  - insert link in each blog post to main blog page
+  - ~ remove sample blog entries
+  - fix up existing posts
+* ~ Include rock theory example CSS
+* ~ Upload 1-2 rock theory articles
+* ~ Google Analytics
 
 ## MORE TASKS
 * Make band page for Big Lie Department
 * Make band page for Teen Satan
 * Upload songs for Teen Satan
 * Include demos for classical music
+* Upload songs for Pilgrims
 
 ## TODO:
 * Make email submitting script

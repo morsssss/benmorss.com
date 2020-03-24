@@ -2,16 +2,23 @@
 
 {{ partial "navigation.html" . }}
 
-<section class="section">
+<section class="section-sm" id="blogpost">
+  <div class="text-center col-lg-12 more-posts">
+    <a href="{{ `blog` | absLangURL }}">See all posts</a>
+  </div>
   <div class="container">
     <div class="row">
       <div class="col-lg-8 offset-lg-2 text-center">
         <h1>{{ .Title }}</h1>
         <ul class="list-inline mb-50">
-          <li class="list-inline-item"><a href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author }}</a></li>
+          <li class="list-inline-item">{{ .Params.Author }}</li>
           <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
         </ul>
-        <img class="img-fluid mb-50" src="{{ .Params.Image | absURL }}" alt="blog-image">
+        <img class="img-fluid hero"
+             src="{{ .Params.ImageLarge | absURL }}" 
+             srcset="{{ .Params.ImageSmall | absURL }} 480w, {{.Params.ImageLarge | absURL }} 800w"
+             sizes="(max-width: 480px) 480px, 800px"
+             alt="image for {{ .Params.ImageDescription }}">
       </div>
       <div class="col-lg-8 offset-lg-2">
         <div class="post-single-content">
@@ -20,6 +27,10 @@
         {{ if .Site.Params.postShare }}
         {{ partial "post-share.html" . }}
         {{ end }}
+        <div class="all-post text-center col-lg-12">
+          <a class="btn btn-main"
+            href="{{ `blog` | absLangURL }}">Seymour posts</a>
+        </div>
         <!-- comments -->
         <div class="mt-5">
           {{ template "_internal/disqus.html" . }}

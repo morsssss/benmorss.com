@@ -6,8 +6,8 @@
 			<div class="col-lg-12">
 				{{"<!-- section title -->" | safeHTML}}
 				<div class="title text-center wow fadeInDown">
-					<h2>{{ with i18n "blogTitle" }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
-						{{ with i18n "blogTitle" }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
+					<h2>{{ with .Site.Params.blogTitle }} {{ index (split . " ") 0 }} {{ end }}<span class="color">
+						{{ with .Site.Params.blogTitle }} {{ index (split . " ") 1 }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
 			</div>
@@ -18,7 +18,9 @@
 			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
 				<div class="post-block">
 					<div class="media-wrapper">
-						<img src="{{ .Params.Image | absURL }}" alt="post-image" class="img-fluid">
+						<a href="{{ .Permalink }}">
+							<img src="{{ .Params.ImageSmall | absURL }}" alt="blog post image" class="img-fluid">
+						</a>
 					</div>
 
 					<div class="content">
@@ -33,7 +35,7 @@
 
 			<div class="all-post text-center col-lg-12">
 				<a class="btn btn-main"
-					href="{{ `blog` | absLangURL }}">See All Posts, Pleez</a>
+					href="{{ `blog` | absLangURL }}">See All Posts!</a>
 			</div>
 		</div>
 	</div>

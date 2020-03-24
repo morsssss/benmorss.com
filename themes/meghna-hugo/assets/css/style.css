@@ -2440,6 +2440,47 @@ figcaption {
   max-width: 700px;
 }
 
+@media (min-width: 769px) {
+  #blogpost.section {
+    padding-top: 70px;
+  }
+}
+
+#blogpost h4 {
+  margin-bottom: .75rem;
+  margin-top: 2.5rem;
+}
+
+#blogpost .list-inline-item:not(:last-child) {
+  color: #afbac4;
+  margin-right: 1rem;
+}
+
+#blogpost .more-posts {
+  padding-bottom: 20px;
+}
+
+#blogpost .more-posts a {
+  color: #57bccc;
+  text-transform: uppercase;
+}
+
+@media (max-width: 480px) {
+  #blogpost img.hero {
+    margin-bottom: 35px;
+  }
+}
+
+@media (min-width: 481px) {
+  #blogpost img.hero {
+    margin-bottom: 50px;
+  }
+}
+
+.media-wrapper {
+  text-align: center;
+}
+
 /*=================================================================
 	Ben's music example styles
 ==================================================================*/
