@@ -1,0 +1,14 @@
+[build.environment]
+  HUGO_VERSION = "0.60.1"
+  HUGO_THEME = "repo"
+
+[build.processing.css]
+  bundle = true
+  minify = true
+
+[build.processing.js]
+  bundle = true
+  minify = true
+
+[build.processing.images]
+  compress = true

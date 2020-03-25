@@ -21,7 +21,7 @@
   - ~ center blog images on home page
   - ~ fix images on main blog page
   - ~ how do people ever get to main blog page?
-  - insert link in each blog post to main blog page
+  - ~ insert link in each blog post to main blog page
   - ~ remove sample blog entries
   - fix up existing posts
 * ~ Include rock theory example CSS
@@ -29,6 +29,10 @@
 * ~ Google Analytics
 
 ## MORE TASKS
+* Make email submitting script
+* Move audio samples to benmorss.com
+* Set up Netlify to compress, minify, etc
+* Compress images
 * Make band page for Big Lie Department
 * Make band page for Teen Satan
 * Upload songs for Teen Satan
@@ -36,7 +40,6 @@
 * Upload songs for Pilgrims
 
 ## TODO:
-* Make email submitting script
 * Make title for home page not repeat "Ben Morss"
 
 ### Tech page
