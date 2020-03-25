@@ -3,8 +3,8 @@ cta:
   enable : true
   bg_Image : "images/backgrounds/bg-1.jpg"
   title : "Here's a cool brick wall"
-  content : "It's a wall made entirely of bricks! I wish I had something better to do with this section."
+  content : "It's a wall made entirely of bricks! I have no idea why it's here."
   button:
     enable : true
-    label : "Skip ahead to music analysis"
+    label : "Skip ahead to Rock Theory"
     link : "#blog"
