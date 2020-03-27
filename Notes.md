@@ -29,9 +29,10 @@
 * ~ Google Analytics
 
 ## MORE TASKS
-* Make email submitting script
+* ~Make email submitting script
+* Check analytics
 * Move audio samples to benmorss.com
-* Set up Netlify to compress, minify, etc
+* ~Set up Netlify to compress, minify, etc
 * Compress images
 * Make band page for Big Lie Department
 * Make band page for Teen Satan

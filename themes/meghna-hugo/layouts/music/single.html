@@ -27,7 +27,7 @@
 				{{ if .Params.Bandcamp_album }}
 				<iframe
 						style="border: 0; width: 375px; height: {{ .Params.Bandcamp_height }}px;"
-						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album }}/size=large/bgcol=ffffff/linkcol=0687f5/{{ if ne .Params.Bandcamp_artwork "false" }}artwork=none/{{ end }}transparent=true/"
+						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album }}/size=large/bgcol=ffffff/linkcol=0687f5/{{ if eq .Params.Bandcamp_artwork false }}artwork=none/{{ end }}transparent=true/"
 						seamless>
 					<a href="{{ .Params.Bandcamp_href }}">
 						{{ .Params.Bandcamp_title }}
@@ -37,7 +37,7 @@
 				{{ if .Params.Bandcamp_album_2 }}
 				<iframe
 						style="border: 0; width: 375px; height: {{ .Params.Bandcamp_height_2 }}px;"
-						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album_2 }}/size=large/bgcol=ffffff/linkcol=0687f5/{{ if ne .Params.Bandcamp_artwork_2 "false" }}artwork=none/{{ end }}transparent=true/"
+						src="https://bandcamp.com/EmbeddedPlayer/album={{ .Params.Bandcamp_album_2 }}/size=large/bgcol=ffffff/linkcol=0687f5/{{ if eq .Params.Bandcamp_artwork_2 false }}artwork=none/{{ end }}transparent=true/"
 						seamless>
 					<a href="{{ .Params.Bandcamp_href_2 }}">
 						{{ .Params.Bandcamp_title_2 }}
