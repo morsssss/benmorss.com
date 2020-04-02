@@ -86,7 +86,7 @@ blogTitle = "Rock Theory"
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/ben-in-green-small.jpg"
+preloader = "images/ben-in-green-small.png"
 
 ############################# social icons ##########################
 [[params.social_Icon]]

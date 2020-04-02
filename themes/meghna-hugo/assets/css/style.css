@@ -290,6 +290,12 @@ a:hover {
   justify-content: center;
 }
 
+.preloader img {
+  animation:spin 3s linear infinite;
+}
+
+@keyframes spin { 100% { transform:rotate(360deg); } }
+
 .title {
   padding-bottom: 60px;
 }
