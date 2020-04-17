@@ -53,6 +53,7 @@
 * [Functions](https://gohugo.io/functions/index-function/)
 * [Themify icons](https://themify.me/themify-icons)
 * [Hugo Template Conditionals](https://forestry.io/blog/demystifying-hugo-conditionals/)
+* [CSS dead code eliminator for Go](https://github.com/client9/csstool)
 
 ### Making a landing page
 * Take a layout from main page layouts... skills seems as promising as any. Just simplify that down to a two-column layout where one side has a photo and a player embed, and the other has text.

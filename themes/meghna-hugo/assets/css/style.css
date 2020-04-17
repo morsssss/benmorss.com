@@ -294,7 +294,8 @@ a:hover {
   animation:spin 3s linear infinite;
 }
 
-@keyframes spin { 100% { transform:rotate(360deg); } }
+@keyframes spin { 100% { transform:rotate(360deg)
+} }
 
 .title {
   padding-bottom: 60px;
@@ -597,7 +598,8 @@ a:hover {
   border-bottom: 2px solid transparent;
   transition: .5s all;
   margin-bottom: 20px;
-  height: 400px; /* added by ben, could also be removed */
+  height: 400px
+  /* added by ben, could also be removed */
 }
 
 .about .block:hover {
@@ -1028,7 +1030,8 @@ a:hover {
   transition-duration: 0.3s;
   transition-property: -webkit-transform;
   transition-property: transform;
-  transition-property: transform, -webkit-transform;  
+  transition-property: transform, -webkit-transform
+   
 }
 
 .tech-block:hover .tech-icon {
@@ -2481,6 +2484,10 @@ figcaption {
   }
 }
 
+#blogpost {
+  color: #a3afba;
+}
+
 #blogpost h4 {
   margin-bottom: .75rem;
   margin-top: 2.5rem;
@@ -2491,6 +2498,10 @@ figcaption {
   margin-right: 1rem;
 }
 
+#blogpost .list-inline-item {
+  color: #737f8a;
+}
+
 #blogpost .more-posts {
   padding-bottom: 20px;
 }
@@ -2498,6 +2509,7 @@ figcaption {
 #blogpost .more-posts a {
   color: #57bccc;
   text-transform: uppercase;
+  font-size: 1.25rem;
 }
 
 @media (max-width: 480px) {
@@ -2516,23 +2528,65 @@ figcaption {
   text-align: center;
 }
 
+.dsq-brlink {
+  color: #999;
+  font-size: 9px;
+}
+
 /*=================================================================
 	Ben's music example styles
 ==================================================================*/
 				
-code { color: #0B0042; font-family: Courier,"Courier New",sans-serif,monospace;}
+code { font-family: Courier,"Courier New",sans-serif,monospace;}
 				
-.measures { color: #0B0042; }
-.measures td { border: 2px double #668; min-width: 40px; padding: 7px 2px; text-align: center; color: #225; }
-.measures b { color: #225; }
+.measures td {
+  border: 2px double #668;
+  min-width: 40px;
+  padding: 7px;
+  text-align: center;
+}
 
-.score  { color: #0B0042; }
-.score td { border: 2px double #668; min-width: 40px; padding: 7px; text-align: left; color: #225; }
+.score { 
+  color: #0B0042;
+}
 
-.musicExample { clear: both; margin: 15px 0 40px; overflow: hidden;}
-.musicExample.oneElement table, .musicExample .score { margin: 0 auto; }
-.musicExample.oneElement audio { display: block; margin: 0 auto; }
-.musicExample.twoElements table { float: left; margin-left: 15px; }
-.musicExample.twoElements audio { float: right; margin-right: 15px; width: 250px; }
+.score td {
+  border: 2px double #668;
+  min-width: 40px;
+  padding: 7px;
+  text-align: left;
+}
+
+.musicExample { 
+  margin: 20px 0 35px;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-between;
+  flex-flow: wrap;
+  align-items: center;
+}
+
+.musicExample.oneElement table, .musicExample .score {
+   margin: 0 auto;
+}
+
+@media (min-width: 641px) { 
+  .musicExample.twoElements {
+    padding: 0 20px;
+  }
+}
+
+.musicExample.twoElements table {
+  max-width: max-content;
+  margin: 0 10px;
+}
+
+.musicExample.twoElements audio {
+  flex-grow: 1;
+  width: 40%;
+  max-width: 300px;
+  margin: 18px 0;
+  padding: 0 10px;
+}
 
 /*# sourceMappingURL=maps/style.css.map */
