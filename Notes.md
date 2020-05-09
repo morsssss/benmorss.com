@@ -30,10 +30,10 @@
 
 ## MORE TASKS
 * ~Make email submitting script
-* Check analytics
-* Move audio samples to benmorss.com
+* ~ Check analytics
+* ~ Move audio samples to benmorss.com
 * ~Set up Netlify to compress, minify, etc
-* Compress images
+* ~ Compress images
 * Make band page for Big Lie Department
 * Make band page for Teen Satan
 * Upload songs for Teen Satan
@@ -54,6 +54,9 @@
 * [Themify icons](https://themify.me/themify-icons)
 * [Hugo Template Conditionals](https://forestry.io/blog/demystifying-hugo-conditionals/)
 * [CSS dead code eliminator for Go](https://github.com/client9/csstool)
+* [MacOS keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+* [Basic editing in VSCode](https://code.visualstudio.com/docs/editor/codebasics)
+
 
 ### Making a landing page
 * Take a layout from main page layouts... skills seems as promising as any. Just simplify that down to a two-column layout where one side has a photo and a player embed, and the other has text.
