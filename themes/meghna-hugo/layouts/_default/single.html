@@ -27,6 +27,11 @@
         {{ if .Site.Params.postShare }}
         {{ partial "post-share.html" . }}
         {{ end }}
+        <form name="Subscribomnia" class="form-meghna" method="post" role="form" data-netlify="true">
+          <label for="email">Enter your email to subscribe:</label>
+          <input type="email" placeholder="email@address.net" class="form-control" name="email" id="email">
+          <button type="submit" id="contact-submit" class="btn btn-transparent" value="Submit">Submit</button>
+        </form>
         <div class="all-post text-center col-lg-12">
           <a class="btn btn-main"
             href="{{ `rock-theory` | absLangURL }}">Seymour posts</a>

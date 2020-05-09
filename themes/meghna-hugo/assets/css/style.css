@@ -748,10 +748,6 @@ a:hover {
   }
 }
 
-.contact-form {
-  margin-bottom: 60px;
-}
-
 .form-meghna .form-control {
   background-color: transparent;
   border-radius: 0;
@@ -1327,7 +1323,7 @@ a:hover {
 }
 
 .all-post {
-  margin-top: 50px;
+  margin-top: 70px;
 }
 
 /*=================================================================
@@ -2509,6 +2505,25 @@ figcaption {
   color: #57bccc;
   text-transform: uppercase;
   font-size: 1.25rem;
+}
+
+#blogpost form {
+  margin-top: 25px;
+}
+
+#blogpost label {
+  padding-right: .5rem;
+}
+
+#blogpost input {
+  display: inline;
+  width: 250px;
+  margin: 0 2rem 1rem 0;
+}
+
+#blogpost #contact-submit {
+  width: 8rem;
+  padding: .5rem 0;
 }
 
 @media (max-width: 480px) {
