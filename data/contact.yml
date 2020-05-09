@@ -27,3 +27,7 @@ contact:
     - icon : ti-github
       info : "Github"
       link : "https://github.com/morsssss"      
+
+    - icon : ti-rss-alt
+      info : "RSS"
+      link : "/rock-theory/index.xml"

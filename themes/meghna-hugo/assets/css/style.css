@@ -1614,12 +1614,11 @@ input#e-mail,
 }
 
 .social-icon ul li a:hover i {
-  color: #fff;
   opacity: 1;
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #fff;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;

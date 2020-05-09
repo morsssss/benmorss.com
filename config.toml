@@ -108,3 +108,7 @@ link = "https://www.linkedin.com/in/ben-morss-15bab15/"
 [[params.social_Icon]]
 icon = "ti-email"
 link = "/#contact"
+
+[[params.social_Icon]]
+icon = "ti-rss"
+link = "rock-theory/index.xml"
