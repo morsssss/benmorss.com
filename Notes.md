@@ -42,6 +42,7 @@
 
 ## TODO:
 * Make title for home page not repeat "Ben Morss"
+* Why does menu get stuck open on mobile?
 
 ### Tech page
 * Use the slick carousel that's built in.
