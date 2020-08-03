@@ -112,3 +112,9 @@ link = "/#contact"
 [[params.social_Icon]]
 icon = "ti-rss"
 link = "rock-theory/index.xml"
+
+############################# markup ##########################
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
