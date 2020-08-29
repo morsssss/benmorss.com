@@ -1,0 +1,28 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "name": {{ .Title }},
+  "image": {{ .Params.imageLarge | absURL }},
+  "datePublished": {{ .PublishDate }},
+  "dateModified": {{ .Lastmod }},
+  "author": {
+    "@type": "Person",
+    "name": {{ .Params.author }}
+  },
+  "mainEntityOfPage": {
+     "@type": "WebPage",
+     "@id": "http://benmorss.com"   
+  },
+   "publisher": {
+    "@type": "Person",
+    "name": {{ .Site.Params.author }},
+    "logo": {
+      "@type": "ImageObject",
+      "url": {{ .Site.Params.schema.logo }}
+    }
+  },
+  "description": {{ .Summary | plainify | safeHTML }},
+  "keywords": [{{ range $i, $e := .Params.tags }}{{ if $i }}, {{ end }}{{ $e }}{{ end }}]
+}
+</script>

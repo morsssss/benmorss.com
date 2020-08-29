@@ -3,6 +3,9 @@ baseURL = "https://benmorss.com/"
 title = "Ben Morss, human"
 theme = "meghna-hugo"
 publishDir = "public"
+author = "Ben Morss"
+header = "Ben Morss"
+
 # post pagination
 paginate = "6"
 # post excerpt
@@ -70,7 +73,6 @@ URL = "plugins/wow/wow.min.js"
   weight = 5
 
 
-
 ############################# Default Parameters ##########################
 [params]
 # Metadata
@@ -113,8 +115,12 @@ link = "/#contact"
 icon = "ti-rss"
 link = "rock-theory/index.xml"
 
+[params.schema]
+logo = "apple-touch-icon.png"
+
 ############################# markup ##########################
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+

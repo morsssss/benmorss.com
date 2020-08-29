@@ -5,8 +5,17 @@ author: Ben Morss
 imageLarge: images/blog/manifesto_lg.jpg
 imageSmall: images/blog/manifesto_sm.jpg
 imageDescription: Karl Marx
+images:
+ - images/blog/manifesto_lg.jpg
 description: "A manifesto for the Rock Theory blog: what do we intend to do? Why is this different? Why does this matter?"
 summary: "A manifesto for the Rock Theory blog: what do we intend to do? Why is this different? Why is this a big deal?"
+tags:
+  - music analysis
+  - music theory
+  - pop music
+  - pop music theory
+  - pop music analysis
+  - ben morss
 ---
 
 #### What is a good song?

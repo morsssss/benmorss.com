@@ -5,8 +5,24 @@ author: Ben Morss
 imageLarge: images/blog/old-town-road_lg.jpg
 imageSmall: images/blog/old-town-road_sm.jpg
 imageDescription: Trent Reznor, YoungKio, Lil Nas X, and Billy Ray Cyrus
+images:
+  - images/blog/old-town-road_lg.jpg
 description: "The unlikely creation story of \"Old Town Road\" - and how does this song remain catchy even after you've heard it hundreds of times?"
 summary: "The unlikely journey of \"Old Town Road\", from sparse, barely tonal Nine Inch Nails instrumental to completely surprising ultra megahit."
+tags:
+  - music analysis
+  - music theory
+  - pop music
+  - pop music theory
+  - pop music analysis
+  - hip-hop
+  - Old Town Road
+  - Lil Nas X
+  - Trent Reznor
+  - YoungKio
+  - yeehaw agenda
+  - country music
+  - ben morss
 ---
 
 ### An unlikely hit
