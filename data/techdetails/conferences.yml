@@ -2,6 +2,16 @@ conferences :
   title : Conferences
   description : "A few of the conferences where I've spoken recently:"
   item :
+  - name : OpenJS World
+    location: online
+    date: 6/24/2020
+    href: https://events.linuxfoundation.org/openjs-world/program/schedule/
+
+  - name : DrupalCon
+    location: online
+    date: 7/16/2020
+    href: https://events.drupal.org/global2020/sessions/web-vitals-healthier-open-web
+
   - name : Node+JS Interactive
     location: Montreal
     date : 12/12/2019
