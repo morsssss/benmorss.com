@@ -415,6 +415,13 @@ a:hover {
   letter-spacing: 0.18rem;
 }
 
+/* Little tweak for iPhone 5 and its ilk so that menu fits on one line */
+@media (max-width: 320px) {
+  .navigation .logo {
+    font-size: 1.4rem;
+  }
+}
+
 .navigation .navigation-menu li a.active {
   color: #57cbcc;
 }
@@ -2505,6 +2512,7 @@ figcaption {
 
 #blogpost li {
   font-family: "Quattrocento Sans", sans-serif;
+  padding-bottom: .625rem;
 }
 
 #blogpost .list-inline-item:not(:last-child) {
@@ -2616,6 +2624,12 @@ code { font-family: Courier,"Courier New",sans-serif,monospace;}
   max-width: 300px;
   margin: 18px 0;
   padding: 0 10px;
+}
+
+audio:focus {
+  outline: none;
+  border: 2px dotted #aaf;
+  border-radius: 25px;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
