@@ -124,11 +124,11 @@ The move to `Bmi` at the start of the chorus is barely detectable. Without the b
 
 So - what if this song had been written in 2020? It might well have used the same chords in the chorus. Here’s how the end of the verse and the start of the chorus would sound:
 
-_(audio)_
+<audio controls src="/music/west-end-girls/weg-single-prog.mp3"></audio>
 
 This sounds completely acceptable. And no doubt a modern producer would do all sorts of interesting things to the arrangement and the vocals to give the chorus the lift it needs. But compare this to the song played with the actual chords:
 
-_(audio)_
+<audio controls src="/music/west-end-girls/weg-multi-prog.mp3"></audio>
 
 It’s subtle, but functionally quite different. As Tennant says, the chorus is [the part where the track “moved up”](https://www.theguardian.com/music/2020/jun/05/neil-tennant-west-end-girls-pet-shop-boys-greatest-british-no-1-of-all-time#:~:text=when%20[the%20track]%20moved%20up). Instead of sticking with the verse’s `i-iv` progression, it rises to a `v-iv` progression. This lends it a new energy; it lifts the song up. The chorus rises to `v`, and throughout the section, we wait for the chords to sink back down to a `i` or `I` chord. In other words, we’ve created tension, and the ear expects a resolution.
 
