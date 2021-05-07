@@ -25,7 +25,7 @@ tags:
   - ben morss
 ---
 
-#### Single-progession songs
+#### Single-progression songs
 
 These days, a typical top 40 song is built on a single chord progression. By this, I mean that the same pattern of chords repeats from the beginning of the song until its end. For convenience, let’s call songs like this “single-progression”. Songs in which the chord progression changes significantly, we’ll call “multi-progression”. (This is why I get the big bucks.) The point is, multi-progression songs have become rare - and I miss them.
 

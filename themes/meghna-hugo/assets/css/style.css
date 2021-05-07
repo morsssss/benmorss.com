@@ -2490,15 +2490,29 @@ figcaption {
   color: #a3afba;
 }
 
+#blogpost h2 {
+  margin-bottom: 1rem;
+  margin-top: 3.5rem;
+  font-weight: 900;
+  color: #a9efbf;
+}
+
 #blogpost h3 {
   margin-bottom: 1rem;
   margin-top: 3.5rem;
   font-weight: 700;
+  color: #b4d9c9;
+}
+
+#blogpost h2 + h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 #blogpost h4 {
   margin-bottom: .75rem;
   margin-top: 2.5rem;
+  color: #afc4c4;
 }
 
 #blogpost .small {

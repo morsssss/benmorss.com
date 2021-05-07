@@ -1,0 +1,5 @@
+{{ $audio := .Get 0 }}
+
+<div class="musicExample oneElement">
+	<audio controls="controls" src="/music/{{ $.Page.Params.audioFolder }}/{{ $audio }}.mp3"></audio>
+</div>

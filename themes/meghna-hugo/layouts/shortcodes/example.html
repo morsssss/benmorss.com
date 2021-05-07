@@ -1,0 +1,17 @@
+<!-- <div class="musicExample {{ cond (eq (.Get 1) "") "oneElement" "twoElements" }}"> -->
+<div class="musicExample twoElements">
+{{ $tableHTML := .Inner | markdownify }}
+{{ $class := .Get 0 }}
+{{ $audio := .Get 1 }}
+
+{{ $new := printf "<table class=\"%s\">" $class }}
+
+{{ $tableHTML := replace $tableHTML "<table>" $new }}
+{{ $tableHTML := replaceRE "(?s:<thead>.+</thead>)" "" $tableHTML }}
+
+{{ $tableHTML | safeHTML }}
+
+{{ with .Get 1 }}
+<audio controls="controls" src="/music/{{ $.Page.Params.audioFolder }}/{{ $audio }}.mp3"></audio>
+{{ end }}
+</div>
