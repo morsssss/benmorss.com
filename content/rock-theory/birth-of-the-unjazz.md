@@ -58,7 +58,7 @@ It’s important to note that “dissonance” is strongly determined by culture
 
 If pitches are an octave apart, the frequency ratio is 2:1. That sounds highly consonant! For pitches a fifth apart, the ratio is 3:2, and the fifth is almost always regarded as consonant as well.
 
-Pitches a fourth apart have a ratio of 4:3. With this slightly more complex ratio, this interval is a dissonance in certain contexts and a consonance in others. Oddly, although thirds are an even more complex 5:4 or 6:5, they’re more typically consonant in Western music. For example, in Renaissance polyphony, the fourth was a dissonance that needed to resolve down to a third, like this:
+Pitches a fourth apart have a ratio of 4:3. With this slightly more complex ratio, this interval is a dissonance in certain contexts and a consonance in others. Oddly, although thirds are an even more complex 5:4 or 6:5, they’re more typically consonant in Western music, likely because thirds are part of [the overtone series](https://en.wikipedia.org/wiki/Harmonic_series_(music)). For example, in Renaissance polyphony, the fourth was a dissonance that needed to resolve down to a third, like this:
 
 {{<audio "4-3">}}
 
