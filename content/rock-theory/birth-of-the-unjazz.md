@@ -74,7 +74,7 @@ Roughly speaking, pitches that are in the current harmony are consonant, and oth
 
 Today’s singing rappers and R&B singers use a variety of new ways to treat dissonance - either to resolve it or to simply normalize dissonances as consonances that require no resolution. As we see these phenomena in examples, we’ll describe each with a standard phrase. For clarity, we’ll put _each phrase_ in _italics_ and assign a characteristic emoji. So:
 
-*   ♻️ _ consonant once, consonant again:_ taking a tune that’s consonant over one chord and reusing it over chords where it’s dissonant
+*   ♻️ _consonant once, consonant again:_ taking a tune that’s consonant over one chord and reusing it over chords where it’s dissonant
 *   ⚖️  _stick with your scale_: using the same scale over all chords, whether it would traditionally fit or not
 *   🖕🏾 _singing the “wrong” scale_: choosing a scale that doesn’t quite match the chords, unless you’re thinking about traditional dissonances as consonances
 *   😎  _normalizing dissonant pitches as consonant_: training us to hear a traditionally dissonant pitch like the 6th as a consonance
@@ -84,7 +84,7 @@ Today’s singing rappers and R&B singers use a variety of new ways to treat dis
 We’ll also see harmonic ambiguity of a sort rarely seen in Western pop before. Here are two categories, with their phrases and emoji:
 
 *   🤷🏽‍♀️ _harmonic ambiguity_: we’re obscuring the chord progression or never defining it clearly, and we’re fine with that
-*   🌳 _root in the voice: _the voice contains the chord root, or, better still, as it’s louder and deeper than other sounds, it changes the root from what the instruments implied
+*   🌳 _root in the voice_: the voice contains the chord root, or, better still, as it’s louder and deeper than other sounds, it changes the root from what the instruments implied
 
 To sum up: even as modern pop incorporates jazz harmonies as they were used in 1970s funk and pop, adventurous R&B and hip-hop musicians have been extending pop’s harmonic language in ways that go beyond these influences. They’re exploring things that would have previously been regarded as dissonance, leaning into these dissonances and making them into new consonances in a way that I think has ever occurred in the top 40.
 
@@ -256,7 +256,7 @@ You’d think that the tune would then take a break from dissonance. Instead, it
 | D#<sup>7</sup> | G#m |
 {{</example>}}
 
-Yes, it leaps up a ninth from that low F# to a G#, the verse’s high point. That G# is _another _11th 📈, and it’s even more dissonant than the F# was over the C#m chord, since it occurs over a D# major triad that contains a clashing F-double-sharp. Fortunately our tortured ears are now treated to the first traditional dissonance resolution, as the G# resolves down to an F#. Of course, that F# does still clash horribly with the F-double-sharp in the chord. Ultimately we descend the ladder of thirds from F# through D# to rest on B, a nice consonant third over the G#m chord.
+Yes, it leaps up a ninth from that low F# to a G#, the verse’s high point. That G# is _another_ 11th 📈, and it’s even more dissonant than the F# was over the C#m chord, since it occurs over a D# major triad that contains a clashing F-double-sharp. Fortunately our tortured ears are now treated to the first traditional dissonance resolution, as the G# resolves down to an F#. Of course, that F# does still clash horribly with the F-double-sharp in the chord. Ultimately we descend the ladder of thirds from F# through D# to rest on B, a nice consonant third over the G#m chord.
 
 How can all these dissonant tones exist over the D# chord? It’s the principle of ⚖️ _stick with your scale_. As long as the melody consistently uses the G# minor scale, our ear can ignore dissonances that result from these tones being used over chords where they clash. It also helps that the only instrument that expresses the full chords is the synth harpsichord-like sound, which is mixed quietly, drowned out completely by drums, bass, and vocals. We hear the G# as an expressive upper neighbor to a consonant third, and the F# can be heard as a bluesy minor third.
 
@@ -411,7 +411,7 @@ This song is built on another diffuse, [ambient sample](https://brunosanfilippo.
 | Eb | |
 {{</example>}}
 
-After the song’s introduction, Mike Zombie, the producer, adds in a minimal amount of bass. The kick drum might include a bit of 808 bass moved down to an Eb. I can’t tell. Soon a swooping bass enters that avoids strongly defined pitches. So the song’s Eb tonality is defined quite loosely. It’s an example of _harmonic ambiguity _🤷🏽‍♀️.
+After the song’s introduction, Mike Zombie, the producer, adds in a minimal amount of bass. The kick drum might include a bit of 808 bass moved down to an Eb. I can’t tell. Soon a swooping bass enters that avoids strongly defined pitches. So the song’s Eb tonality is defined quite loosely. It’s an example of 🤷🏽‍♀️ _harmonic ambiguity_ .
 
 Drake performs most of this song in a sing-song style that’s part rapped, part pitched, which reminds my legit-music brain of the atonal classical composer Arnold Schoenberg’s [Sprechstimme](https://www.youtube.com/watch?v=qWYxRtoCAms). He hues closely to a pitch that’s sometimes A, sometimes Bb, sometimes nestled between. Generally I’d say he’s closer to the A. And that’s where he stays throughout the song. Yes, that’s right - he’s singing the tritone, one of the most dissonant intervals known to humankind - what the ancients called _[diablous in musica](https://www.npr.org/2017/10/31/560843189/the-unsettling-sound-of-tritones-the-devils-interval)._ I’ve never heard anything else like it.
 
@@ -432,7 +432,7 @@ It’s a nice melody that’s in a nice, traditional scale. It would even fit in
 
 But then it would sound like a conventional pop song. It would completely lose that off-kilter, jazz-like, soul-like dissonance! It would be too consonant, more conventional, more boring. Instead, he helps to pioneer the technique of 🖕🏾 _singing in the wrong scale_.
 
-The eighth time he sings the melody, in order to return to the main song, he ends higher, simply descending F - Eb - D. Yes, he ends on the major seventh, another utter dissonance. But, by now, he’s 😎 _normalized_ this _dissonant pitch _as a _consonance. _
+The eighth time he sings the melody, in order to return to the main song, he ends higher, simply descending F - Eb - D. Yes, he ends on the major seventh, another utter dissonance. But, by now, he’s 😎 _normalized_ this _dissonant pitch as a consonance._
 
 The coolest thing of all is that this song, for all of its harmonic quirkiness - or perhaps because of it - was [a top 10 hit in the U.S.](https://en.wikipedia.org/wiki/Started_from_the_Bottom)
 
@@ -441,3 +441,9 @@ Although these ways of treating dissonance originate in jazz, to me, this music 
 Its roots lies in jazz. But it’s not jazz. Thus, we call it **“unjazz”!**
 
 I can’t wait to trace how unjazz develops from “Nothing but the Same” to the present. We’ll look at music by Rihanna, more Drake, SZA, and ultimately Doja Cat and Lil Nas X. For this, we’ll have to wait for part two. Tune in then… for… the rest of the unjazz!
+
+<div style="font-size:12px; font-style:italic; margin-top: 30px">
+
+(Thanks to [SameOldShawn](https://twitter.com/SameOldShawn) for patiently answering my questions about the history of hip-hop as I wrote this article.)
+
+</div>
