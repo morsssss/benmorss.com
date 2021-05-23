@@ -72,7 +72,7 @@ Roughly speaking, pitches that are in the current harmony are consonant, and oth
 
 {{<audio "7-8">}}
 
-Today’s singing rappers and R&B singers use a variety of new ways to treat dissonance - either to resolve it or to simply normalize dissonances as consonances that require no resolution. As we see these phenomena in examples, we’ll describe each with a standard phrase. For clarity, we’ll put _each phrase_ in _italics_ and assign a characteristic emoji. So:
+Today’s singing rappers and R&B singers use a variety of new ways to treat dissonance - either to resolve it or to simply normalize dissonances as consonances that require no resolution. As we see these phenomena in examples, we’ll describe each with a standard phrase. For clarity, we’ll put _each phrase_ in _italics_ and assign each a characteristic emoji. So:
 
 *   ♻️ _consonant once, consonant again:_ taking a tune that’s consonant over one chord and reusing it over chords where it’s dissonant
 *   ⚖️  _stick with your scale_: using the same scale over all chords, whether it would traditionally fit or not
