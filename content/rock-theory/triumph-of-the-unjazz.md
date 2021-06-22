@@ -299,7 +299,7 @@ In [“God’s Plan”](https://www.youtube.com/watch?v=xpVfcZ0ZcFM), Drake once
 
 The song is based on a distant-sounding organ which loosely defines Am<sup>9</sup> and GM<sup>9</sup> chords. (This organ is played a little north of A-440 tuning, so these pitches are approximate. And I can't hear whether that C in the first chord is really there.)
 
-_(play sample) (use musical notation)_
+{{<image "triumph/gods-plan-organ.png" 632>}}
 
 This sample loosely defines a G tonality, but the chords sound as much like CM<sup>7</sup> and Bm<sup>7</sup> as they do like Am<sup>9</sup> and GM<sup>9</sup>. We don’t really hear what key we’re in until Drake’s vocals enter. This happens at 0:13, as Drake’s voice descends eight times from E down to G in the G major scale:
 
@@ -325,11 +325,11 @@ This song is not as 🤷🏽‍♀️ harmonically ambiguous as others we’ve l
 
 Let’s start with the instrumental sample, played by the [conservatory-trained Rogét Chahayed](https://blog.native-instruments.com/roget-chahayed-interview/) . This riff’s surface simplicity masks a deeper complexity, a common feature of higher-quality pop music. It starts with a FM<sup>7</sup> - Em<sup>7</sup> - Dm<sup>7</sup> progression:
 
-_(notation)_
+{{<image "triumph/laugh-now-half.png" 611>}}
 
 This pattern starts to repeat, but before it finishes repeating, it cuts itself off two beats short, then sounds like it’s starting to repeat with slightly different chords, before cutting _that_ off and actually repeating everything that’s just happened. Here’s the entire sample:
 
-_(notation)_
+{{<image "triumph/laugh-now-full.png" 734>}}
 
 This simple trick means we’re always a bit off-kilter, not quite sure when the pattern starts and unclear on the downbeat. It makes a standard four-bar phrase in 4/4 feel like it dips into 6/4. When the drums enter, the rhythmic ambiguity only grows. Switched On Pop has [covered this](https://switchedonpop.com/episodes/doc-death-of-the-chorus-with-emily-warren) in excellent detail.
 
@@ -460,7 +460,7 @@ The instrumental, by [Al Shux and Sounwave](https://www.billboard.com/articles/c
 
 The hook SZA sings over this falls into two four-measure overlapping phrases. Here’s the first:
 
-_(notation)_
+{{<image "triumph/all-the-stars-1.png" 735>}}
 
 She with a rapid climb to the 9th scale degree on the B<span class="flat">♭</span>. It’s another example of climbing the ☰ _ladder of thirds_, this time from the 5th degree (E<span class="flat">♭</span>) to the 7th (G) to the 9th (B<span class="flat">♭</span>). In the first full measure, over the A<span class="flat">♭</span>, she heads back down to E<span class="flat">♭</span>, but with a strong emphasis on the F.
 
@@ -483,7 +483,7 @@ Let me remind you that SZA’s doing this not in an experimental indie recording
 
 Well, certainly it’s an example of the power of the ☰ _ladder of thirds_ - like we saw [in part one](https://benmorss.com/rock-theory/birth-of-the-unjazz/#:~:text=When%20hip-hop%20first%20seeped) in “No Scrubs”. Anchoring off the highly consonant F over an Fmi chord, SZA can descend by thirds to any notes she wants:
 
-_(diagram showing black-note D B<span class="flat">♭</span> G anchoring down off an white-note F)_
+{{<image "triumph/all-the-stars-diagram.png" 312>}}
 
 Next, now that she’s established these notes as acceptable, she uses the time-honored pop principle of ♻️ _ consonant once, consonant again_ to sing them over the A<span class="flat">♭</span> chord, even though all four pitches are traditional dissonances there.
 
@@ -500,7 +500,7 @@ These pitches fit more reasonably with SZA’s melody. Finally, again, modern pr
 
 In any case, I believe that these highly dissonant four measures are what give the next four measures their power. Overlapping with the end of the previous phrase, the new one goes like this:
 
-_(notation)_
+{{<image "triumph/all-the-stars-2.png" 734>}}
 
 The second phrase takes after the first phrase, recycling the same rhythm and using a similar melodic contour that features repeated descents in thirds. But now it’s strongly consonant. Picking up on the B<span class="flat">♭</span> of the first phrase, the second phrase jumps right up to a high C, a super-strong arrival on the first scale degree of C minor. In measure 5, it moves gently down to B<span class="flat">♭</span>. In measure 6, 7, and 8, SZA descends D-B<span class="flat">♭</span>-G, outlining a G minor chord. This echoes the D-B<span class="flat">♭</span>-G of measures 2, 3, and 4, normalizing the previously dissonant tones as consonances.
 
@@ -517,7 +517,7 @@ SZA’s other work features similar unjazz adventures. I was particularly struck
 
 The track is quite sparse and loose, leaving SZA plenty of room to explore. The Neptunes’ instrumental is based on two stunningly 🤷🏽‍♀️ ambiguous chords. I can’t clearly make out all the pitches in each chord, and the second chord’s bass is so low that it’s pretty indistinguishable. But the chords are something like this:
 
-_(notation) A<span class="flat">♭</span> B<span class="flat">♭</span> C E<span class="flat">♭</span> G over B<span class="flat">♭</span> to E F G B<span class="flat">♭</span> C D over C_
+{{<image "triumph/hit-different-chords.png" 380>}}
 
 What are these clusters? The first is some flavor of a B<span class="flat">♭</span><sup>13</sup>. The second chord might be a Cm<sup>11</sup>, but you really can’t hear the bass. You might just as easily hear it as an E<span class="flat">♭</span>M<sup>7</sup> chord with some upper extensions. It doesn’t actually matter, and it probably didn’t matter to SZA. Like Drake, I imagine she heard a tonally ambiguous instrumental and picked out a scale that matched it, in this case, an E<span class="flat">♭</span> major scale.
 
@@ -561,13 +561,13 @@ But unjazz has seeped into the top 40 nonetheless! Let’s look at two recent ex
 
 Doja Cat’s 2019 song [”Streets”](https://www.youtube.com/watch?v=jJdlgKzVsnI) is built on a sample that uses the E minor scale, sparse drums, and a thick, very low bass. The bass plays the note C, then slides down to a B that’s so low it only vaguely implies any sense of pitch. In the third bar, the bass moves up to E. In the third beat of the fourth bar, it returns to that very low B-like note, which sounds almost exactly like the original C, obscuring our sense of downbeat. When played on a piano, the whole thing sounds like this:
 
-_[play it] [notation]_
+{{<image "triumph/streets-riff.png" 666>}}
 
 No section clearly plays the role of a chorus. If I were forced to choose, I’d pick the first vocal section, at 0:32 in the track, as it’s vocally simple, repeating the words “like you.” This could have even been the song’s title, if it wasn’t already named “Streets” after the opening sample, [from B2K “Streets is Callin'”](https://www.whosampled.com/Doja-Cat/Streets/). 
 
 At 0:52, the music intensifies slightly as a faster vocal line is introduced. The vocal harmonies are diffuse and a bit hard to make out, but go something like this, mostly in parallel fifths:
 
-_(notation)_
+{{<image "triumph/streets-harmonies.png" 465>}}
 
 The top line emphasizes the note F#, returning to it on every downbeat. Over the E minor, this F# is a 2nd or 9th, a traditional dissonance, but a frequent unjazz consonance. But before we hear the F# over the E minor chord, we hear it over a C. There, not only is the F# an even more dissonant tritone, but it’s reinforced by the equally dissonant B in the harmony. This is another example where ♻️ a melody that’s consonant over one chord is then treated as consonant in a context would it normally be dissonant - except that the dissonant chord occurs first, and the dissonance is justified after the fact. The parallel fifths in the harmony introduce further dissonances, but it’s all good as long as we ⚖️  _stick with the same scale_ throughout.
 
