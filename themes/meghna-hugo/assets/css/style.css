@@ -2592,13 +2592,22 @@ figcaption {
 	Ben's music example styles
 ==================================================================*/
 				
-code { font-family: Courier,"Courier New",sans-serif,monospace;}
+code {
+  font-family: Courier,"Courier New",sans-serif,monospace;
+}
+
+.flat {
+  font-size: .875em;
+  margin-left: -3px;
+  margin-right: -3px;
+}
 				
 .measures td {
   border: 2px double #668;
   min-width: 40px;
   padding: 7px;
   text-align: center;
+  white-space: nowrap;
 }
 
 .score td {
@@ -2606,6 +2615,7 @@ code { font-family: Courier,"Courier New",sans-serif,monospace;}
   min-width: 40px;
   padding: 7px;
   text-align: left;
+  white-space: nowrap;
 }
 
 .musicExample { 

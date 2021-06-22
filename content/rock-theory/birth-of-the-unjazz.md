@@ -17,8 +17,8 @@ tags:
   - pop music theory
   - pop music analysis
   - Drake
-  - SZA
-  - Rihanna
+  - No Scrubs
+  - TLC
   - dissonance
   - jazz
   - R&B
