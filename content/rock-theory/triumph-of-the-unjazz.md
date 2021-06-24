@@ -1,6 +1,6 @@
 ---
 title: 'Triumph of the Unjazz'
-date: 2021-06-23
+date: 2021-06-24
 author: Ben Morss
 audioFolder: triumph
 imageLarge: images/blog/triumph_lg.jpg
