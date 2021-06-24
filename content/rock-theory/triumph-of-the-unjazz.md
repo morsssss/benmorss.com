@@ -2,7 +2,7 @@
 title: 'Triumph of the Unjazz'
 date: 2021-06-21
 author: Ben Morss
-audioFolder: unjazz2
+audioFolder: triumph
 imageLarge: images/blog/unjazz_lg.jpg
 imageSmall: images/blog/unjazz_sm.jpg
 imageDescription: Drake, SZA, and dissonance
@@ -30,21 +30,21 @@ In this series, I’m using this term to describe a fascinating phenomenon in mo
 
 ## Review
 
-In [part one](https://benmorss.com/rock-theory/birth-of-the-unjazz/), we talked about how dissonances were treated in music from the European classical tradition until the 20th century. We then listed some of the new says in which they’ve been treated in pop music since the 1950s. We then uncovered some brand-new unjazz techniques, and we assigned each an italicized catchphrase and a helpful emoji, like this:
+In [part one](/rock-theory/birth-of-the-unjazz/), we talked about how dissonances were treated in music from the European classical tradition until the 20th century. We then listed some of the new says in which they’ve been treated in pop music since the 1950s. We then uncovered some brand-new unjazz techniques, and we assigned each an italicized catchphrase and a helpful emoji, like this:
 
 **Techniques to normalize greater melodic dissonance:**
 
-*   ♻️ _ consonant once, consonant again:_ taking a tune that’s consonant over one chord and reusing it over chords where it’s dissonant
-*   ⚖️  _stick with your scale_: using the same scale over all chords, whether it would traditionally fit or not
-*   🖕🏾 _singing the “wrong” scale_: choosing a scale that doesn’t quite match the chords, unless you’re thinking about traditional dissonances as consonances
-*   😎  _normalizing dissonant pitches as consonant_: training us to hear a traditionally dissonant pitch like the 6th as a consonance
-*   📈  _elevated scale degrees_: prolonging the 7th, 9th, or 11th until we hear it as a consonance
-*   ☰ _ladder of thirds_: climbing up or down a ladder of thirds to normalize the 7th, 9th, and 11th scale degrees. This ladder may well descend to the 5th and 3rd.
+*  ♻️ _consonant once, consonant again_: taking a tune that’s consonant over one chord and reusing it over chords where it’s dissonant
+*  ⚖️ _stick with your scale_: using the same scale over all chords, whether it would traditionally fit or not
+*  🖕🏾 _singing the “wrong” scale_: choosing a scale that doesn’t quite match the chords, unless you’re thinking about traditional dissonances as consonances
+*  😎 _normalizing dissonant pitches as consonant_: training us to hear a traditionally dissonant pitch like the 6th as a consonance
+*  📈 _elevated scale degrees_: prolonging the 7th, 9th, or 11th until we hear it as a consonance
+*  ☰ _ladder of thirds_: climbing up or down a ladder of thirds to normalize the 7th, 9th, and 11th scale degrees. This ladder may well descend to the 5th and 3rd.
 
 **Techniques to permit greater harmonic ambiguity:**
 
-*   🤷🏽‍♀️ _harmonic ambiguity_: we’re obscuring the chord progression or never defining it clearly, and we’re fine with that
-*   🌳 _root in the voice: _the voice contains the chord root, or, better still, as it’s louder and deeper than other sounds, it changes the root from what the instruments implied
+*  🤷🏽‍♀️ _harmonic ambiguity_: we’re obscuring the chord progression or never defining it clearly, and we’re fine with that
+*  🌳 _root in the voice_: the voice contains the chord root, or, better still, as it’s louder and deeper than other sounds, it changes the root from what the instruments implied
 
 We found unjazz techniques already in use as far back as TLC’s 1999 song “No Scrubs” - in R&B influenced by hip-hop. Then,in 2008, Kid Cudi’s song “Day N Nite” kicked off the modern phenomenon in which rappers sing in a manner that’s influenced by R&B, but which, like rap, is based on small musical ideas that repeat and develop. Drake took this idea and developed it into a new, original style, and we explored an acceleration in unjazz harmonic and melodic adventures in his 2013 album “Nothing Was the Same”.
 
@@ -61,7 +61,7 @@ In fact, what Drake is doing is unlike any previous examples of spoken/sung comb
 
 In the chorus, Steve and friends sing a repeated two-note harmony whose top note is a highly consonant first scale degree or fifth.
 
-{{<example "measures">}}
+{{<example "measures" "walk-this-way">}}
 | | |
 | - | - |
 | C | C |
@@ -75,7 +75,7 @@ The standard is set. We’ll consistently see in these rapping rockers that the 
 
 The chorus shifts to A major through a beautiful and surprising route, pairing an E minor chord with a melodic jump to a harmony whose top pitch is F#. The F# is quite remote from the C prolonged by the verse, and it forms a dissonant 9th over the E root. But then the this melody gracefully descends F# - E - D - C# before landing back up on E, a stable 5th scale degree over an A major chord:
 
-{{<example "measures">}}
+{{<example "measures" "mary-jane">}}
 | | | |
 | - | - | - |
 | F# E D | F# E D C# | E |
@@ -86,7 +86,7 @@ This moment of dissonance is quite beautiful, but it settles quickly and gracefu
 
 **Red Hot Chili Peppers, [“Dani California”](https://www.youtube.com/watch?v=Sb5aq5HcS1A)** (2006). In the verse, Anthony Kiedis sing-raps a repeated pattern that descends from B to A, over the same `Am - G - Dm - Am` progression that Mary Jane was dancing to:
 
-{{<example "measures">}}
+{{<example "measures" "dani-california-verse">}}
 | | | | |
 | - | - | - | - |
 | B A | B A | B A | B A |
@@ -95,7 +95,7 @@ This moment of dissonance is quite beautiful, but it settles quickly and gracefu
 
 Having done this twice, he next sings a little tune that simply follows the chord roots:
 
-{{<example "measures">}}
+{{<example "measures" "dani-california-chord-roots">}}
 | | | | |
 | - | - | - | - |
 | A | G | D E | D A |
@@ -110,14 +110,14 @@ This example usefully shows what we’d expect from a frontperson who began thei
 
 “Sweater Weather”’s second verse features some rapid-fire talk-singing. Like in “Mary Jane’s Last Dance” and “Dani California”, a melodic pattern repeatedly descends to a consonant first scale degree. Even in this more dissonant song, the rap-singing is not harmonically adventurous.
 
-{{<example "measures">}}
+{{<example "measures" "sweater-weather">}}
 | | | | |
 | - | - | - | - |
-| C B<span class="flat">♭</span> G | C B<span class="flat">♭</span> G | C B<span class="flat">♭</span> G | C B<span class="flat">♭</span> G | 
+| C B<span class="flat">♭</span> G | C B<span class="flat">♭</span> G | C B<span class="flat">♭</span> C | C B<span class="flat">♭</span> G | 
 | E<span class="flat">♭</span> | | Gm | Cm B<span class="flat">♭</span> |
 {{</example>}}
 
-Now, of course, this brief survey shouldn’t lead us to conclude that rock has never explored extreme melodic dissonance. Remember what I said [in part one](https://benmorss.com/rock-theory/birth-of-the-unjazz/) about [“Black Hole Sun”](https://www.youtube.com/watch?v=3mbBbFH9fAg)? (You really need to at least watch the video.) Check out psychedelia, some prog rock, and more outside the pop charts.
+Now, of course, this brief survey shouldn’t lead us to conclude that rock has never explored extreme melodic dissonance. Remember what I said [in part one](/rock-theory/birth-of-the-unjazz/) about [“Black Hole Sun”](https://www.youtube.com/watch?v=3mbBbFH9fAg)? (You really need to at least watch the video.) Check out psychedelia, some prog rock, and more outside the pop charts.
 
 But if you want to hear a modern artist who’s popular and who follows Drake more closely outside the world of hip-hop, look to country music. Check out Sam Hunt, whose rap-like verse in [“Breaking Up Was Easy in the 90’s”](https://www.youtube.com/watch?v=FvnY6qn80u0) emphasizes a lot of 7ths and AutoTune. (This incredibly bleak video bears watching too.)
 
@@ -129,16 +129,16 @@ I should also mention that plenty of singing rappers have ignored Drake’s unj
 
 ### “Work”
 
-If you read [part one](https://benmorss.com/rock-theory/birth-of-the-unjazz/), you’ll remember that a key inspiration for this article was a debate about [Rihanna and Drake’s song “Work”](https://www.youtube.com/watch?v=HL1UzIK-flA), from Rihannas’s 2016 album _Anti_. The discussion centered on the basic question: what key is this song in? Its chord progression starts on a C# minor, rooting it in that key. And yet all the song’s melodies lie firmly in a B major scale - or, if you prefer, G# minor. And the tune keeps emphasizing D# and F#, which would be typical in songs in B major or a bluesy G# minor, but which don’t fit C# minor. What’s going on?
+If you read [part one](/rock-theory/birth-of-the-unjazz/), you’ll remember that a key inspiration for this article was a debate about [Rihanna and Drake’s song “Work”](https://www.youtube.com/watch?v=HL1UzIK-flA), from Rihannas’s 2016 album _Anti_. The discussion centered on the basic question: what key is this song in? Its chord progression starts on a C# minor, rooting it in that key. And yet all the song’s melodies lie firmly in a B major scale - or, if you prefer, G# minor. And the tune keeps emphasizing D# and F#, which would be typical in songs in B major or a bluesy G# minor, but which don’t fit C# minor. What’s going on?
 
-We’ll look at the parts Rihanna sings, and then we’ll look at Drake’s contribution.
+We’ll look at the parts Rihanna sings, and then we’ll check out Drake’s contribution.
 
 
 #### Rihanna’s bit
 
 First, we’ll note that the song is based on a repeating four-chord progression:
 
-{{<example "measures">}}
+{{<example "measures" "work-chords">}}
 | | | | |
 | - | - | - | - |
 | C#m | D#m | E | F# |
@@ -146,7 +146,7 @@ First, we’ll note that the song is based on a repeating four-chord progression
 
 The song’s vocals begin with the chorus melody. This repeats a two-bar phrase which varies slightly from line to line, but generally goes much like this:
 
-{{<example "measures">}}
+{{<example "measures" "work-chorus">}}
 | | | | |
 | - | - | - | - |
 | D# B B C# | C# C# D# F# E D# | D# B B C# | C# C# D# F# E D# |
@@ -155,7 +155,7 @@ The song’s vocals begin with the chorus melody. This repeats a two-bar phrase 
 
 Right away, the melody is highly unusual. In the past, we’d expect such a melody to be paired with chords that implied an entirely different key. Like, B major:
 
-{{<example "measures">}}
+{{<example "measures" "work-chorus-in-b">}}
 | | | | |
 | - | - | - | - |
 | D# B B C# | C# C# D# F# E D# | D# B B C# | C# C# D# F# E D# |
@@ -164,7 +164,7 @@ Right away, the melody is highly unusual. In the past, we’d expect such a melo
 
 Or, more characteristic of the style, G# minor:
 
-{{<example "measures">}}
+{{<example "measures" "work-chorus-in-g-sharp">}}
 | | | | |
 | - | - | - | - |
 | D# B B C# | C# C# D# F# E D# | D# B B C# | C# C# D# F# E D# |
@@ -173,22 +173,22 @@ Or, more characteristic of the style, G# minor:
 
 But... no. Rihanna sings this tune over a progression that contains nary a B or G#m chord. And the song’s much more interesting this way. It’s another example of 🖕🏾 _singing the “wrong” scale_ - choosing a scale that doesn’t quite match the song’s chords, but will bring out unjazz dissonances. Pairing this tune with these chords has the wonderful advantage of hitting intervals that are traditionally dissonant on every downbeat. Here are the pitches that land on downbeats, over the bass notes:
 
-{{<example "measures">}}
+{{<example "measures" "work-downbeats">}}
 | | |
 | - | - |
 | D# C# | D# C# |
-| C# D# | E  F# |
+| C# D# | E F# |
 {{</example>}}
 
 I’d argue that this tune prolongs this D# and C#, with the other pitches filling a more decorative role. You can hear that if I play the tune again while emphasizing those notes:
 
-_(play)_
+{{<audio "work-emphasizing-prolonged">}}
 
 Macroscopically, the tune resolves twice from D# down to C#. The second D# - C#, occurring over the E and F#, is a traditional resolution from a dissonant major 7th to a consonant perfect 5th. But the first D# - C# occurs over C# and D# in the bass, meaning that a dissonant 9th (D# over C#) “resolves” to a still-dissonant 7th (C# over D#).
 
 This makes more sense if we consider this music as unjazz, incorporating a harmonic sensibility drawn from jazz without needing jazz chords or rhythm. You can hear this if we add in the missing jazz chords. I’ll play these while emphasizing the D# and C# the melody prolongs:
 
-{{<example "measures">}}
+{{<example "measures" "work-jazz-chords">}}
 | | | | |
 | - | - | - | - |
 | D# B B C# | C# C# D# F# E D# | D# B B C# | C# C# D# F# E D# |
@@ -199,16 +199,16 @@ Rihanna is 😎 _normalizing dissonant pitches as consonant_. Once we’ve heard
 
 In fact, we will hear these jazz chords in the actual song, but not until 1:28, in a little bonus section following the second chorus:
 
-_(play)_
+{{<audio "work-marimba-chords">}}
 
 Notice also that, if we consider the melody to be in C# minor, it never goes below the 7th scale degree: 📈 _elevated scale degrees_. Rihanna’s exploring the space from that B up to F# - in other words, from the 7th to the 11th - while spending plenty of time on D#, the 9th. Like “No Scrubs”, this tune is built on the 7th, 9th, and 11th degrees, but does even more to treat those as consonances. Yes, it’s our good old ☰ _ladder of thirds_!
 
 Rihanna’s verse begins by playing with the same melodic language as the chorus melody. Now that the chorus has established the language of unjazz, the verse can draw from it in ways that resolve dissonance even less. Here’s how it begins:
 
-{{<example "measures">}}
+{{<example "measures" "work-rihanna-verse">}}
 | | | | |
 | - | - | - | - |
-| F# B | C# G# | D# B | C# G# |
+| F# B | C# G# | D# C# B | C# G# |
 | C#m | D#m | E | F# |
 {{</example>}}
 
@@ -222,7 +222,7 @@ At 0:42, we hear a new keyboard riff that goes B-A#-F#, holding the F# all the w
 
 Before leaving the verse behind, let’s look at two more interesting moments. At 0:53, Rihanna sings a new melodic idea three times, an intensification which signals the impending end of the section:
 
-{{<example "measures">}}
+{{<example "measures" "work-rihanna-idea-thrice">}}
 | | | | | | |
 | - | - | - | - | - | - |
 | D# C# B | G# D# C# | D# C# B | G# D# C# | D# C# B | G# D# C# |
@@ -235,7 +235,7 @@ This phrase feels especially like a prolongation of a C#m<sup>9</sup> chord. Cou
 
 Then, instead of building up to the return of the chorus, the verse just kind of fizzles out. Here’s its final phrase, at 1:03:
 
-{{<example "measures">}}
+{{<example "measures" "work-rihanna-verse-end">}}
 | | | | |
 | - | - | - | - |
 | F# B C# | B | F# B G# | F# F#(high) D# C# B |
@@ -244,21 +244,21 @@ Then, instead of building up to the return of the chorus, the verse just kind of
 
 It’s the first time we’ve spent much time on the low F#. In fact, this melodic bit spans the entire octave from low F# to high F#, once again emphasizing this curiously dissonant pitch. I’m especially interested in the first melodic phrase:
 
-{{<example "measures">}}
+{{<example "measures" "work-rihanna-f-b-c">}}
 | | |
 | - | - |
 | F# B C# | |
 | C#m | D#m |
 {{</example>}}
 
-It starts once again on the 4th scale degree (a.k.a the 11th), then moves to the 7th scale degree, before ending on a C# that’s mainly heard as a 7th on the D# chord. This would normally be odd, but it fits perfectly with the melodic language Rihanna’s taught us through 😎  _normalizing dissonant pitches as consonant_. The chorus tune spanned the range from B and F#, with an emphasis on C#. This little melodic riff summarizes that melody, and the song’s entire melodic language, in three pitches. Just to drive that point home, Rihanna returns to it at the end of the track, at 3:18, repeating F#-B-C# as the song fades.
+It starts once again on the 4th scale degree (a.k.a the 11th), then moves to the 7th scale degree, before ending on a C# that’s mainly heard as a 7th on the D# chord. This would normally be odd, but it fits perfectly with the melodic language Rihanna’s taught us through 😎 _normalizing dissonant pitches as consonant_. The chorus tune spanned the range from B and F#, with an emphasis on C#. This little melodic riff summarizes that melody, and the song’s entire melodic language, in three pitches. Just to drive that point home, Rihanna returns to it at the end of the track, at 3:18, repeating F#-B-C# as the song fades.
 
 
 #### Drake’s bit
 
 Now let’s take a quick look at Drake’s verse, which starts at 2:09. Here’s how it starts:
 
-{{<example "measures">}}
+{{<example "measures" "work-drake">}}
 | | | | |
 | - | - | - | - |
 | G# F# D# | C# F# E | D# C# B | B D# C# B |
@@ -269,7 +269,7 @@ Drake begins by gradually descending, singing notes that fly free from the song�
 
 Next, at 2:21, he cuts this scale down to a quicker riff that goes D#-E-D#-C#-B. He sings this four times in a row. He’s doubling down on the B, like he was resolving to it as a consonance, except that the B always arrives over a D#mi or F# chord. In fact, all of his melodic ideas descend to this B until 2:52 in the track.
 
-If the song was in the key of B major, these repeated resolutions to a B would be incredibly consonant, and incredibly boring. That’s why it’s such a brilliant move in a song that’s so rooted in C# minor. If you’ve read [part one](https://benmorss.com/rock-theory/birth-of-the-unjazz/) of this article, you’ve already seen this is something deliberate, something characteristic of Drake’s style, something that makes his small, repetitive melodies off-kilter, interesting, unpredictable - dissonant. Later in this article, in “God’s Plan”, we’ll see Drake returning again to descending dissonant six-note scale segments.
+If the song was in the key of B major, these repeated resolutions to a B would be incredibly consonant, and incredibly boring. That’s why it’s such a brilliant move in a song that’s so rooted in C# minor. If you’ve read [part one](/rock-theory/birth-of-the-unjazz/) of this article, you’ve already seen this is something deliberate, something characteristic of Drake’s style, something that makes his small, repetitive melodies off-kilter, interesting, unpredictable - dissonant. Later in this article, in “God’s Plan”, we’ll see Drake returning again to descending dissonant six-note scale segments.
 
 We’ve looked at Drake in part one, and we’re about to look at even more Drake, so I won’t talk more about his bit here. Just give it a listen with these words in mind!
 
@@ -281,7 +281,7 @@ You may say that the song’s in G# minor or B major because its melody uses the
 
 To me, it feels as if the song prolongs one long C#m11 chord - a chord that’s highly characteristic of soul music of the 1970s. It’s quite close to a B/C# chord, the flavor of the 11th chord that [screams: "disco!"](https://www.thegearpage.net/board/index.php?threads/how-to-think-of-the-disco-chord.405209/) Listen to this chord, then listen to the song, and notice how the chord encapsulates the sound of the song.
 
-_(play C# G# B D# F#)_
+{{<audio "work-c-sharp-11">}}
 
 So, for me, this song is a straightforward unjazz take on C# minor. But if you’ve read all this and you say you hear this song in B, G# minor, or E - I wouldn’t say you’re wrong. Pop songs tend to lack the strong cadences characteristic of Western classical music, and plenty of songs that are based on repeating chord progressions aren’t definitively in any particular key. If you say this song is in B major or G# minor because it uses pitches from those scales, you can derive useful analytical insights from considering the song in those ways too! In any case, 🤷🏽‍♀️ _harmonic ambiguity _is characteristic of unjazz too.
 
@@ -290,20 +290,21 @@ Other songs on _Anti_ push the harmonic envelope in ways that are especially str
 
 ### Drake, again
 
-In [part one](https://benmorss.com/rock-theory/birth-of-the-unjazz/), we delved into the unjazz innovations in Drake’s 2013 album “Nothing Was the Same”. Now, let’s see how Drake has continued to push the harmonic envelope to the present day, both by using 🤷🏽‍♀️ harmonically ambiguous instrumentals and creating melodic ideas that we can only call… unjazz.
+In [part one](/rock-theory/birth-of-the-unjazz/), we delved into the unjazz innovations in Drake’s 2013 album “Nothing Was the Same”. Now, let’s see how Drake has continued to push the harmonic envelope to the present day, both by using 🤷🏽‍♀️ harmonically ambiguous instrumentals and creating melodic ideas that we can only call… unjazz.
 
 
 #### “God’s Plan” (2018)
 
-In [“God’s Plan”](https://www.youtube.com/watch?v=xpVfcZ0ZcFM), Drake once again sings firmly in a scale that’s not what the track would normally imply: 🖕🏾 _singing the “wrong” scale_. It’s also a fine case of 🌳 _root in the voice_, [like we saw in “Day N Nite”](https://benmorss.com/rock-theory/birth-of-the-unjazz/).
+In [“God’s Plan”](https://www.youtube.com/watch?v=xpVfcZ0ZcFM), Drake once again sings firmly in a scale that’s not what the track would normally imply: 🖕🏾 _singing the “wrong” scale_. It’s also a fine case of 🌳 _root in the voice_, [like we saw in “Day 'n' Nite”](/rock-theory/birth-of-the-unjazz/#:~:text=Day%20‘n’%20Nite).
 
 The song is based on a distant-sounding organ which loosely defines Am<sup>9</sup> and GM<sup>9</sup> chords. (This organ is played a little north of A-440 tuning, so these pitches are approximate. And I can't hear whether that C in the first chord is really there.)
 
 {{<image "triumph/gods-plan-organ.png" 632>}}
+{{<audio "gods-plan-organ">}}
 
 This sample loosely defines a G tonality, but the chords sound as much like CM<sup>7</sup> and Bm<sup>7</sup> as they do like Am<sup>9</sup> and GM<sup>9</sup>. We don’t really hear what key we’re in until Drake’s vocals enter. This happens at 0:13, as Drake’s voice descends eight times from E down to G in the G major scale:
 
-{{<example "measures">}}
+{{<example "measures" "gods-plan-vocals">}}
 | | |
 | - | - |
 | E D C B | B A G |
@@ -323,27 +324,29 @@ This song is not as 🤷🏽‍♀️ harmonically ambiguous as others we’ve l
 
 [“Laugh Now, Cry Later”](https://www.youtube.com/watch?v=JFm7YDVlqnI) features both a 🤷🏽‍♀️ harmonically ambiguous instrumental and a vocal that 😎 normalizes traditional dissonances as consonances. It’s a wonderful example of unjazz, a great place to leave our exploration of Drake’s music.
 
-Let’s start with the instrumental sample, played by the [conservatory-trained Rogét Chahayed](https://blog.native-instruments.com/roget-chahayed-interview/) . This riff’s surface simplicity masks a deeper complexity, a common feature of higher-quality pop music. It starts with a FM<sup>7</sup> - Em<sup>7</sup> - Dm<sup>7</sup> progression:
+Let’s start with the instrumental sample, played by the [conservatory-trained Rogét Chahayed](https://blog.native-instruments.com/roget-chahayed-interview/). This riff’s surface simplicity masks a deeper complexity, a common feature of higher-quality pop music. It starts with a FM<sup>7</sup> - Em<sup>7</sup> - Dm<sup>7</sup> progression:
 
-{{<image "triumph/laugh-now-half.png" 611>}}
+{{<image "triumph/laugh-now-half.png" 558>}}
+{{<audio "laugh-cry-half">}}
 
 This pattern starts to repeat, but before it finishes repeating, it cuts itself off two beats short, then sounds like it’s starting to repeat with slightly different chords, before cutting _that_ off and actually repeating everything that’s just happened. Here’s the entire sample:
 
 {{<image "triumph/laugh-now-full.png" 734>}}
+{{<audio "laugh-cry-whole">}}
 
 This simple trick means we’re always a bit off-kilter, not quite sure when the pattern starts and unclear on the downbeat. It makes a standard four-bar phrase in 4/4 feel like it dips into 6/4. When the drums enter, the rhythmic ambiguity only grows. Switched On Pop has [covered this](https://switchedonpop.com/episodes/doc-death-of-the-chorus-with-emily-warren) in excellent detail.
 
 Note that FM<sup>7</sup>, Em<sup>7</sup>, and Dm<sup>7</sup> are technically jazz chords, but the way they’re played and deployed feels nothing like jazz. That’s why we keep calling this “unjazz”!
 
-Normally we’d expect FM<sup>7</sup> - Em<sup>7</sup> - Dm<sup>7</sup>  to function as IV-iii-ii in C major. These chords are begging to resolve to C major, like this:
+Normally we’d expect FM<sup>7</sup> - Em<sup>7</sup> - Dm<sup>7</sup> to function as IV-iii-ii in C major. These chords are begging to resolve to C major, like this:
 
-_(play FM7 - Em7 - Dm7 - Dm/G - C)_
+{{<audio "laugh-cry-resolve">}}
 
 But in this song, they never do. Instead, the song continually reanchors itself on the D minor seventh chord, never descending to C. Somehow, to me, it sounds impossibly deep - like the chords are continually sinking into a subbasement. Thus this sample is both rhythmically and 🤷🏽‍♀️ harmonically ambiguous. Is the song in F major? D minor? Something else? If I had to choose, I’d choose D minor, but if so, it’s a version of D minor I’ve never heard before.
 
 Drake opens by singing the word “Whoa” twice. Right off the bat, he chooses some odd notes, signaling that he will continue to explore his own harmonic language in this song.
 
-{{<example "measures">}}
+{{<example "measures" "laugh-cry-whoa">}}
 | |
 | - |
 | G E G E D |
@@ -354,7 +357,7 @@ It’s reminiscent of a standard vocal riff, but it’s divorced from its custom
 
 Next, at 0:06, the main section of the song begins. I won’t call it a verse, because, [like increasingly many modern pop songs](https://switchedonpop.com/episodes/doc-death-of-the-chorus-with-emily-warren), this song lacks a recognizable verse or chorus. During this section, Drake repeatedly glides down a pentatonic scale. He covers the distance of a sixth, just like the repeated descents we saw in “God’s Plan” and in “Work”.
 
-{{<example "measures">}}
+{{<example "measures" "laugh-cry-descent">}}
 | | | | |
 | - | - | - | - |
 | G | A G E | E D C | D C |
@@ -371,7 +374,7 @@ After the third repetition, at 0:26, Drake sings “baby” on a quite odd C-G. 
 
 Then the drums enter, and Drake sings variations on this melody until the end of his section. At first, the descents end on a nice consonant D. But then he starts to end on C again, sometimes even E. In Drake's world, it’s fine to end on a traditional D, and it’s equally fine to end on a pitch that’s one note away. That’s a little like R&B, a little jazzy. It’s unjazz!
 
-At 1:28, Lil Durk’s part begins. Perhaps inspired by Drake, he emphasizes the notes C, D, and E. In fact, his part consists mostly of these notes. But he is more harmonically conventional. Each of his phrases resolves to D, the first scale degree. Of course, some of those final D’s do appear over the Emi chord, making them 7ths. The individual chords matter less than the overall harmonic language, an example of ⚖️  _stick with your scale_. And the harmonic ambiguity that’s introduced aren’t created by someone who can’t hear harmonies. It’s intentional, a positive attribute of the music! Melodic dissonance - and the song’s rhythmic ambiguity - add tension and create energy, making static music dynamic, making it thrilling.
+At 1:28, Lil Durk’s part begins. Perhaps inspired by Drake, he emphasizes the notes C, D, and E. In fact, his part consists mostly of these notes. But he is more harmonically conventional. Each of his phrases resolves to D, the first scale degree. Of course, some of those final D’s do appear over the Emi chord, making them 7ths. The individual chords matter less than the overall harmonic language, an example of ⚖️ _stick with your scale_. And the harmonic ambiguity that’s introduced aren’t created by someone who can’t hear harmonies. It’s intentional, a positive attribute of the music! Melodic dissonance - and the song’s rhythmic ambiguity - add tension and create energy, making static music dynamic, making it thrilling.
 
 Listening to Drake’s music over the years, sometimes it feels like he’s choosing the most harmonically vague beat to sing over, just to challenge himself. He’ll simply choose a scale and run with it, and because he’s chosen some pitches that are in the instrumental, and he’s got the loudest, most defined notes, it works. Check out, for example, “Own It” (2013) and “Can’t Take a Joke” (2018).
 
@@ -403,11 +406,11 @@ SZA’s vocal phrases don’t line up with the instrumental as it repeats, furth
 
 Instead of singing distinct verses and choruses, SZA repeats and develops melodic ideas, just as rappers repeat and develop rhythmic ideas, and as Rihanna did in “Work”. Let’s look at the first bit she sings, at 0:24 in the track. We’ll consider the two measures up to the word “iceberg” as her first melodic phrase.
 
-{{<example "measures">}}
+{{<example "score">}}
 | | |
 | - | - |
 | G# E F# E F# C# B F# C# B | F# C# B F# G# F# G# F# |
-| EM<sup>9</sup> | C#m<sup>9</sup> AM<sup>7</sup> |
+| EM<sup>9</sup> | C#m<sup>9</sup> &nbsp;&nbsp;&nbsp; AM<sup>7</sup> |
 {{</example>}}
 
 SZA starts by descending from a consonant G# (the third) through a passing F# to a consonant E (the first scale degree). Four pitches in, the tune is quite conventional. But then she repeats, three times, the notes C#-B-F#. Instead of passing through the F# like it was a dissonance, she leaps up to it like it was a consonance. The first time, the F# occurs over an E chord, making it a 9th or 2nd. The second time, it’s an 11th or 4th over a C#m chord. The third time, it’s a 6th over an A.
@@ -481,7 +484,7 @@ _(audio example)_
 
 Let me remind you that SZA’s doing this not in an experimental indie recording, but in the _lead single from a superhero movie._ And yet, though it’s hugely dissonant, this tune sounds natural. What’s going on?
 
-Well, certainly it’s an example of the power of the ☰ _ladder of thirds_ - like we saw [in part one](https://benmorss.com/rock-theory/birth-of-the-unjazz/#:~:text=When%20hip-hop%20first%20seeped) in “No Scrubs”. Anchoring off the highly consonant F over an Fmi chord, SZA can descend by thirds to any notes she wants:
+Well, certainly it’s an example of the power of the ☰ _ladder of thirds_ - like we saw [in part one](/birth-of-the-unjazz/#:~:text=When%20hip-hop%20first%20seeped) in “No Scrubs”. Anchoring off the highly consonant F over an Fmi chord, SZA can descend by thirds to any notes she wants:
 
 {{<image "triumph/all-the-stars-diagram.png" 312>}}
 
@@ -513,7 +516,7 @@ As with the harmonic adventures of Drake, I don’t think what SZA does would be
 
 #### “Hit Different”
 
-SZA’s other work features similar unjazz adventures. I was particularly struck by  [“Hit Different”](https://www.youtube.com/watch?v=qJlMkMtK7-8), her 2020 collaboration with The Neptunes, Rob Bisel, and Ty Dolla Sign.
+SZA’s other work features similar unjazz adventures. I was particularly struck by [“Hit Different”](https://www.youtube.com/watch?v=qJlMkMtK7-8), her 2020 collaboration with The Neptunes, Rob Bisel, and Ty Dolla Sign.
 
 The track is quite sparse and loose, leaving SZA plenty of room to explore. The Neptunes’ instrumental is based on two stunningly 🤷🏽‍♀️ ambiguous chords. I can’t clearly make out all the pitches in each chord, and the second chord’s bass is so low that it’s pretty indistinguishable. But the chords are something like this:
 
@@ -552,7 +555,7 @@ As I listened to SZA’s music and read and watched her interviews, I was remind
 
 Kid Cudi, Drake, Rihanna, SZA, and other pioneers opened up the unjazz floodgates. Today, if you check out the top streamed songs on Spotify, you’ll hear a mix of harmonic styles. Some songs use chords and melodies drawn from traditional rock or pop. Others use funk-influenced jazz harmonies. And sometimes you’ll hear blissfully experimental unjazz! 
 
-Of course, many singing rappers and R&B singers write melodies that are completely traditional. [I’ve written about](https://benmorss.com/rock-theory/old-town-road/) how Lil Nas X, in [“Old Town Road”](https://www.youtube.com/watch?v=r7qovpFAGrQ), did the reverse of what I’m talking about here. Instead of destabilizing harmonies with unjazz melodies, he wrote a melody that harmonically strengthened and unified a tonally ambiguous instrumental. Travis Scott did something similar in [”Goosebumps”](https://www.youtube.com/watch?v=Dst9gZkq1a8), where his highly tonal, conventional melody helps normalize one of the weirdest instrumentals to ever hit 1,450,395,526 streams on Spotify.
+Of course, many singing rappers and R&B singers write melodies that are completely traditional. [I’ve written about](/rock-theory/old-town-road/) how Lil Nas X, in [“Old Town Road”](https://www.youtube.com/watch?v=r7qovpFAGrQ), did the reverse of what I’m talking about here. Instead of destabilizing harmonies with unjazz melodies, he wrote a melody that harmonically strengthened and unified a tonally ambiguous instrumental. Travis Scott did something similar in [”Goosebumps”](https://www.youtube.com/watch?v=Dst9gZkq1a8), where his highly tonal, conventional melody helps normalize one of the weirdest instrumentals to ever hit 1,450,395,526 streams on Spotify.
 
 But unjazz has seeped into the top 40 nonetheless! Let’s look at two recent examples.
 
@@ -569,7 +572,7 @@ At 0:52, the music intensifies slightly as a faster vocal line is introduced. Th
 
 {{<image "triumph/streets-harmonies.png" 465>}}
 
-The top line emphasizes the note F#, returning to it on every downbeat. Over the E minor, this F# is a 2nd or 9th, a traditional dissonance, but a frequent unjazz consonance. But before we hear the F# over the E minor chord, we hear it over a C. There, not only is the F# an even more dissonant tritone, but it’s reinforced by the equally dissonant B in the harmony. This is another example where ♻️ a melody that’s consonant over one chord is then treated as consonant in a context would it normally be dissonant - except that the dissonant chord occurs first, and the dissonance is justified after the fact. The parallel fifths in the harmony introduce further dissonances, but it’s all good as long as we ⚖️  _stick with the same scale_ throughout.
+The top line emphasizes the note F#, returning to it on every downbeat. Over the E minor, this F# is a 2nd or 9th, a traditional dissonance, but a frequent unjazz consonance. But before we hear the F# over the E minor chord, we hear it over a C. There, not only is the F# an even more dissonant tritone, but it’s reinforced by the equally dissonant B in the harmony. This is another example where ♻️ a melody that’s consonant over one chord is then treated as consonant in a context would it normally be dissonant - except that the dissonant chord occurs first, and the dissonance is justified after the fact. The parallel fifths in the harmony introduce further dissonances, but it’s all good as long as we ⚖️ _stick with the same scale_ throughout.
 
 Once again, the track lacks any extended jazz harmonies that would help reinforce F# as a consonance. The main sample helps a little by expressing prominent neighbor-tone F#. But in the world of unjazz, 😎 📈 this prolonged 9th can be a consonance without explicit harmonic support. 
 
@@ -579,14 +582,14 @@ The song’s next section, at 1:15 in the track, feels to me like a verse. It ev
 | | | | |
 | - | - | - | - |
 | G F# E D B | G F# E D E | G F# E D B | B E B E F# |
-| C | C  (B) | Em | Em (B/C) |
+| C | C (B) | Em | Em (B/C) |
 {{</example>}}
 
 Looking at this on the page, it resembles a more traditional melody. You can loosely trace a journey from the consonant G at the start down through a passing F# to the E in the fourth measure, like this:
 
 [play G F# over a C chord resolving to E over Emi]
 
-But if you listen to the tune, you’ll notice that it actually continues to emphasize the F# that the previous section prolonged. The opening G feels more like an upper neighbor to the F#, which then descends down our good old ☰ _ladder of thirds_,  from the sharp 11th (F#) down to D (9th) and B (major 7th). Over the E minor chord, this happens again, with the F# and D now playing the roles of 9th and 7th. Then the melody rises right back up to F#. So although it’s possible to hear this tune in a way that makes the F# a passing note, I think that F# really serves as the main pitch - even though it’s a tritone over the C.
+But if you listen to the tune, you’ll notice that it actually continues to emphasize the F# that the previous section prolonged. The opening G feels more like an upper neighbor to the F#, which then descends down our good old ☰ _ladder of thirds_, from the sharp 11th (F#) down to D (9th) and B (major 7th). Over the E minor chord, this happens again, with the F# and D now playing the roles of 9th and 7th. Then the melody rises right back up to F#. So although it’s possible to hear this tune in a way that makes the F# a passing note, I think that F# really serves as the main pitch - even though it’s a tritone over the C.
 
 At 2:17, there’s a quasi-sung rap middle section. Even this section repeatedly emphasizes the note F#. The whole song emphasizes this note, a wonderful unjazz 9th scale degree.
 
@@ -610,8 +613,8 @@ But wouldn’t that be boring? Instead, it occurs over an E<span class="flat">�
 
 
 
-*   the opening A<span class="flat">♭</span> over the E<span class="flat">♭</span> chord. This highly dissonant 4th doesn’t pretend to resolve to a neighboring 3rd or 5th. It’s just dissonant, and 😎 after a while we get used to it. When the first phrase repeats, that A<span class="flat">♭</span> becomes a consonant 3rd over an F<span class="flat">♭</span> chord. Like in “Streets,” ♻️ a melodic phrase that’s consonant over one chord can be reused over a chord where it’s dissonant - except that, once again, the dissonance comes first, and its justification comes second.
-*   the D<span class="flat">♭</span> that ends each phrase. This D<span class="flat">♭</span> kind of makes sense as a 6th over the F<span class="flat">♭</span> chord, and also kind of makes sense as a 7th over the E<span class="flat">♭</span> chord. Normally these 6ths and 7ths would be reinforced by the context of other extended pitches or jazz chords. But this is unjazz. We don’t need that anymore.
+* the opening A<span class="flat">♭</span> over the E<span class="flat">♭</span> chord. This highly dissonant 4th doesn’t pretend to resolve to a neighboring 3rd or 5th. It’s just dissonant, and 😎 after a while we get used to it. When the first phrase repeats, that A<span class="flat">♭</span> becomes a consonant 3rd over an F<span class="flat">♭</span> chord. Like in “Streets,” ♻️ a melodic phrase that’s consonant over one chord can be reused over a chord where it’s dissonant - except that, once again, the dissonance comes first, and its justification comes second.
+* the D<span class="flat">♭</span> that ends each phrase. This D<span class="flat">♭</span> kind of makes sense as a 6th over the F<span class="flat">♭</span> chord, and also kind of makes sense as a 7th over the E<span class="flat">♭</span> chord. Normally these 6ths and 7ths would be reinforced by the context of other extended pitches or jazz chords. But this is unjazz. We don’t need that anymore.
 
 In a larger sense, Nas X is just 🖕🏾 _singing the “wrong” scale_, choosing a scale that he likes and ⚖️ sticking with it without regard to individual chords, knowing that the scale will fit the harmonies macroscopically.
 
@@ -628,14 +631,14 @@ The first phrase begins by rising from E<span class="flat">♭</span> to the dis
 
 To me, this C<span class="flat">♭</span> is one of the strongest pieces of evidence we have that unjazz exists - that these melodic choices are made deliberately, not by accident by people who somehow cannot sing logical melodies. I mean, “Montero” is a followup to one of the most successful singles of all time. If Nas X had somehow been incompetent enough to sing a glaring dissonance, surely his producers would have Autotuned it down to B<span class="flat">♭</span>. Unjazz was the goal.
 
-Besides, it’s not like Nas X can’t write a traditional tune. Have you heard [“Old Town Road”](https://benmorss.com/rock-theory/old-town-road/)?
+Besides, it’s not like Nas X can’t write a traditional tune. Have you heard [“Old Town Road”](/rock-theory/old-town-road/)?
 
 
 ### Rappers are good singers
 
 Some people like to say that [rappers can’t sing](https://theboombox.com/history-of-rappers-singing/). I think this is nonsense. After all - what is “singing”? It’s using your voice in a way that appeals to an audience, that makes a song emotionally effective in a given cultural context. Sometimes we want to hear a highly trained singer perform [”Un bel di”](https://www.youtube.com/watch?v=sLcbfF9ypmM). But other circumstances call for someone who’s self-taught. In pop music, the singer who’s rough around the edges is often more interesting, charming, and effective. If [this song](https://www.youtube.com/watch?v=LuN6gs0AJls) had been sung by an opera singer, I would never have heard of it. This is the case in [rock](https://www.youtube.com/watch?v=02D2T3wGCYg) and [hip-hop](https://www.youtube.com/watch?v=9iCd6UHR-3I) alike.
 
-For people who fear that pop music has gone stale, that it was better when you were thirteen, or that the [rise of single-progression songs](https://benmorss.com/rock-theory/where-did-all-the-chords-go/) has hampered creativity - fear not! A group of adventurous R&B singers, rappers, beatmakers, and producers have been exploring complex rhythms and harmonies the likes of which have rarely been heard in American popular music. While pop and rock performers continue to mine the past, R&B and hip-hop artists have widened what’s harmonically possible. It’s especially remarkable that they’ve done so while continuing to create songs over repeated instrumental patterns.
+For people who fear that pop music has gone stale, that it was better when you were thirteen, or that the [rise of single-progression songs](/rock-theory/where-did-all-the-chords-go/) has hampered creativity - fear not! A group of adventurous R&B singers, rappers, beatmakers, and producers have been exploring complex rhythms and harmonies the likes of which have rarely been heard in American popular music. While pop and rock performers continue to mine the past, R&B and hip-hop artists have widened what’s harmonically possible. It’s especially remarkable that they’ve done so while continuing to create songs over repeated instrumental patterns.
 
 The beatmakers and producers have realized that surprising sounds and dissonances can be catchy when paired with drums. And singers and rappers, secure in the knowledge that Autotune and modern production will make their voices sound big and secure even with no harmonic support for their dissonances, they boldly sing melodies in a scale and key that vaguely fits an ambiguous instrumental - then sounds correct by force of its sheer volume and space in the mix.
 

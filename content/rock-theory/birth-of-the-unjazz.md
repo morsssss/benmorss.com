@@ -278,11 +278,11 @@ The chorus lies further down the ☰ _ladder of thirds_, emphasizing 7ths, 5ths,
 | C#m<sup>7</sup> | G#m | D#<sup>7</sup> | G#m | C#m | 
 {{</example>}}
 
-### “Day ‘N’ Nite”
+### “Day ‘n’ Nite”
 
 In the years since “No Scrubs”, hip-hop and R&B have worked together to expand what we regard as melodically consonant. Let’s look first at singing rappers. Then, we’ll look at R&B singers who are influenced by hip-hop. In between, we’ll look at “Work”, a song where we’ll find both!
 
-Rappers have sung on and off since the beginnings of hip-hop. Sometimes, they did a bit of both, rapping in repetitive melodic cells. But this rap-singing truly became a thing at the end of the 2000s, when Kid Cudi and Dot Da Genius released [“Day ‘N’ Nite”](https://www.youtube.com/watch?v=VrDfSZ_6f4U). This hypnotic, compelling song is a fine case of 🤷🏽‍♀️ _harmonic ambiguity_ and an introduction to 🌳 _root in the voice_.
+Rappers have sung on and off since the beginnings of hip-hop. Sometimes, they did a bit of both, rapping in repetitive melodic cells. But this rap-singing truly became a thing at the end of the 2000s, when Kid Cudi and Dot Da Genius released [“Day ‘n’ Nite”](https://www.youtube.com/watch?v=VrDfSZ_6f4U). This hypnotic, compelling song is a fine case of 🤷🏽‍♀️ _harmonic ambiguity_ and an introduction to 🌳 _root in the voice_.
 
 Harmonic ambiguity isn’t new in hip-hop. The style has long contained a huge variety of backing instrumentals, including some with little harmonic content. What’s new here is that Dot Da Genius and Kid Cudi created an ambiguous, trippy track - and realized it would serve the song’s purpose to sing over it.
 
@@ -333,7 +333,7 @@ Yes, the pattern goes to the B minor two beats early, and it includes a B _major
 
 I think this harmonic ambiguity is absolutely key to the song’s success. It’s what makes a repetitive song bear repeated listenings. It keeps surprising the ear; you keep wanting to figure out what’s going on. (You should also watch [this fantastic interview](https://www.youtube.com/watch?v=Cz-9mmbgow4) where Dot Da Genius explains how he created the track, although he says not a word about the trippy harmonic content or daringly minimalistic aesthetic.)
 
-When Kanye West heard “Day ‘N’ Nite”, he invited Kid Cudi to collaborate on a sung album of his own, _808s and Heartbreak_ . This record, while groundbreaking for other reasons, doesn’t include the harmonic ambiguity and novel dissonance treatment we’re calling “unjazz”. But the record did influence an aspiring rapper who would soon not only change hip-hop by inventing a new style of rap singing, but who would blaze new trails in melodic dissonance and harmonic ambiguity. Can you guess who? (Hint: his rapper name rhymes with “Heartbreak”.)
+When Kanye West heard “Day ‘n’ Nite”, he invited Kid Cudi to collaborate on a sung album of his own, _808s and Heartbreak_ . This record, while groundbreaking for other reasons, doesn’t include the harmonic ambiguity and novel dissonance treatment we’re calling “unjazz”. But the record did influence an aspiring rapper who would soon not only change hip-hop by inventing a new style of rap singing, but who would blaze new trails in melodic dissonance and harmonic ambiguity. Can you guess who? (Hint: his rapper name rhymes with “Heartbreak”.)
 
 
 ### Enter Drake
