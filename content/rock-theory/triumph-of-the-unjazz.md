@@ -3,11 +3,11 @@ title: 'Triumph of the Unjazz'
 date: 2021-06-23
 author: Ben Morss
 audioFolder: triumph
-imageLarge: images/blog/unjazz_lg.jpg
-imageSmall: images/blog/unjazz_sm.jpg
+imageLarge: images/blog/triumph_lg.jpg
+imageSmall: images/blog/triumph_sm.jpg
 imageDescription: Drake, SZA, and dissonance
 images:
-  - images/blog/unjazz_lg.jpg
+  - images/blog/triumph_lg.jpg
 summary: "Part two of our investigation into the harmonic and melodic adventures we call unjazz, featuring Rihanna, Drake, SZA, Doja Cat, and so much more."
 description: "Artists like Drake, SZA, and Rihanna have invented new ways of treating harmonic and melodic dissonance. I call it \"unjazz\"!"
 tags:
@@ -19,6 +19,14 @@ tags:
   - Drake
   - SZA
   - Rihanna
+  - Work song
+  - Good Days
+  - Hit Different
+  - Walk This Way
+  - Doja Cat
+  - Doja Cat Streets
+  - Montero
+  - unjazz
   - dissonance
   - jazz
   - R&B
@@ -612,8 +620,7 @@ Let us close with a quick look at a song that came out as I was writing this pie
 
 It’s a simple tune consisting of two melodically identical phrases. It would be quite conventional and consonant over different chords. For example, here’s how it would sound over an A<span class="flat">♭</span>m - D<span class="flat">♭</span>m progression:
 
-[play it]
-
+{{<audio "montero-normal-chords">}}
 But wouldn’t that be boring? Instead, it occurs over an E<span class="flat">♭</span>-F<span class="flat">♭</span> progression, where it forms a cluster of gratuitous unresolved dissonances. For example:
 
 * the opening A<span class="flat">♭</span> over the E<span class="flat">♭</span> chord. This highly dissonant 4th doesn’t pretend to resolve to a neighboring 3rd or 5th. It’s just dissonant, and 😎 after a while we get used to it. When the first phrase repeats, that A<span class="flat">♭</span> becomes a consonant 3rd over an F<span class="flat">♭</span> chord. Like in “Streets,” ♻️ a melodic phrase that’s consonant over one chord can be reused over a chord where it’s dissonant - except that, once again, the dissonance comes first, and its justification comes second.

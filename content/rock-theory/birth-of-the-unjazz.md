@@ -19,8 +19,11 @@ tags:
   - Drake
   - No Scrubs
   - TLC
+  - Kid Cudi
+  - Day N Nite
   - dissonance
   - jazz
+  - unjazz
   - R&B
   - ben morss
 ---
