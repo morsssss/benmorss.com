@@ -34,11 +34,11 @@ tags:
 ---
 Welcome to part two of this mini-series on “unjazz”!
 
-In this series, I’m using this term to describe a fascinating phenomenon in modern hip-hop and R&B. A set of rappers, singers, and producers have been making music that’s harmonically ambiguous, as jazz can be, that tolerates melodic dissonance, as jazz often does, that treats higher scale degrees as consonances, like jazz. And yet this music doesn’t sound like jazz. The extended melodic intervals no longer need to be reinforced by jazz harmonies in the accompaniment. It doesn’t “swing”. Instead, artists’ musical ears are informed by jazz influences filtered through the musical language of R&B. And these influences allow the artists to carve out new melodic and harmonic territory.
+In this series, I’m using this term to describe a fascinating phenomenon in modern hip-hop and R&B. A set of rappers, singers, and producers have been making music that’s harmonically ambiguous, as jazz can be. It tolerates melodic dissonance, as jazz often does. It treats higher scale degrees as consonances, like jazz. And yet this music doesn’t sound like jazz. The extended melodic intervals no longer need to be reinforced by jazz harmonies in the accompaniment. It doesn’t “swing”. Instead, artists’ musical ears are informed by jazz influences filtered through the musical language of R&B. And these influences allow the artists to carve out new melodic and harmonic territory.
 
 ## Review
 
-In [part one](/rock-theory/birth-of-the-unjazz/), we talked about how dissonances were treated in music from the European classical tradition until the 20th century. We then listed some of the new says in which they’ve been treated in pop music since the 1950s. We then uncovered some brand-new unjazz techniques, and we assigned each an italicized catchphrase and a helpful emoji, like this:
+In [part one](/rock-theory/birth-of-the-unjazz/), we talked about how dissonances were treated in music from the European classical tradition until the 20th century. We then listed some of the new ways in which they’ve been treated in pop music since the 1950s. We then uncovered some brand-new unjazz techniques, and we assigned each an italicized catchphrase and a helpful emoji, like this:
 
 **Techniques to normalize greater melodic dissonance:**
 
@@ -54,7 +54,7 @@ In [part one](/rock-theory/birth-of-the-unjazz/), we talked about how dissonance
 *  🤷🏽‍♀️ _harmonic ambiguity_: we’re obscuring the chord progression or never defining it clearly, and we’re fine with that
 *  🌳 _root in the voice_: the voice contains the chord root, or, better still, as it’s louder and deeper than other sounds, it changes the root from what the instruments implied
 
-We found unjazz techniques already in use as far back as TLC’s 1999 song “No Scrubs” - in R&B influenced by hip-hop. Then,in 2008, Kid Cudi’s song “Day N Nite” kicked off the modern phenomenon in which rappers sing in a manner that’s influenced by R&B, but which, like rap, is based on small musical ideas that repeat and develop. Drake took this idea and developed it into a new, original style, and we explored an acceleration in unjazz harmonic and melodic adventures in his 2013 album “Nothing Was the Same”.
+We found unjazz techniques already in use as far back as TLC’s 1999 song “No Scrubs” - in R&B influenced by hip-hop. Then, in 2008, Kid Cudi’s song “Day N Nite” kicked off the modern phenomenon in which rappers sing in a manner that’s influenced by R&B, but which, like rap, is based on small musical ideas that repeat and develop. Drake took this idea and developed it into a new, original style, and we explored an acceleration in unjazz harmonic and melodic adventures in his 2013 album “Nothing Was the Same”.
 
 Now, in part two of our series, we’ll look at Rihanna and Drake’s song “Work”. We’ll delve even deeper into Drake. Then we’ll return to R&B with the melodic adventures of SZA before ending with the present - with Doja Cat and, ultimately, the latest from Lil Nas X.
 
