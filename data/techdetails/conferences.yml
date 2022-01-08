@@ -2,30 +2,50 @@ conferences :
   title : Conferences
   description : "A few of the conferences where I've spoken recently:"
   item :
+  - name: Audio Developer Conference
+    location: London
+    date: 11/15/2021
+    href: https://audio.dev/schedule/
+
+  - name: BrazilJS
+    location: online
+    date: 10/23/2021
+    href: https://braziljs.org/conf/
+
+  - name : WebExpo
+    location: Prague
+    date: 9/21/2021
+    href: https://www.webexpo.net/prague2021/talk/the-web-is-your-new-os
+
+  - name : DrupalCon North America
+    location: online
+    date: 4/14/2021
+    href: https://pantheon.io/blog/drupalcon-2021-session-recap
+    
   - name : DrupalCon Europe
     location: online
     date: 12/10/2020
     href: https://events.drupal.org/europe2020/workshops
+
   - name : AMP Fest
     location: online
     date: 10/14/2020
     href: https://www.youtube.com/watch?v=x7vPl0BjdDA
+
   - name : DrupalCon US
     location: online
     date: 7/16/2020
     href: https://events.drupal.org/global2020/sessions/web-vitals-healthier-open-web
+
   - name : OpenJS World
     location: online
     date: 6/24/2020
     href: https://events.linuxfoundation.org/openjs-world/program/schedule/
+
   - name : Node+JS Interactive
     location: Montreal
     date : 12/12/2019
     href : https://njsi2019.sched.com/event/XeD6
-  - name: BrazilJS
-    location: Porto Alegre
-    date: 8/22/2019
-    href: https://braziljs.org/conf/
 
   - name : MailCon
     location: New York
