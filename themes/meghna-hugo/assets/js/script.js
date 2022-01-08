@@ -3,10 +3,11 @@ jQuery(function ($) {
 
 	/* ========================================================================= */
 	/*	Page Preloader
+	/*  Use the callback to run anything that needs to wait until load.
 	/* ========================================================================= */
 
 	$(window).on('load', function () {
-		$('.preloader').fadeOut(100);
+		$('.preloader').fadeOut(100, setupShuffle);
 	});
 
 	/* ========================================================================= */
@@ -28,24 +29,27 @@ jQuery(function ($) {
 		fixedBgPos: true
 	});
 	/* ========================================================================= */
-	/*	Portfolio Filtering Hook
+	/*	Portfolio Filtering Hook.
+	/*  Don't let this run until the page has loaded...
 	/* =========================================================================  */
 
-	var containerEl = document.querySelector('.shuffle-wrapper');
-	if (containerEl) {
-		var Shuffle = window.Shuffle;
-		var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
-			group: 'featured',
-			itemSelector: '.shuffle-item',
-			buffer: 1
-		});
+	function setupShuffle() {
+		var containerEl = document.querySelector('.shuffle-wrapper');
+		if (containerEl) {
+			var Shuffle = window.Shuffle;
+			var myShuffle = new Shuffle(document.querySelector('.shuffle-wrapper'), {
+				group: 'featured',
+				itemSelector: '.shuffle-item',
+				buffer: 1
+			});
 
-		jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
-			var input = evt.currentTarget;
-			if (input.checked) {
-				myShuffle.filter(input.value);
-			}
-		});
+			jQuery('input[name="shuffle-filter"]').on('change', function (evt) {
+				var input = evt.currentTarget;
+				if (input.checked) {
+					myShuffle.filter(input.value);
+				}
+			});
+		}
 	}
 	/* ========================================================================= */
 	/*	All Carousels

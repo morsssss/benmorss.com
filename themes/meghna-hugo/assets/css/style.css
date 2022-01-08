@@ -382,7 +382,7 @@ a:hover {
 }
 
 .single-page-header {
-  background-image: url("..//images/about/about-header.jpg");
+  /* background-image: url("..//images/about/about-header.jpg"); */
   background-size: cover;
   padding: 140px 0 70px;
   text-align: center;
@@ -728,7 +728,7 @@ a:hover {
 ==================================================================*/
 .call-to-action-2 {
   padding: 100px 0;
-  background-image: url("..//images/call-to-action/call-to-action-bg.jpg");
+  /* background-image: url("..//images/call-to-action/call-to-action-bg.jpg"); */
   background-size: cover;
   color: #fff;
 }
