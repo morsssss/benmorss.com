@@ -2596,9 +2596,11 @@ code {
   font-family: Courier,"Courier New",sans-serif,monospace;
 }
 
-.flat {
-  font-size: .875em;
-  margin-left: -3px;
+.flat, .natural {
+  position: relative;
+  top: -3px;
+  font-size: .825em;
+  margin-left: -2px;
   margin-right: -3px;
 }
 				
@@ -2616,6 +2618,21 @@ code {
   padding: 7px;
   text-align: left;
   white-space: nowrap;
+}
+
+.nicetable {
+  margin: 40px 20px;
+}
+
+.nicetable td {
+  border: 2px double #668;
+  min-width: 40px;
+  padding: 7px;
+  text-align: left; 
+}
+
+td.wrap {
+  white-space: normal;
 }
 
 .musicExample { 
@@ -2648,6 +2665,10 @@ code {
   max-width: 300px;
   margin: 18px 0;
   padding: 0 10px;
+}
+
+.musicExample strong {
+  color: #ddf;
 }
 
 audio:focus {

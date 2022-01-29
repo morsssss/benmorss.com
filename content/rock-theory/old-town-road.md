@@ -272,7 +272,8 @@ Next, he skips past the next four Nine Inch Nails cycles, right to the fuller, m
       <td>D# C# D# G#</td><td>D#</td><td>— </td><td>A# G# F#</td>
     </tr>
     <tr>
-      <td class="small" style="max-width: 10rem">(offbeat F#’s, occasional downbeat G#’s)</td><td>G# + F#</td><td>G# + F#</td><td>G# + F#</td>
+      <td class="small wrap" style="max-width: 10rem">(offbeat F#’s, occasional downbeat G#’s)</td>
+      <td>G# + F#</td><td>G# + F#</td><td>G# + F#</td>
     </tr>
     <tr>
       <td>B#</td><td>C#</td><td>A#</td><td>B</td>
@@ -430,7 +431,7 @@ Here’s a complete score showing all the pitches in this chorus:
       <td>Banjo</td><td>D# C# D# G#</td><td>D#</td><td>— </td><td>A# G# F#</td>
     </tr>
     <tr>
-      <td>Quiet Banjo</td><td class="small" style="max-width: 10rem">(offbeat F#’s, occasional downbeat G#’s)</td><td>G# + F#</td><td>G# + F#</td><td>G# + F#</td>
+      <td>Quiet Banjo</td><td class="small wrap" style="max-width: 10rem">(offbeat F#’s, occasional downbeat G#’s)</td><td>G# + F#</td><td>G# + F#</td><td>G# + F#</td>
     </tr>
     <tr>
       <td>Banjo</td><td>B#</td><td>C#</td><td>A#</td><td>B</td>
@@ -511,7 +512,7 @@ And here’s the pitches in the refrain:
       <td>Banjo</td><td>D# C# D# G#</td><td>D#</td><td>— </td><td>A# G# F#</td>
     </tr>
     <tr>
-      <td>Quiet Banjo</td><td class="small">(offbeat F#’s, occasional downbeat G#’s)</td><td>G# + F#</td><td>G# + F#</td><td>G# + F#</td>
+      <td>Quiet Banjo</td><td class="small wrap">(offbeat F#’s, occasional downbeat G#’s)</td><td>G# + F#</td><td>G# + F#</td><td>G# + F#</td>
     </tr>
     <tr>
       <td>Banjo</td><td>B#</td><td>C#</td><td>A#</td><td>B</td>
