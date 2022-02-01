@@ -6,7 +6,7 @@ imageLarge: images/blog/rivers-cuomo_lg.jpg
 imageSmall: images/blog/rivers-cuomo_sm.jpg
 imageDescription: 
 images: 
- - images/blog/madness_lg.jpg
+ - images/blog/rivers-cuomo_lg.jpg
 description : "\"Say It Ain't So\" opens with a striking dissonance. This kicks off a journey that keeps a harmonically stable song exciting."
 summary: "\"Say It Ain't So\" opens with a striking dissonance. This kicks off a harmonic journey that keeps a harmonically stable song exciting."
 tags:
