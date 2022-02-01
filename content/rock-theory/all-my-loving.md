@@ -6,7 +6,7 @@ imageLarge: images/blog/all-my-loving_lg.jpg
 imageSmall: images/blog/all-my-loving_sm.jpg
 imageDescription: 
 images: 
- - images/blog/madness_lg.jpg
+ - images/blog/all-my-loving_lg.jpg
 description : "Let's see how a great songwriter like Paul McCartney could turn even parallel motion to his advantage."
 summary: "Let's see how a great songwriter like Paul McCartney could turn even parallel motion to his advantage."
 tags:
