@@ -28,8 +28,6 @@ tags:
   - alt-rock
 ---
 
-### Say it Ain’t So!
-
 The other day, I was listening to Weezer’s first album - the “Blue Album”. It’s one of those records where, each time I hear it, I like it more. I just love what this record achieves sonically and culturally. Each time through, songs like “In the Garage” pack a weightier emotional punch. Each time through, I’m just more glad this record exists in the world.
 
 But I’m still a theory nerd. And this time around, when I got to “Say It Ain’t So”, something unusual caught my attention: a G chord that contains both a B<span class="flat">♭</span> and a B<span class="natural">♮</span>.
@@ -74,7 +72,9 @@ The musical language of the blues has a completely different sense of major and 
 
 People do agree on at least one thing: the [blue note](https://en.wikipedia.org/wiki/Blue_note) is a defining feature of the blues. Briefly, blue notes are pitches that lie ambiguously between two pitches of the European twelve-note scale. The blues third is one famous case. Once again, people don’t quite agree on what this third is, except that its pitch is flexible, roaming in the space between a major third and a major second. Sometimes it lies between the major second and the minor third, but it spends most of its time between the minor and major thirds. On a piano, this is often expressed by playing both of those notes simultaneously, or sliding between them. In the key of G, those notes would be B<span class="flat">♭</span> and B<span class="natural">♮</span>, and that might sound something like this:
 
-_(play B<span class="flat">♭</span>-B bluesy thingy in G)_
+<div class="musicExample oneElement">
+	<audio controls="controls" src="/music/weezer/blues-in-g.mp3"></audio>
+</div>
 
 Perhaps because the blues third combines aspects of the major and minor third, blues-influenced music that’s in a conventional major key may well use both types of third - interchangeably, at different times for different purposes, or mashed together simultaneously. This would never have happened in traditional classical music, where major and minor keys were expressed distinctly. But ever since jazz found its way into popular music in the early 20th century, the blues third has colored the major scale with a characteristic bluesy sound. Jimi Hendrix combined major and minor thirds neatly by playing 7(#9) chords in [“Purple Haze”](https://youtu.be/WGoDaYjdfSg?t=24):
 
@@ -195,7 +195,7 @@ It’s also prominent in Oasis’ song [“Don’t Look Back in Anger”](https:
     <tr>
       <td>F</td>
       <td>Fm</td>
-      <td>Cm</td>
+      <td>C</td>
     </tr>
   </table>
   <audio src="/music/weezer/oasis-prechorus.mp3" controls="controls"/>
@@ -296,9 +296,9 @@ Of course, in this case, the G-F-E<span class="flat">♭</span> happens over the
 	<audio controls="controls" src="/music/weezer/prolonged-Eb.mp3"></audio>
 </div>
 
-The first verse makes the case for E<span class="flat">♭</span> more strongly. Two of its two-bar melodic phrases end in E<span class="flat">♭</span> over an E<span class="flat">♭</span> chord, and the other phrase ends on a strong E<span class="flat">♭</span> that’s ornamented by a drop to B<span class="flat">♭</span>, the fifth of the E<span class="flat">♭</span> chord. Let’s play the first verse, emphasizing these descents to E<span class="flat">♭</span>.
+The first verse makes the case for E<span class="flat">♭</span> more strongly. Two of its two-bar melodic phrases end in E<span class="flat">♭</span> over an E<span class="flat">♭</span> chord, and the other phrase ends on a strong E<span class="flat">♭</span> that’s ornamented by a drop to B<span class="flat">♭</span>, the fifth of the E<span class="flat">♭</span> chord. While I play the first verse, listen for those descents to E<span class="flat">♭</span>.
 
-<div class="musicExample twoElements">
+<div class="musicExample oneElements">
   <table class="measures">
     <tr>
       <td>B<span class="flat">♭</span></td>
@@ -307,7 +307,7 @@ The first verse makes the case for E<span class="flat">♭</span> more strongly.
       <td>F <strong>E<span class="flat">♭</span></strong></td>
       <td>C E<span class="flat">♭</span> F</td>
       <td>G<span class="flat">♭</span> E<span class="flat">♭</span> F E<span class="flat">♭</span></td>
-      <td>E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
+      <td><strong>E<span class="flat">♭</strong></span> C E<span class="flat">♭</span></td>
       <td><strong>E<span class="flat">♭</span></strong> C B<span class="flat">♭</span></td>
     </tr>
     <tr>
@@ -321,7 +321,6 @@ The first verse makes the case for E<span class="flat">♭</span> more strongly.
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
 </div>
 
 <div class="musicExample twoElements">
@@ -339,7 +338,7 @@ The first verse makes the case for E<span class="flat">♭</span> more strongly.
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/verse.mp3" controls="controls"/>
 </div>
 
 The melody varies in later verses, but its phrases consistently descend to an E<span class="flat">♭</span> pitch over an E<span class="flat">♭</span> chord. These powerful cadences to the first scale degree strengthen the E<span class="flat">♭</span> tonality. The only element in the melody that contradicts these restful cadences is the opening B<span class="flat">♭</span>-C-B<span class="natural">♮</span>, which creates a strong conflict between B<span class="flat">♭</span> and B<span class="natural">♮</span> - and which we will discuss below.
@@ -361,10 +360,10 @@ The chorus drives home the case for E<span class="flat">♭</span>. The B<span c
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/key-chorus-first-phrase.mp3" controls="controls"/>
 </div>
 
-And the last phrase comes at the E<span class="flat">♭</span> from below, a pop twist on a classic 7-8 cadence, the 7 (a D) appearing over the IV chord, not a classical V chord.
+A few seconds later, the chorus' last phrase comes at the E<span class="flat">♭</span> from below, a pop twist on a classic 7-8 cadence, the 7 (a D) appearing over the IV chord, not the V chord we'd find in classical music.
 
 <div class="musicExample twoElements">
   <table class="measures">
@@ -381,14 +380,16 @@ And the last phrase comes at the E<span class="flat">♭</span> from below, a po
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/key-chorus-last-phrase.mp3" controls="controls"/>
 </div>
 
 At this point, the instruments pause, making this moment feel like a true cadence.
 
 In the second chorus, the guitars hit a very loud E<span class="flat">♭</span> after the first three Cm and Gm chords. This has the useful effect of defining the E<span class="flat">♭</span> tonality even further while simultaneously introducing some much-needed dissonance.
 
-_(play that)_
+<div class="musicExample oneElement">
+	<audio controls="controls" src="/music/weezer/key-chorus-first-phrase-plus-Eb.mp3"></audio>
+</div>
 
 All these cadences and harmonic stability could make the song boring! Fortunately, another force adds conflict and energy: the conflict between B<span class="flat">♭</span> and B<span class="natural">♮</span>. Now we’re ready to investigate that mystery by tracing the journey of the mysterious G(m) chord.
 
@@ -400,27 +401,16 @@ Now that we’ve explored its context, let’s return to the question of the mod
 
 The first few seconds of the song showcase the striking dissonance and ambiguity of the G(m). The second chord in the entire song, it contains both a B<span class="flat">♭</span> and a B<span class="natural">♮</span>. Next, Cuomo shows that this was no accident, no wrong note, by playing a dissonant D-G-B-B<span class="flat">♭</span> riff:
 
-<div class="musicExample twoElements">
-  <table class="measures">
-    <tr>
-      <td></td>
-      <td>D G B<span class="natural">♮</span> B<span class="flat">♭</span></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td>Cm</td>
-      <td>G(m)</td>
-      <td>A<span class="flat">♭</span></td>
-      <td>E<span class="flat">♭</span></td>
-    </tr>
-  </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+<div class="musicExample oneElement">
+	<audio controls="controls" src="/music/weezer/dissonant-intro.mp3"></audio>
 </div>
+
 
 Right away, we know this song is going to be different. It will be a Weezer song from the blue album period, a song that’s built from conventional rock materials, but that will always stay a bit off-kilter. Without the dissonance, we’d simply have a standard rock song:
 
-_(play intro without the dissonance)_
+<div class="musicExample oneElement">
+	<audio controls="controls" src="/music/weezer/consonant-intro.mp3"></audio>
+</div>
 
 It’s hard to play this chord at all on a guitar in standard tuning. Ryan Lendt [helpfully points out](https://www.youtube.com/watch?v=J_nbYfXOrps) that Cuomo tuned down a half-step, leaving the dissonant B<span class="flat">♭</span> conveniently on an open string. All he had to do was play an A<span class="flat">♭</span> major chord while keep his finger off the top two strings, leaving the B<span class="flat">♭</span> string open.
 
@@ -430,7 +420,7 @@ At 0:13, the beat comes in, along with a rhythm guitar playing Cm - G - A<span c
 
 At the same time, we hear a small vocal melody that goes G-F-E<span class="flat">♭</span> on the words “oh yeah”. As we described above, this 3-2-1 descent to the first scale degree reduces tension. Fortunately, each time it happens, the lead guitar immediately counteracts the undesired tranquility by playing the D-G-B-B<span class="flat">♭</span> riff.
 
-The introduction ends with a full stop on the E<span class="flat">♭</span> chord that closes the progression. Preceded as always by the A<span class="flat">♭</span> chord, the A<span class="flat">♭</span>-E<span class="flat">♭</span> feels like a plagal IV-I cadence. (More on these later.) Something needs to restart the energy!
+The introduction ends with a full stop on the E<span class="flat">♭</span> chord that closes the progression. This is preceded as always by the A<span class="flat">♭</span> chord, creating what feels like a plagal IV-I cadence. (More on these later.) Something needs to restart the energy!
 
 #### The verse - mixture
 
@@ -447,7 +437,7 @@ Fortunately, the verse wastes no time intensifying the battle between B<span cla
       <td>G</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/Bb-C-B.mp3" controls="controls"/>
 </div>
 
 This tune is quite unusual. It’s highly chromatic! It describes an abrupt move from the minor mode implied by the Cm chord and B<span class="flat">♭</span> pitch to the major mode of the G chord and B<span class="natural">♮</span>.
@@ -457,8 +447,6 @@ After this striking beginning, the verse becomes conventional, descending anothe
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>B<span class="flat">♭</span></td>
-      <td>C B<span class="natural">♮</span></td>
       <td>C G<span class="flat">♭</span></td>
       <td>F <strong>E<span class="flat">♭</span></strong></td>
       <td>C E<span class="flat">♭</span> F</td>
@@ -467,8 +455,6 @@ After this striking beginning, the verse becomes conventional, descending anothe
       <td><strong>E<span class="flat">♭</span></strong> C B<span class="flat">♭</span></td>
     </tr>
     <tr>
-      <td>Cm</td>
-      <td>G</td>
       <td>A<span class="flat">♭</span></td>
       <td>E<span class="flat">♭</span></td>
       <td>Cm</td>
@@ -484,7 +470,7 @@ After this striking beginning, the verse becomes conventional, descending anothe
     <tr>
       <td>C E<span class="flat">♭</span> F</td>
       <td>G E<span class="flat">♭</span></td>
-      <td>E<strong><span class="flat">♭</span></strong></td>
+      <td><strong>E<span class="flat">♭</span></strong></td>
       <td></td>
     </tr>
     <tr>
@@ -494,7 +480,7 @@ After this striking beginning, the verse becomes conventional, descending anothe
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/verse-from-bar-3.mp3" controls="controls"/>
 </div>
 
 That B<span class="flat">♭</span>-C-B<span class="natural">♮</span> is a small element of dissonance stuck into an otherwise consonant bit of music, just as the G(m) chord and D-G-B-B<span class="flat">♭</span> were in the introduction. Once again, it’s just enough to keep the tension going, by forcing the B<span class="flat">♭</span>-B<span class="natural">♮</span> conflict back into our faces.
@@ -522,7 +508,7 @@ Here’s an example. Let’s say (conveniently) you were in the key of E<span cl
       <td>vi</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/Eb-G-C-chords.mp3" controls="controls"/>
 </div>
 
 Unfortunately, the G major in our song is followed not by Cm, but by A<span class="flat">♭</span>. Our applied dominant narrative requires another subplot borrowed from classical music: the _deceptive cadence_. This is a cadence in which the first chord leads to a second chord that’s unexpected. For example, instead of V<sup>7</sup> - I, it might go V<sup>7 </sup>- vi. Here’s a standard V<sup>7</sup>-I cadence and a deceptive V<sup>7</sup>-vi cadence side by side:
@@ -542,20 +528,24 @@ Unfortunately, the G major in our song is followed not by Cm, but by A<span clas
       <td>vi</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/deceptive-cadence.mp3" controls="controls"/>
 </div>
 
 This deceptive cadence doesn’t fully resolve the tension created by the first chord - it’s more a clever, subtle way of extending it.
 
 A deceptive cadence can be combined with an applied dominant. This gives us an intriguing way of hearing the chord progression in “Say It Ain’t So”. The Cm - G - A<span class="flat">♭</span> - E<span class="flat">♭</span> progression can be analyzed as vi - V/vi - IV - I, with V/vi - IV as our deceptive cadence.
 
-In other words, our ears would expect, after a C minor chord, then a G, a return to C minor:
+In other words, after a C minor chord and a G chord, our ears would expect a return to C minor:
 
-_(play Cm - G - Cm )_
+<div class="musicExample oneElement">
+	<audio controls="controls" src="/music/weezer/Cm-G-Cm.mp3"></audio>
+</div>
 
 But instead we get the A<span class="flat">♭</span> chord, which then drives us back down to E<span class="flat">♭</span> via a plagal cadence:
 
-_(play Cm - G - A<span class="flat">♭</span> - E<span class="flat">♭</span>)_
+<div class="musicExample oneElement">
+	<audio controls="controls" src="/music/weezer/deceptive-then-plagal-cadence.mp3"></audio>
+</div>
 
 Plagal cadences… hmm. What else from this article does that remind us of?
 
@@ -563,7 +553,7 @@ Plagal cadences… hmm. What else from this article does that remind us of?
 
 Aha!
 
-Do you remember Radiohead’s song “Creep”? If you wanted to analyze it using classical music techniques (which you might not want to do), you might find the same combination of applied dominant and deceptive cadence. You’ll recall that its chord progression is G - B - C - Cm. That can be then heard as I - V/vi - IV - iv.
+Do you remember Radiohead’s song “Creep”? If you wanted to analyze it using classical music techniques (which you might not want to do), you might find the same combination of applied dominant and deceptive cadence. You’ll recall that its chord progression is G - B - C - Cm. You might interpret the B and C chords as a V/vi followed by a IV. You’d then hear the four chords as I - V/vi - IV - iv.
 
 But then there’s the Beatles cadence. Remember that as each chord cycle of “Creep” progresses to the next, we hear a IV - iv - I progression:
 
@@ -584,7 +574,7 @@ But then there’s the Beatles cadence. Remember that as each chord cycle of “
       <td>I</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/creep-5-chords.mp3" controls="controls"/>
 </div>
 
 “Say It Ain’t So” does not include a IV - iv - I progression. But it does echo the Beatles cadence. Its first two chords are the same as the final two chords in the example above. I hear the song strongly as twin plagal cadences, one in the key of G, the other in the key of E<span class="flat">♭</span>:
@@ -598,13 +588,13 @@ But then there’s the Beatles cadence. Remember that as each chord cycle of “
       <td>E<span class="flat">♭</span></td>
     </tr>
     <tr>
-      <td><em>key of G:</em> iv</td>
-      <td>I</td>
-      <td><em>key of E<span class="flat">♭</span>:</em> IV</td>
-      <td>I</td>
+      <td style="color:#99d"><em>key of G:</em> iv</td>
+      <td style="color:#99d">I</td>
+      <td style="color:#d99"><em>key of E<span class="flat">♭</span>:</em> IV</td>
+      <td style="color:#d99">I</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/twin-plagal-cadences.mp3" controls="controls"/>
 </div>
 
 The plagal-cadence-like structures carry their traditional emotional weight, lending the song a feeling of resignation, of calm resolution. It’s like we resolve down to G, then creep up a half-step to A<span class="flat">♭</span> before sinking down to E<span class="flat">♭</span>, the tonic.
@@ -628,7 +618,7 @@ When you realize that pop treats these classical ideas more loosely, you can hea
       <td>vi</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/backwards-progression.mp3" controls="controls"/>
 </div>
 
 Let’s crawl back out of the classical harmony rabbit hole and look at this in a more obvious way. Put simply, the G major chord and the resulting B<span class="natural">♮</span> create necessary tension by injecting a note outside of the scale. Whether we call the G major an applied dominant, a borrowed chord, or something else, it’s there to introduce color and variety. It smoothly brings in a fresh chord that contains a new pitch, the <span class="flat">♭</span>6. It gently pulls the music away from the tonic chord toward a different tonal center. And it certainly lends the song energy. Imagine how much less interesting this song would be if it used G minor instead of G major. We’d also need to replace the B<span class="natural">♮</span> in the melody with a B-flat:
@@ -648,7 +638,7 @@ Let’s crawl back out of the classical harmony rabbit hole and look at this in 
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/melody-with-Bb.mp3" controls="controls"/>
 </div>
 
 Compare this to the actual song:
@@ -668,7 +658,7 @@ Compare this to the actual song:
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/melody-with-B-natural.mp3" controls="controls"/>
 </div>
 
 You can feel how the G major chord makes the tension rise. And how strongly it drives us forward to the A<span class="flat">♭</span> chord, as the B<span class="natural">♮</span> in the G major chord pulls upward to the C in the A<span class="flat">♭</span> chord. And then how somehow it all resolves in the E<span class="flat">♭</span> chord.
@@ -678,8 +668,8 @@ Notice too how different this is from “Creep”. The melody of “Creep” con
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>G A G</td>
-      <td>B<span class="natural">♮</span> G</td>
+      <td>A A G</td>
+      <td><span class="small">(blues B<span class="natural">♮</span>/B<span class="flat">♭</span>)</span> G</td>
       <td>G A G</td>
       <td>B<span class="flat">♭</span> G</td>
       <td>G B<span class="natural">♮</span></td>
@@ -694,7 +684,7 @@ Notice too how different this is from “Creep”. The melody of “Creep” con
       <td>G</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/creep-B-and-Bb.mp3" controls="controls"/>
 </div>
 
 In contrast, in “Say It Ain’t So”, Cuomo seizes the opportunity to create a shocking, angular, desperate, chromatic B<span class="flat">♭</span>-C-B.
@@ -726,7 +716,7 @@ During the chorus’ first chord cycle, the melody doesn’t start until the A<s
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/chorus-first-phrase.mp3" controls="controls"/>
 </div>
 
 This melody is an ornamented version of the opening’s G-F-E<span class="flat">♭</span>. It’s another cadential figure in the key of E<span class="flat">♭</span>. Only the strong rhythmic emphasis on F, the second scale degree, saves it from finality.
@@ -748,7 +738,7 @@ As the melody continues through the second progression, it passes through a B<sp
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/chorus-second-phrase.mp3" controls="controls"/>
 </div>
 
 As mentioned above, the melody concludes with something like a full cadence in E<span class="flat">♭</span>. And that’s our story. The G(m) chord became a G major in the verse, though coupled with a strong B<span class="flat">♭</span>-B<span class="natural">♮</span>conflict. In the chorus, there’s no B in the melody, just B<span class="flat">♭</span>, shifting the underlying chord to G minor. The tale is complete!
@@ -766,7 +756,7 @@ By the time we get to the bridge, the story of B<span class="flat">♭</span> an
       <td>G<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/bridge-chords.mp3" controls="controls"/>
 </div>
 
 In the bridge, when we hear the E<span class="flat">♭</span> chord, it’s now clearly the IV of B<span class="flat">♭</span>. And just as the verse and chorus progression includes the borrowed G major chord, the bridge progression incorporates a borrowed chord of its own - a G<span class="flat">♭</span> chord, on loan from B<span class="flat">♭</span> minor. G<span class="flat">♭</span> is a major third down from B<span class="flat">♭</span>. This is a mirror image of the G, which was a major third up from E<span class="flat">♭</span>. And, just as the G major chord brought the fresh melodic pitch of B<span class="natural">♮</span> into the key of E<span class="flat">♭</span>, the G<span class="flat">♭</span> chord brings the fresh melodic pitch of D<span class="flat">♭</span> into the key of B<span class="flat">♭</span>:
@@ -786,7 +776,7 @@ In the bridge, when we hear the E<span class="flat">♭</span> chord, it’s now
       <td><strong>G<span class="flat">♭</span></strong></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/bridge-melody.mp3" controls="controls"/>
 </div>
 
 Of course, the G<span class="flat">♭</span> in the accompaniment is a new pitch as well. At the end of the bridge, this pitch wonderfully finds its way into the melody. And then it resolves chromatically upward to a G<span class="natural">♮</span> as the harmony shifts to Cm, marking the return to the song’s main Cm-Gm-A<span class="flat">♭</span>-E<span class="flat">♭</span> chord progression. It’s a retransition worthy of the finest 19th-century classical music:
@@ -804,7 +794,7 @@ Of course, the G<span class="flat">♭</span> in the accompaniment is a new pitc
       <td>Cm</td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/retransition.mp3" controls="controls"/>
 </div>
 
 This is followed by another 3-2-1 melodic cadence in the key of E<span class="flat">♭</span>. This one is triumphant, thrilling, so suffused with energy from the recent transition that it needs to be followed by a guitar solo.
@@ -824,7 +814,7 @@ This is followed by another 3-2-1 melodic cadence in the key of E<span class="fl
       <td>E<span class="flat">♭</span></td>
     </tr>
   </table>
-  <audio src="/music/weezer/foo.mp3" controls="controls"/>
+  <audio src="/music/weezer/triumphant-return.mp3" controls="controls"/>
 </div>
 
 From this point forward in the song, the B<span class="flat">♭</span> is ascendant, and the G chord remains consistently minor.
@@ -871,4 +861,4 @@ You may think it’s a little much to talk so much about a conflict between two 
 
 Back in the world of rock and of Weezer - other songs on the Blue Album play with unusual half-step dissonances as well. Just listen to the lead guitar part in the introduction of [“Undone”](https://www.youtube.com/watch?v=LHQqqM5sr7g). Over three of the four chords, it plays D#-A-A#. Over the other chord, it plays E#-B-A#. B and A# - that’s quite similar to the B-B-flat dissonance we’ve discussed here. The highly ambiguous chords the lead guitar forms here deserve an article of their very own, though  if you assume that the underlying chords match the F# - B - C# - B progression in the rest of the song, these are surface dissonances - appoggiaturas or incomplete neighbor notes. In other words, the lead guitar doesn’t contradict the fundamental nature of the harmonies.
 
-A two-note conflict in a Weezer song has led us into a deep exploration of chromatic techniques in alternative rock. Hope you enjoyed it! I promise to write something more detailed about how mixture helped make Nirvana’s songs catchy. Soon, soon, I promise.
+A two-note conflict in a Weezer song has led us into a deep exploration of chromatic techniques in alternative rock. Hope you enjoyed it! I promise to write something more detailed about how mixture helped make Nirvana’s songs catchy. Soon. Soon. I promise!
