@@ -7,8 +7,8 @@ imageSmall: images/blog/all-my-loving_sm.jpg
 imageDescription: 
 images: 
  - images/blog/madness_lg.jpg
-description : "In the 1980s, many songs changed keys for the chorus. Madness took this a step further... and further..."
-summary: "In the 1980s, many songs changed keys for the chorus. Let's follow Madness' hit \"Our house\" as the band takes this to ridiculous extremes."
+description : "Let's see how a great songwriter like Paul McCartney could turn even parallel motion to his advantage."
+summary: "Let's see how a great songwriter like Paul McCartney could turn even parallel motion to his advantage."
 tags:
   - music analysis
   - music theory

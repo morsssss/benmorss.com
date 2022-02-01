@@ -1,14 +1,14 @@
 ---
-title: "Say It Ain't So: A Mystery Chord Prevents Stasis"
-date: 2022-01-29
+title: "Harmony that's Too Stable? Say It Ain't So!"
+date: 2022-02-01
 author: Ben Morss
-imageLarge: images/blog/all-my-loving_lg.jpg
-imageSmall: images/blog/all-my-loving_sm.jpg
+imageLarge: images/blog/rivers-cuomo_lg.jpg
+imageSmall: images/blog/rivers-cuomo_sm.jpg
 imageDescription: 
 images: 
  - images/blog/madness_lg.jpg
-description : "In the 1980s, many songs changed keys for the chorus. Madness took this a step further... and further..."
-summary: "In the 1980s, many songs changed keys for the chorus. Let's follow Madness' hit \"Our house\" as the band takes this to ridiculous extremes."
+description : "\"Say It Ain't So\" opens with a striking dissonance. This kicks off a journey that keeps a harmonically stable song exciting."
+summary: "\"Say It Ain't So\" opens with a striking dissonance. This kicks off a harmonic journey that keeps a harmonically stable song exciting."
 tags:
   - music analysis
   - music theory
@@ -28,7 +28,7 @@ tags:
   - alt-rock
 ---
 
-The other day, I was listening to Weezer’s first album - the “Blue Album”. It’s one of those records where, each time I hear it, I like it more. I just love what this record achieves sonically and culturally. Each time through, songs like “In the Garage” pack a weightier emotional punch. Each time through, I’m just more glad this record exists in the world.
+The other day, I was listening to Weezer’s first album - the self-titled “Blue Album”. It’s one of those records where, each time I hear it, I like it more. I just love what this record achieves sonically and culturally. Each time through, songs like “In the Garage” pack a weightier emotional punch. Each time through, I’m just more glad this record exists in the world.
 
 But I’m still a theory nerd. And this time around, when I got to “Say It Ain’t So”, something unusual caught my attention: a G chord that contains both a B<span class="flat">♭</span> and a B<span class="natural">♮</span>.
 
