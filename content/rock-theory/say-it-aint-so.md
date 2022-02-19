@@ -132,7 +132,7 @@ In [this article on “Old Town Road”](https://benmorss.com/rock-theory/old-to
 
 The song’s clearly in D major. But the third chord is not F# minor, the iii chord of D _major_. Instead, it’s F major, the III chord of D _minor_. Kurt Cobain’s borrowed a chord from the [parallel minor](https://en.wikipedia.org/wiki/Parallel_key) mode. That’s mixture!
 
-To my ear, in this rock context, the mixture is inspired by the blues. The F<span class="natural">♮</span>is an extension of the idea of a blues third. Just imagine how dull this song would sound if the F major chord was replaced with an F# minor:
+To my ear, in this rock context, the mixture is inspired by the blues. The F<span class="natural">♮</span> is an extension of the idea of a blues third. Just imagine how dull this song would sound if the F major chord was replaced with an F# minor:
 
 <div class="musicExample twoElements">
   <table class="measures">
