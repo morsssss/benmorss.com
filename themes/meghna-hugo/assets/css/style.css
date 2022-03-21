@@ -2596,12 +2596,21 @@ code {
   font-family: Courier,"Courier New",sans-serif,monospace;
 }
 
-.flat, .natural {
+.flat, .natural, .sharp {
   position: relative;
   top: -3px;
-  font-size: .825em;
   margin-left: -2px;
   margin-right: -3px;
+}
+
+.flat, .natural {
+  font-size: .825em;
+  margin-left: -2px;
+}
+
+.sharp {
+  font-size: .75em;
+  margin-left: -1px;
 }
 				
 .measures td {
@@ -2629,6 +2638,12 @@ code {
   min-width: 40px;
   padding: 7px;
   text-align: left; 
+}
+
+.table-head {
+  font-weight: bolder;
+  color: #c3cfca;
+  font-size: 1.0625em;
 }
 
 td.wrap {
