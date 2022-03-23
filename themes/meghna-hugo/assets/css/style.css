@@ -2640,6 +2640,14 @@ code {
   text-align: left; 
 }
 
+td.big-border {
+  border-right: 2px dashed #88a;
+}
+
+td.big-border + td {
+  border-left: 2px dashed #88a;
+}
+
 .table-head {
   font-weight: bolder;
   color: #c3cfca;

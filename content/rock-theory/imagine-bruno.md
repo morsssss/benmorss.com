@@ -63,8 +63,8 @@ Each of the song’s three main sections repeats its own simple melodic phrase o
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>D B</td>
-      <td>C<span class="sharp">♯</span> A<span class="sharp">♯</span></td>
+      <td>B D B</td>
+      <td>A<span class="sharp">♯</span> C<span class="sharp">♯</span> A<span class="sharp">♯</span></td>
     </tr>
     <tr>
       <td>G</td>
@@ -172,11 +172,11 @@ The only section whose melody helps make the case for the key of G is the chorus
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>B D E</td>
+      <td class="big-border">B D E</td>
       <td>B D E</td>
     </tr>
     <tr>
-      <td>G</td>
+      <td class="big-border">G</td>
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
@@ -208,13 +208,13 @@ Unfortunately, “Enemy” doesn’t do much to help us hear the progression thi
   <table class="measures">
     <tr>
       <td>C<span class="sharp">♯</span></td>
-      <td>F<span class="sharp">♯</span></td>
+      <td class="big-border">F<span class="sharp">♯</span></td>
       <td>Bm</td>
       <td>F<span class="sharp">♯</span></td>
     </tr>
     <tr>
       <td>V</td>
-      <td>I</td>
+      <td class="big-border">I</td>
       <td>iv</td>
       <td>I</td>
     </tr>
@@ -279,20 +279,18 @@ At this point, we’re out of options. Iit would be reasonable to would be to sa
 
 Assembling all the pitches in the song and sorting them from lowest to highest, we get the following scale:
 
-
-```
-G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span>
-```
-
+<p class="lead text-monospace text-center">
+  G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span>
+</p>
 
 It doesn’t look much like a G scale. Take out the A<span class="sharp">♯</span>, and it’s a G Lydian. But the A<span class="sharp">♯</span> is quite prominent in this song, and we don’t want to omit it. So I don’t think this scale makes a good case for the key of G.
 
 Let’s start instead with an F<span class="sharp">♯</span> and see if the result resembles an F<span class="sharp">♯</span> scale:
 
 
-```
+<p class="lead text-monospace text-center">
 F<span class="sharp">♯</span> G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E 
-```
+</p>
 
 
 Without the A<span class="sharp">♯</span>, it could be an F<span class="sharp">♯</span> Phrygian - but once again the A<span class="sharp">♯</span> gets in the way.
@@ -302,9 +300,9 @@ We’d have the same problem trying to interpret this as a D scale. Can any scal
 What if it were a B scale of some sort? Then we’d have
 
 
-```
+<p class="lead text-monospace text-center">
 B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span> G A A<span class="sharp">♯</span>
-```
+</p>
 
 
 
@@ -361,8 +359,8 @@ Let’s start with the pitches in the verse. Remember the verse?
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>D B</td>
-      <td>C<span class="sharp">♯</span> A<span class="sharp">♯</span></td>
+      <td>B D B</td>
+      <td>A<span class="sharp">♯</span> C<span class="sharp">♯</span> A<span class="sharp">♯</span></td>
     </tr>
     <tr>
       <td>G</td>
@@ -436,7 +434,7 @@ Notice how closely this resembles the B-D - A<span class="sharp">♯</span>-C<sp
   <table class="measures">
     <tr>
       <td>B D</td>
-      <td>C<span class="sharp">♯</span> A<span class="sharp">♯</span></td>
+      <td>A<span class="sharp">♯</span> C<span class="sharp">♯</span></td>
       <td>B D</td>
       <td>C<span class="sharp">♯</span> </td>
     </tr>
@@ -667,15 +665,15 @@ And then - satisfaction! Unlike “Enemy,” “Bruno” fulfills the expectatio
       <td>E<span class="flat">♭</span> C E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
       <td>D B G F G</td>
       <td>E<span class="flat">♭</span> C E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
-      <td style="border-right: 2px dashed #88a;">F D</td>
-      <td style="border-left: 2px dashed #88a;">G E<span class="flat">♭</span> G E<span class="flat">♭</span></td>
+      <td class="big-border">F D</td>
+      <td>G E<span class="flat">♭</span> G E<span class="flat">♭</span></td>
     </tr>
     <tr>
       <td>A<span class="flat">♭</span></td>
       <td>G</td>
       <td>A<span class="flat">♭</span></td>
-      <td style="border-right: 2px dashed #88a;">G</td>
-      <td style="text-align:left; border-left: 2px dashed #88a;">Cmi Fm</td>
+      <td class="big-border">G</td>
+      <td>Cmi Fm</td>
     </tr>
   </table>
   <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
