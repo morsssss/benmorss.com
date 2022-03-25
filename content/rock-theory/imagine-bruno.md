@@ -412,11 +412,11 @@ _(show that and play it)_
 
 But in actual life the connection is tenuous, partly because the B-A-G-D melody really centers around the note G, which is the first scale degree of the underlying G chord, and partly because it takes quite a while to get all the way down to D.
 
-Speaking of G chords, let’s play the prechorus melody, but faster, while sustaining chord tones.
+Speaking of G chords, let’s play the prechorus melody, but faster, while sustaining and giving more weight to chord tones.
 
 _(B-G-D, F<span class="sharp">♯</span>, B-G-D, F<span class="sharp">♯</span>-A<span class="sharp">♯</span>)_
 
-Verticalizing, we see that this tune outlines two progressions between G chords and partial F<span class="sharp">♯</span><sup>7</sup> chords. 
+Eliminating the passing note A, then verticalizing, we see that this tune outlines two progressions between G chords and partial F<span class="sharp">♯</span><sup>7</sup> chords. 
 
 _(diagram with BGD chord with an A slurred to the B, an F<span class="sharp">♯</span>-E chord, etc)_
 
@@ -428,14 +428,14 @@ Comparing those two chords to the prechorus melody, you hear that the melody sou
 
 _(play chord, then melody, then chords)_
 
-Notice how closely this resembles the B-D - A<span class="sharp">♯</span>-C<span class="sharp">♯</span> progression that defined the verse. The melody does explore a new area in the G and F<span class="sharp">♯</span> chords - the notes G and F<span class="sharp">♯</span> themselves. But it continues the B-A<span class="sharp">♯</span> melody, just up an octave. How about the D-C<span class="sharp">♯</span>? Well, Rubin must have wanted it to persist. If you [listen to the pre-chorus](https://youtu.be/D9G1VOjN_84?t=51) closely, you can hear heavily processed backing vocals singing the exact same pitches as the verse, but reversed within each chord:
+Notice how closely this resembles the B-D - A<span class="sharp">♯</span>-C<span class="sharp">♯</span> progression that defined the verse. The melody does explore a new area in the G and F<span class="sharp">♯</span> chords - the notes G and F<span class="sharp">♯</span> themselves. But it continues the B-A<span class="sharp">♯</span> melody, just up an octave. How about the D-C<span class="sharp">♯</span>? Well, Rubin must have wanted it to persist. If you [listen to the pre-chorus](https://youtu.be/D9G1VOjN_84?t=51) closely, you can hear heavily processed backing vocals singing almost the exact same pitches as the verse (though not always in the same order):
 
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>B D</td>
-      <td>A<span class="sharp">♯</span> C<span class="sharp">♯</span></td>
-      <td>B D</td>
+      <td>B D E</td>
+      <td>C<span class="sharp">♯</span> A<span class="sharp">♯</span></td>
+      <td>B D E</td>
       <td>C<span class="sharp">♯</span> </td>
     </tr>
     <tr>
@@ -510,7 +510,7 @@ I might verticalize the chords like this:
 
 _(E - BDF<span class="sharp">♯</span> over G, then E - DB over F<span class="sharp">♯</span>)_
 
-That reflects a more traditional viewpoint in which the E is a dissonance, an incomplete neighbor to the D. But, listening with pop ears, it’s pretty easy to also hear it this way:
+That reflects a more traditional viewpoint in which the E is a dissonance, an incomplete neighbor to the D or a passing tone. But, listening with pop ears, it’s pretty easy to also hear it this way:
 
 _(BDE over G etc)_
 
