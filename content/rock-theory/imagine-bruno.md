@@ -636,9 +636,9 @@ The song begins with what we’ll call its refrain: the part with the lyrics, �
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>E<span class="flat">♭</span> C E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
+      <td>E<span class="flat">♭</span> A<span class="flat">♭</span> E<span class="flat">♭</span> A<span class="flat">♭</span> E<span class="flat">♭</span></td>
       <td>D B G F G</td>
-      <td>E<span class="flat">♭</span> C E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
+      <td>E<span class="flat">♭</span> B<span class="flat">♭</span> E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
       <td>F D</td>
     </tr>
     <tr>
@@ -651,7 +651,7 @@ The song begins with what we’ll call its refrain: the part with the lyrics, �
   <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
 </div>
 
-Like in “Enemy,” the first two chords are major triads a half-step apart. Also like in “Enemy,” the melody over each chord is built around the third and fifth scale degrees. You can hear this if we play the first two bars of “Bruno”, then the first two bars of “Enemy”, emphasizing the pitches:
+Like in “Enemy,” the first two chords are major triads a half-step apart. Also like in “Enemy,” the melody over each chord is built around the chord tones. You can hear the connection if we play a compressed version of the first two bars of “Bruno”, then a quick version of the first two bars of “Enemy” transposed to the same key:
 
 _(do it)_
 
@@ -662,9 +662,13 @@ And then - satisfaction! Unlike “Enemy,” “Bruno” fulfills the expectatio
 <div class="musicExample twoElements">
   <table class="measures">
     <tr>
-      <td>E<span class="flat">♭</span> C E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
+      <td colspan="4" class="big-border"><b>Refrain</b></td>
+      <td><b>Pepa and Félix duet</b></td>
+    </tr>
+    <tr>
+      <td>E<span class="flat">♭</span> A<span class="flat">♭</span> E<span class="flat">♭</span> A<span class="flat">♭</span> E<span class="flat">♭</span></td>
       <td>D B G F G</td>
-      <td>E<span class="flat">♭</span> C E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
+      <td>E<span class="flat">♭</span> B<span class="flat">♭</span> E<span class="flat">♭</span> C E<span class="flat">♭</span></td>
       <td class="big-border">F D</td>
       <td>G E<span class="flat">♭</span> G E<span class="flat">♭</span></td>
     </tr>
@@ -688,7 +692,11 @@ _(play it)_
 
 ### A big retransition
 
-The same trick is used in the grand retransition from Isabela and Dolores’ contrasting middle section [at 1:52](https://youtu.be/bvWRMAU6V-c?t=118). This section starts by shifting into a pastoral E<span class="flat">♭</span> major. Then, at [2:30](https://youtu.be/bvWRMAU6V-c?t=154), Miranda deploys the A<span class="flat">♭</span>-G progression in double time, not just once, but four times in a row:
+The same trick is used in the grand retransition from Isabela and Dolores’ contrasting middle section [at 1:52](https://youtu.be/bvWRMAU6V-c?t=118). Another loud A<span class="flat">♭</span>-G moment finishes in a deceptive cadence, as this section starts by shifting into a pastoral E<span class="flat">♭</span> major.
+
+_(play it)_
+
+Then, [at 2:30](https://youtu.be/bvWRMAU6V-c?t=154), Miranda deploys the A<span class="flat">♭</span>-G progression in double time, not just once, but four times in a row:
 
 <div class="musicExample twoElements">
   <table class="measures">
