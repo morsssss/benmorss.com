@@ -72,7 +72,6 @@ Each of the song’s three main sections repeats its own simple melodic phrase o
     </tr>
     </table>
   <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
 </div>
 
 **Pre-Chorus:**
@@ -279,19 +278,23 @@ At this point, we’re out of options. Iit would be reasonable to would be to sa
 
 Assembling all the pitches in the song and sorting them from lowest to highest, we get the following scale:
 
-<p class="lead text-monospace text-center">
-  G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span>
-</p>
+<div class="musicExample twoElements">
+  <p class="lead text-monospace text-center">
+    G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span>
+  </p>
+  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+</div>
 
 It doesn’t look much like a G scale. Take out the A<span class="sharp">♯</span>, and it’s a G Lydian. But the A<span class="sharp">♯</span> is quite prominent in this song, and we don’t want to omit it. So I don’t think this scale makes a good case for the key of G.
 
 Let’s start instead with an F<span class="sharp">♯</span> and see if the result resembles an F<span class="sharp">♯</span> scale:
 
-
-<p class="lead text-monospace text-center">
-F<span class="sharp">♯</span> G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E 
-</p>
-
+<div class="musicExample twoElements">
+  <p class="lead text-monospace text-center">
+    F<span class="sharp">♯</span> G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E 
+  </p>
+  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+</div>
 
 Without the A<span class="sharp">♯</span>, it could be an F<span class="sharp">♯</span> Phrygian - but once again the A<span class="sharp">♯</span> gets in the way.
 
@@ -299,11 +302,12 @@ We’d have the same problem trying to interpret this as a D scale. Can any scal
 
 What if it were a B scale of some sort? Then we’d have
 
-
-<p class="lead text-monospace text-center">
-B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span> G A A<span class="sharp">♯</span>
-</p>
-
+<div class="musicExample twoElements">
+  <p class="lead text-monospace text-center">
+    B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span> G A A<span class="sharp">♯</span>
+  </p>
+  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+</div>
 
 
 #### B minor, really?
@@ -583,7 +587,7 @@ Just imagine if the prechorus was in that key. Or the chorus! Wouldn’t this be
 
 _(play an example)_
 
-But, to my consternation, the resolution never happened.
+Okay, my version sounds dreadful. But I'm convinced that more thought would yield an awesome chorus in B minor. To my consternation, in real life, this satisfying chorus never happened.
 
 
 #### So, what key is it in?

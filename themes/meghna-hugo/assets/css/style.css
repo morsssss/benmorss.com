@@ -2682,6 +2682,11 @@ td.wrap {
   margin: 0 10px;
 }
 
+.musicExample.twoElements p {
+  flex-grow: 1;
+  margin-bottom: 0;
+}
+
 .musicExample.twoElements audio {
   flex-grow: 1;
   width: 40%;

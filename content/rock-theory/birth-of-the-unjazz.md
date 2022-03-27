@@ -299,7 +299,7 @@ For the first 40 seconds, this backing track consists of simple drums and a hypn
 
 By itself, this synth line doesn’t create a clear sense of a specific harmony. To me, it sounds most like an elaboration of a G major chord in first inversion:
 
-{{<image "day-n-nite-g-major.jpg" 500>}}
+{{<image "birth/day-n-nite-g-major.jpg" 500>}}
 
 But this tune could also imply E minor, B minor, G major, or some succession of these chords. The tonality is simply ambiguous 🤷🏽‍♀️ until Kid Cudi sings. When he does sing, it’s quite unusual: he repeats the same short, hypnotic melody throughout the song. Here’s how it starts:
 
