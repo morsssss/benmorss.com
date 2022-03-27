@@ -2699,6 +2699,19 @@ td.wrap {
   color: #ddf;
 }
 
+.imageExample {
+  text-align: center;
+  padding:10px 0 30px;
+}
+
+.imageExample img {
+  max-width: 95%;
+}
+
+.musicExample img {
+  max-width: 95%;
+}
+
 audio:focus {
   outline: none;
   border: 2px dotted #aaf;

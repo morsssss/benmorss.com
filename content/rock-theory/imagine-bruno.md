@@ -2,6 +2,8 @@
 title: "Desire cruelly denied, then blessedly fulfilled"
 date: 2022-03-20
 author: Ben Morss
+audioFolder: imagine-bruno
+imageFolder: imagine-bruno
 imageLarge: images/blog/rivers-cuomo_lg.jpg
 imageSmall: images/blog/rivers-cuomo_sm.jpg
 imageDescription: 
@@ -44,7 +46,7 @@ I’m talking about Imagine Dragons’ song [“Enemy”](https://www.youtube.co
 
 ### The song
 
-First, let’s summarize the song. It’s built on a progression that repeats an unusual combination of chords: G and F<span class="sharp">♯</span>.
+First, let’s summarize the song. It’s built on a progression that repeats an unusual pair of chords: G and F<span class="sharp">♯</span>.
 
 <div class="musicExample twoElements">
   <table class="measures">
@@ -53,7 +55,7 @@ First, let’s summarize the song. It’s built on a progression that repeats an
       <td>F<span class="sharp">♯</span></td>
       </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/main-chords.mp3" controls="controls"></audio>
 </div>
 
 Each of the song’s three main sections repeats its own simple melodic phrase over the chords. Here they are:
@@ -71,7 +73,7 @@ Each of the song’s three main sections repeats its own simple melodic phrase o
       <td>F<span class="sharp">♯</span></td>
     </tr>
     </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/verse.mp3" controls="controls"></audio>
 </div>
 
 **Pre-Chorus:**
@@ -91,7 +93,7 @@ Each of the song’s three main sections repeats its own simple melodic phrase o
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/prechorus.mp3" controls="controls"></audio>
 </div>
 
 **Chorus:**
@@ -111,7 +113,7 @@ Each of the song’s three main sections repeats its own simple melodic phrase o
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/chorus.mp3" controls="controls"></audio>
 </div>
 
 
@@ -126,11 +128,11 @@ But I think it’s still useful to explore possible keys a song could be in. Doi
 
 Naively we might say, hey, the first chord in the song is a G. So maybe it’s in the key of G! The first chord is indeed quite forceful:
 
-_(play loud G chord)_
+{{<audio "loud-g-chord">}}
 
 But, right after that, we hear an equally assertive F<span class="sharp">♯</span> chord.
 
-_(play loud G, then F<span class="sharp">♯</span> chord)_
+{{<audio "loud-f-sharp-chord">}}
 
 That’s not something we normally associate with the key of G, so now we’re on uncertain tonal ground.
 
@@ -145,7 +147,7 @@ This brief introduction kicks off the verse. At first, the key-of-G argument loo
       <td>G</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/d-and-b-over-g.mp3" controls="controls"></audio>
 </div>
 
 But, in the second measure, the F<span class="sharp">♯</span> chord returns, inspiring Dan to sing C<span class="sharp">♯</span> and A<span class="sharp">♯</span>, the fifth and third scale degrees of F<span class="sharp">♯</span> major. It’s just as firmly in F<span class="sharp">♯</span> as the first measure was in G.
@@ -159,14 +161,14 @@ But, in the second measure, the F<span class="sharp">♯</span> chord returns, i
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/c-sharp-and-a-sharp-over-f-sharp.mp3" controls="controls"></audio>
 </div>
 
 If the second chord was, say, D instead of G, we could make a reasonable case for the key of G, as D is the V chord of G. But the second chord is F<span class="sharp">♯</span>, and that chord can’t enter the key of G without a passport. Its A<span class="sharp">♯</span> is deeply foreign to the G major scale. Every G chord in the song is followed by this inconvenient F<span class="sharp">♯</span>, and each time that happens, the F<span class="sharp">♯</span> weakens the case for the key of G.
 
 If the melody happened to imply the key of G during every F<span class="sharp">♯</span> chord, we’d feel a little more like we were in G. But the melody in the second measure includes a clear A<span class="sharp">♯</span>, which negates G major. What’s worse, this A<span class="sharp">♯</span> is prominent at the end of the pre-chorus as well.
 
-The only section whose melody helps make the case for the key of G is the chorus. Here, the melody over the F<span class="sharp">♯</span> chords uses the notes B, D, and E. These pitches are quite characteristic of the key of G, particularly the B and D, the third and fifth scale degrees, which feature prominently over the G chord in every section. You can hear the impression this makes by playing B, D, and E over a G major chord, then over an F<span class="sharp">♯</span> major chord:
+The only section whose melody helps make the case for the key of G is the chorus. Here, the melody over the F<span class="sharp">♯</span> chords uses the notes B, D, and E. These pitches are quite characteristic of the key of G, particularly the B and D, the third and fifth scale degrees, which feature prominently over the G chord in every section. You can hear the impression this makes by playing E, D, and B over a G major chord, then over an F<span class="sharp">♯</span> major chord:
 
 <div class="musicExample twoElements">
   <table class="measures">
@@ -179,7 +181,7 @@ The only section whose melody helps make the case for the key of G is the chorus
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/b-d-e.mp3" controls="controls"></audio>
 </div>
 
 It’s a bit of evidence for the key of G, but it’s pretty weak. In fact, later on we’ll see that these pitches are even stronger evidence for… something else.
@@ -198,7 +200,7 @@ If the song isn’t convincingly in the key of G, what key is it in? Perhaps it�
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/g-sinks-to-f-sharp.mp3" controls="controls"></audio>
 </div>
 
 Unfortunately, “Enemy” doesn’t do much to help us hear the progression this way. To start with, at no point is there a convincing resolution to F<span class="sharp">♯</span>. A G-F<span class="sharp">♯</span> cadence is not remotely as satisfying as, say, C<span class="sharp">♯</span>-F<span class="sharp">♯</span> - a nice V-I cadence. Or even, closer to the song’s actual chords, a Bmi-F<span class="sharp">♯</span>, which would be a iv-I quasi-plagal cadence.
@@ -218,7 +220,7 @@ Unfortunately, “Enemy” doesn’t do much to help us hear the progression thi
       <td>I</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/two-cadences.mp3" controls="controls"></audio>
 </div>
 
 When you hear a G-F<span class="sharp">♯</span> progression, featuring the pitches used most often in the song, don’t you feel like it’s not fully resolved? Like it wants to end up on some third chord? Listen to this, and imagine what chord you might expect to come next. (We’ll give you the answer below.)
@@ -234,7 +236,7 @@ When you hear a G-F<span class="sharp">♯</span> progression, featuring the pit
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/g-to-f-sharp-to-where.mp3" controls="controls"></audio>
 </div>
 
 The pre-chorus is the one section where the melody helps us feel a cadence in F<span class="sharp">♯</span>, if only just a little. In this section, the melody descends twice to F<span class="sharp">♯</span>, the first scale degree of F<span class="sharp">♯</span>. In the first two measures, the tune goes B-A-G-F<span class="sharp">♯</span>, with only a small break to dip down from G to D:
@@ -250,7 +252,7 @@ The pre-chorus is the one section where the melody helps us feel a cadence in F<
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/chorus-b-a-g-f-sharp.mp3" controls="controls"></audio>
 </div>
 
 The way we land on F<span class="sharp">♯</span> makes it feel more like the song’s visiting an F<span class="sharp">♯</span> tonality of some sort. But it’s not a terribly strong landing. The B-A-G happens over a G chord, and it’s in the scale of G major, which feels like a small landing on G. When we get to F<span class="sharp">♯</span>, we only stay for a moment. And then, in the second half of the pre-chorus, the melody’s descent to F<span class="sharp">♯</span> is followed immediately by a strong jump up to A<span class="sharp">♯</span> - an A<span class="sharp">♯</span> that yearns to go somewhere else. (But where? where?)
@@ -266,7 +268,7 @@ The way we land on F<span class="sharp">♯</span> makes it feel more like the s
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/chorus-second-half.mp3" controls="controls"></audio>
 </div>
 
 Besides, Dan sings these vocals in falsetto. The prechorus is built to feel like a transition, which is of course what it is. In other words, I’m not really feeling F<span class="sharp">♯</span> here.
@@ -282,7 +284,7 @@ Assembling all the pitches in the song and sorting them from lowest to highest, 
   <p class="lead text-monospace text-center">
     G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span>
   </p>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/scale-starting-on-g.mp3" controls="controls"></audio>
 </div>
 
 It doesn’t look much like a G scale. Take out the A<span class="sharp">♯</span>, and it’s a G Lydian. But the A<span class="sharp">♯</span> is quite prominent in this song, and we don’t want to omit it. So I don’t think this scale makes a good case for the key of G.
@@ -293,7 +295,7 @@ Let’s start instead with an F<span class="sharp">♯</span> and see if the res
   <p class="lead text-monospace text-center">
     F<span class="sharp">♯</span> G A A<span class="sharp">♯</span> B C<span class="sharp">♯</span> D E 
   </p>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/scale-starting-on-f-sharp.mp3" controls="controls"></audio>
 </div>
 
 Without the A<span class="sharp">♯</span>, it could be an F<span class="sharp">♯</span> Phrygian - but once again the A<span class="sharp">♯</span> gets in the way.
@@ -306,7 +308,7 @@ What if it were a B scale of some sort? Then we’d have
   <p class="lead text-monospace text-center">
     B C<span class="sharp">♯</span> D E F<span class="sharp">♯</span> G A A<span class="sharp">♯</span>
   </p>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/scale-starting-on-b.mp3" controls="controls"></audio>
 </div>
 
 
@@ -329,7 +331,7 @@ Suddenly, everything falls into place. A melody in a good old-fashioned B minor 
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/chorus-a-natural-and-a-sharp.mp3" controls="controls"></audio>
 </div>
 
 Doesn’t this make you think - although there are no B chords in this song, what if the song was actually in B minor? What if the melody’s prominent A<span class="sharp">♯</span>’s yearned to resolve upward to B’s in a classic 7-8 melodic cadence?
@@ -338,13 +340,12 @@ Doesn’t this make you think - although there are no B chords in this song, wha
 
 First of all, the highest note in the song is a B. The lowest note is the A<span class="sharp">♯</span> an octave below. But that low A<span class="sharp">♯</span> only appears once, in the verse, while the adjacent B is used a few times, particularly in the chorus. As the chorus is a section where large-scale dissonances often resolve, it’s not outlandish to imagine the low A<span class="sharp">♯</span> hanging in our ears from the verse to a resolution to B in the chorus. Think of it like this:
 
-_(diagram showing low B and high B, with an A<span class="sharp">♯</span> slurred to the low B)_
+{{<image-audio "a-sharp-b-b" "png" 300>}}
 
 The fact that the melody ranges from lowish B to high B doesn’t prove the song is in the key of B. But we do feel these B’s prolonged over the long term, that the B’s form the borders of the melody, and this effect strengthens our feeling that B is central to the song.
 
 You can hear this if I play a quick summary of the song, sustaining the low and high B’s:
-
-_(play it)_
+{{<audio "sustaining-b">}}
 
 But to really examine how A<span class="sharp">♯</span> resolves to B during the course of the music, we need to do a bit of melodic analysis. We’ll be loosely inspired by a bit of classical music theory called [Schenkerian analysis](https://www.schenkerguide.com/whatisschenkeriananalysis.php), a system that aspires to rigorously organize a piece of music’s pitch content into a hierarchy. Schenkerian analysis has always been controversial, once because many people thought it was silly to reduce a piece of music to a few pitches, and now because people [are pointing out](https://www.classicfm.com/music-news/texas-music-faculty-music-theory-white-supremacist/) the guy was a German nationalist (though a Jewish man who died in 1935) who [would have rejected](https://www.ethanhein.com/wp/2021/who-is-heinrich-schenker-and-why-should-you-care/) a whole lot of the world’s excellent music, then and now.
 
@@ -354,7 +355,6 @@ We’ll do this work because it will tell us why I found this song so unsatisfyi
 
 
 ### The pitches, and the unrequited yearning for B minor
-
 
 #### The verse
 
@@ -371,24 +371,22 @@ Let’s start with the pitches in the verse. Remember the verse?
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/verse.mp3" controls="controls"></audio>
 </div>
 
 The melody uses two pitches over each chord. Of course these aren’t heard simultaneously, because Dan can only sing one note at a time. But, as it processes the melody’s pitch content, our brain conceptualizes the notes together. We can express this by _verticalizing_ them - by writing the pairs of pitches as chords.
 
-_(GBD - F<span class="sharp">♯</span> A<span class="sharp">♯</span> C<span class="sharp">♯</span> chords)_
+{{<image-audio "verse-verticalized" "png" 250>}}
 
 These chords show how powerfully the melody wants to resolve back to a B and D - or simply a B. Let’s hear those two resolutions:
 
-_(GBD - F<span class="sharp">♯</span> A<span class="sharp">♯</span> C<span class="sharp">♯</span> - GBD, GBD - F<span class="sharp">♯</span> A<span class="sharp">♯</span> C<span class="sharp">♯</span> - GB)_
-
-_(play them)_
+{{<image-audio "two-resolutions" "png" 500>}}
 
 Wouldn’t it be more satisfying if that resolution occurred over a B minor chord?
 
-_(GBD - F<span class="sharp">♯</span> A<span class="sharp">♯</span> C<span class="sharp">♯</span> - BB)_
+{{<image-audio "resolve-to-b-minor" "png" 350>}}
 
-**The pre-chorus**
+#### The pre-chorus
 
 <div class="musicExample twoElements">
   <table class="measures">
@@ -401,36 +399,36 @@ _(GBD - F<span class="sharp">♯</span> A<span class="sharp">♯</span> C<span c
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/prechorus.mp3" controls="controls"></audio>
 </div>
 
 At the start of the pre-chorus, the melody does in fact resolve to a B and D… sort of. The first note is a B, but an octave higher.
 
-_(show that and play it)_
+{{<image-audio "octave-displacement" "png" 350>}}
 
 This technique is common. We call it [octave displacement](https://www.simplifyingtheory.com/octave-displacement/). It lets a dissonant melodic tone resolve to the right [pitch-class](https://en.wikipedia.org/wiki/Pitch_class#:~:text=In%20music%2C%20a%20pitch%20class,%2C%20in%20whatever%20octave%20position.%22) - just not to the right pitch. The tune jumps up an octave, raising the tension and avoiding a true cadence.
 
 The melody resolves to D as well, but much more weakly, as it takes four notes to get there. You can imagine hearing the D persisting from the verse to the pre-chorus, like this:
 
-_(show that and play it)_
+{{<image-audio "d-persists" "png" 350>}}
 
 But in actual life the connection is tenuous, partly because the B-A-G-D melody really centers around the note G, which is the first scale degree of the underlying G chord, and partly because it takes quite a while to get all the way down to D.
 
 Speaking of G chords, let’s play the prechorus melody, but faster, while sustaining and giving more weight to chord tones.
 
-_(B-G-D, F<span class="sharp">♯</span>, B-G-D, F<span class="sharp">♯</span>-A<span class="sharp">♯</span>)_
+{{<image-audio "prechorus-chord-tones" "png" 550>}}
 
 Eliminating the passing note A, then verticalizing, we see that this tune outlines two progressions between G chords and partial F<span class="sharp">♯</span><sup>7</sup> chords. 
 
-_(diagram with BGD chord with an A slurred to the B, an F<span class="sharp">♯</span>-E chord, etc)_
+{{<image-audio "prechorus-verticalized" "png" 350>}}
 
 Let’s combine those into one:
 
-_(B-G-D, E-F<span class="sharp">♯</span>-A<span class="sharp">♯</span>)_
+{{<image-audio "prechorus-verticalized-combined" "png" 250>}}
 
 Comparing those two chords to the prechorus melody, you hear that the melody sounds like those chords.
 
-_(play chord, then melody, then chords)_
+{{<audio "chords-melody-compared">}}
 
 Notice how closely this resembles the B-D - A<span class="sharp">♯</span>-C<span class="sharp">♯</span> progression that defined the verse. The melody does explore a new area in the G and F<span class="sharp">♯</span> chords - the notes G and F<span class="sharp">♯</span> themselves. But it continues the B-A<span class="sharp">♯</span> melody, just up an octave. How about the D-C<span class="sharp">♯</span>? Well, Rubin must have wanted it to persist. If you [listen to the pre-chorus](https://youtu.be/D9G1VOjN_84?t=51) closely, you can hear heavily processed backing vocals singing almost the exact same pitches as the verse (though not always in the same order):
 
@@ -449,16 +447,17 @@ Notice how closely this resembles the B-D - A<span class="sharp">♯</span>-C<sp
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/prechorus-backing-vocals.mp3" controls="controls"></audio>
 </div>
 
 It’s just like the verse!
 
 The verse yearned for a resolution to B minor. The pre-chorus jacks the B-A<span class="sharp">♯</span> dissonance up an octave, adds a seventh to the F<span class="sharp">♯</span> chord, and closes in a dramatic leap up to A<span class="sharp">♯</span> over an F<span class="sharp">♯</span> chord. It’s screaming out for B minor!
 
-_(Play melody followed by resolution, then play B G D - A<span class="sharp">♯</span> F<span class="sharp">♯</span> E - B F<span class="sharp">♯</span> D chords)_
+{{<audio "prechorus-wants-b-minor">}}
 
-**Chorus**
+
+#### Chorus
 
 <div class="musicExample twoElements">
   <table class="measures">
@@ -475,7 +474,7 @@ _(Play melody followed by resolution, then play B G D - A<span class="sharp">♯
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/chorus.mp3" controls="controls"></audio>
 </div>
 
 But, no. The chorus denies this desire, again… mostly. Notice that the notes of the B minor triad are always present over the first chord:
@@ -489,7 +488,7 @@ But, no. The chorus denies this desire, again… mostly. Notice that the notes o
       <td>G</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/first-chord-b-minor-triad.mp3" controls="controls"></audio>
 </div>
 
 as well as the second chord:
@@ -503,7 +502,7 @@ as well as the second chord:
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/second-chord-b-minor-triad.mp3" controls="controls"></audio>
 </div>
 
 Every measure of the chorus contains a B, D, and F<span class="sharp">♯</span>, without the harmony ever touching B minor.
@@ -512,11 +511,11 @@ What’s more, the F<span class="sharp">♯</span> chord in the chorus is define
 
 I might verticalize the chords like this:
 
-_(E - BDF<span class="sharp">♯</span> over G, then E - DB over F<span class="sharp">♯</span>)_
+{{<image-audio "chorus-verticalized" "png" 300>}}
 
 That reflects a more traditional viewpoint in which the E is a dissonance, an incomplete neighbor to the D or a passing tone. But, listening with pop ears, it’s pretty easy to also hear it this way:
 
-_(BDE over G etc)_
+{{<image-audio "chorus-b-d-e" "png" 200>}}
 
 The chorus melody’s low note and high note are both B. That range, plus our first interpretation of the other pitches, brings us about as close as you can come to saying, “We’re in B minor!” without actually being in B minor.
 
@@ -537,7 +536,7 @@ Oh, and if you miss the B-A<span class="sharp">♯</span> alternation that chara
       <td>F<span class="sharp">♯</span></td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/chorus-hits.mp3" controls="controls"></audio>
 </div>
 
 Don’t you just want to hear it resolving?
@@ -555,12 +554,13 @@ Don’t you just want to hear it resolving?
       <td>B</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/hits-resolving.mp3" controls="controls"></audio>
 </div>
 
 We’ve found the key notes in each section of the song. Putting them together, we can see the whole thing, along with the quasi-resolution to B minor in the chorus. I want to repeat the disclaimer that this is very little like _real_ Schenkerian analysis. But I think the reduction we’ve done makes sense. These two diagrams summarize different interpretations we’ve come up with. Don’t these sound like the pitch content of the song? Which is your favorite?
 
-_(final diagrams)_
+{{<image "enemy-summarized.png" 450>}}
+{{<image "enemy-summarized-with-e.png" 450>}}
 
 
 ### It drove me nuts
@@ -580,12 +580,12 @@ This is why the song drove me nuts! The G-F<span class="sharp">♯</span> just y
       <td>i</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/vi-v-i.mp3" controls="controls"></audio>
 </div>
 
 Just imagine if the prechorus was in that key. Or the chorus! Wouldn’t this be satisfying?
 
-_(play an example)_
+{{<audio "fantasy-chorus-in-b-minor">}}
 
 Okay, my version sounds dreadful. But I'm convinced that more thought would yield an awesome chorus in B minor. To my consternation, in real life, this satisfying chorus never happened.
 
@@ -602,9 +602,10 @@ So is this song really in B minor? My strong opinion is: it’s a matter of opin
     </tr>
     <tr>
       <td>G</td>
-      <td>First chord of the song.
-<br/>
-The melody over each G chord is based on chord pitches.
+      <td>
+      First chord of the song.
+      <br/>
+      The melody over each G chord is based on chord pitches.
    </td>
       <td>Nothing else really establishes G as a key area.</td>
     </tr>
@@ -652,12 +653,12 @@ The song begins with what we’ll call its refrain: the part with the lyrics, �
       <td>G</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/bruno-refrain.mp3" controls="controls"></audio>
 </div>
 
 Like in “Enemy,” the first two chords are major triads a half-step apart. Also like in “Enemy,” the melody over each chord is built around the chord tones. You can hear the connection if we play a compressed version of the first two bars of “Bruno”, then a quick version of the first two bars of “Enemy” transposed to the same key:
 
-_(do it)_
+{{<audio "bruno-and-enemy">}}
 
 Thus, just like in “Enemy,” the A<span class="flat">♭</span> and G chords in the first two bars of “Bruno” feel like the VI and V of C minor. The third and fourth bars repeat the A<span class="flat">♭</span> and G chords. But the melody in bar 4 shifts upward to an F, the seventh scale degree, and the piano plays a repeated G<sup>7</sup> chord. Repeating the chords builds suspense, and adding the seventh further fuels the drive toward C minor. The listener is poised for the song to go there!
 
@@ -684,21 +685,21 @@ And then - satisfaction! Unlike “Enemy,” “Bruno” fulfills the expectatio
       <td>Cmi Fm</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/bruno-c-minor.mp3" controls="controls"></audio>
 </div>
 
 Doesn’t it feel satisfying when an expectation is set up and then fulfilled? And the chord that resolves the tension also begins a new section of the song, the Pepa and Félix duet. That section is based on a harmonically stable groove, but it carries along the energy from that tension and release. It’s like, with the refrain, the listener glides down a ramp, and when the duet starts, the listener’s sailing through the air, standing still, yet flying along.
 
 Miranda redeploys the A<span class="flat">♭</span>-G progression for this purpose whenever he needs to kick things up a notch. We just mentioned that the duet is based on a repeating chord progression. But, after three times through the chord progression, at 0:24[^1], the song returns to the A<span class="flat">♭</span>-G and suddenly gets louder, as Pépa sings, “You telling this story or am I?”
 
-_(play it)_
+{{<audio "you-telling-this-story">}}
 
 
 ### A big retransition
 
 The same trick is used in the grand retransition from Isabela and Dolores’ contrasting middle section [at 1:52](https://youtu.be/bvWRMAU6V-c?t=118). Another loud A<span class="flat">♭</span>-G moment finishes in a deceptive cadence, as this section starts by shifting into a pastoral E<span class="flat">♭</span> major.
 
-_(play it)_
+{{<audio "move-to-eb">}}
 
 Then, [at 2:30](https://youtu.be/bvWRMAU6V-c?t=154), Miranda deploys the A<span class="flat">♭</span>-G progression in double time, not just once, but four times in a row:
 
@@ -711,7 +712,7 @@ Then, [at 2:30](https://youtu.be/bvWRMAU6V-c?t=154), Miranda deploys the A<span 
       <td>A<span class="flat">♭</span> G</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/ab-g-4x.mp3" controls="controls"></audio>
 </div>
 
 When the chords happen twice as quickly, the song intensifies. When they repeat four times, it intensifies further. We’re aching for a return to C minor! But, gloriously, instead of giving us that, Miranda prolongs the tension by shifting course to a surprising A<span class="flat">♭</span>m<sup>7</sup> chord. There, we wait breathlessly for two bars before we finally do return to C minor for the big climax: the virtuosic ensemble section which ends the song. The whole thing sounds like this:
@@ -724,26 +725,26 @@ When the chords happen twice as quickly, the song intensifies. When they repeat 
       <td>A<span class="flat">♭</span> G</td>
       <td>A<span class="flat">♭</span> G</td>
       <td>A<span class="flat">♭</span>m<sup>7</sup></td>
-      <td>A<span class="flat">♭</span>m<sup>7</sup></td>
+      <td class="big-border">A<span class="flat">♭</span>m<sup>7</sup></td>
       <td>Cmi</td>
     </tr>
   </table>
-  <audio src="/music/imagine-bruno/yoiks.mp3" controls="controls"></audio>
+  <audio src="/music/imagine-bruno/abm7-moment.mp3" controls="controls"></audio>
 </div>
 
 This A<span class="flat">♭</span>m<sup>7</sup> is a highly inspired moment, and wonderfully not one that I know how to analyze with classical harmony. It’s a bit like an [augmented sixth chord](https://en.wikipedia.org/wiki/Augmented_sixth_chord). I mean, in classical European harmony, you can build a seventh chord on the sixth scale degree, then resolve that to the tonic via V. The seventh scale degree of the VI chord is then considered not as a seventh, but an augmented sixth, because it resolves up, not down. Like this:
 
-_(diagram of a German sixth chord resolving to I via V)._
+{{<image "augmented-6th-resolution.png" 250>}}
 
 But an augmented sixth chord would resemble an A<span class="flat">♭</span> dominant seventh. Miranda uses a _minor_ seventh. To me, the minor makes it sound even more distinctly A<span class="flat">♭</span>-like, further from C minor. After all, the scales used in C minor and A<span class="flat">♭</span> major differ only by a single note, but A<span class="flat">♭</span> minor is in a harmonic world of its own. Instead of approaching Cmi by following the A<span class="flat">♭</span> chord with a G chord, Miranda ventures to the most harmonically distant region of the entire song, and then abruptly shifts us back to C minor.
 
 Of course, if you look at the A<span class="flat">♭</span>m<sup>7</sup> and Cm, one resolves to the other quite logically through contrapuntal motion:
 
-_(draw that, with the Cb progressing up to C, the Gb going up to G, etc.)_
+{{<image "abm7-resolution.png" 250>}}
 
 Perhaps the Cb is useful because it’s enharmonically equivalent to B, which is the leading tone of C, and which would occur in the G chord that’s missing here. A G chord would be what you’d expect. It’s the V of C minor, and it’s how we’ve gotten to C minor so far in this song. But this is why you should write with a creative ear, not with theory! If the A<span class="flat">♭</span>m<sup>7</sup> was in fact followed by a G, it would be so anticlimactic:
 
-_(play it)_
+{{<audio "abm7-followed-by-g">}}
 
 So, the A<span class="flat"><span class="flat">♭</span></span>m<sup>7</sup> is surprising, and I have no idea how Miranda came up with it as a way to return to C minor, but I think it sounds fabulous. I can’t wait for the opportunity to steal this trick myself.
 
