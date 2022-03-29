@@ -7,7 +7,7 @@ audioFolder: imagine-bruno
 imageFolder: imagine-bruno
 imageLarge: images/blog/imagine-bruno_lg.jpg
 imageSmall: images/blog/imagine-bruno_sm.jpg
-imageDescription: 
+imageDescription: Imagine Dragons plus Bruno from Encanto
 images: 
  - images/blog/rivers-cuomo_lg.jpg
 description: "Imagine Dragons' \"Enemy\" sets up a need that it then cruelly ignores. \"Bruno\" fulfills this unmet desire."
@@ -19,6 +19,7 @@ tags:
   - pop music theory
   - pop music analysis
   - bruno
+  - encanto
   - we don't talk about bruno
   - 2020s pop
   - 2022 pop hits
