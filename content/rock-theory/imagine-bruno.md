@@ -9,7 +9,7 @@ imageLarge: images/blog/imagine-bruno_lg.jpg
 imageSmall: images/blog/imagine-bruno_sm.jpg
 imageDescription: Imagine Dragons plus Bruno from Encanto
 images: 
- - images/blog/rivers-cuomo_lg.jpg
+ - images/blog/imagine-bruno_lg.jpg
 description: "Imagine Dragons' \"Enemy\" sets up a need that it then cruelly ignores. \"Bruno\" fulfills this unmet desire."
 summary: "Imagine Dragons' \"Enemy\" sets up a need that it then cruelly ignores. \"Bruno\" fulfills this unmet desire."
 tags:
