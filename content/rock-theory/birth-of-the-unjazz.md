@@ -3,6 +3,7 @@ title: 'The Birth of the Unjazz'
 date: 2021-05-05
 author: Ben Morss
 audioFolder: unjazz1
+imageFolder: unjazz1
 imageLarge: images/blog/unjazz_lg.jpg
 imageSmall: images/blog/unjazz_sm.jpg
 imageDescription: Drake, SZA, and dissonance

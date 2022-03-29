@@ -1,0 +1,8 @@
+{{ $name := .Get 0 }}
+{{ $imageFormat := .Get 1 }}
+{{ $width := .Get 2 }}
+
+<div class="musicExample twoElements">
+  <img src="/images/blog/{{ $.Page.Params.imageFolder }}/{{ $name }}.{{ $imageFormat }}" {{ with $width }}style="max-width:{{ $width }}px;"{{ end }}></img>
+	<audio controls="controls" src="/music/{{ $.Page.Params.audioFolder }}/{{ $name }}.mp3"></audio>
+</div>

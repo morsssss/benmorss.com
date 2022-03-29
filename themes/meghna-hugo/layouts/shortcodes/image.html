@@ -1,5 +1,5 @@
 {{ $width := .Get 1 }}
 
-<div style="text-align:center">
-  <img src="/images/blog/{{ .Get 0 }}" style="width:100%; {{ with .Get 1 }}max-width:{{ $width }}px;{{ end }} padding:10px 0 20px;"></img>
+<div class="imageExample">
+  <img src="/images/blog/{{ $.Page.Params.imageFolder }}/{{ .Get 0 }}" {{ with .Get 1 }}style="max-width:{{ $width }}px;"{{ end }}></img>
 </div>
