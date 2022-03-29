@@ -1,11 +1,12 @@
 ---
-title: "Desire cruelly denied, then blessedly fulfilled"
-date: 2022-03-20
+# title: "\"Enemy\" denies, \"Bruno\" pleases"
+title: "\"Enemy\" creates desire; \"Bruno\" fulfills it"
+date: 2022-03-28
 author: Ben Morss
 audioFolder: imagine-bruno
 imageFolder: imagine-bruno
-imageLarge: images/blog/rivers-cuomo_lg.jpg
-imageSmall: images/blog/rivers-cuomo_sm.jpg
+imageLarge: images/blog/imagine-bruno_lg.jpg
+imageSmall: images/blog/imagine-bruno_sm.jpg
 imageDescription: 
 images: 
  - images/blog/rivers-cuomo_lg.jpg
