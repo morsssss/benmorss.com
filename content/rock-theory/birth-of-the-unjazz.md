@@ -444,7 +444,7 @@ Although these ways of treating dissonance originate in jazz, to me, this music 
 
 Its roots lies in jazz. But it’s not jazz. Thus, we call it **“unjazz”!**
 
-I can’t wait to trace how unjazz develops from “Nothing but the Same” to the present. We’ll look at music by Rihanna, more Drake, SZA, and ultimately Doja Cat and Lil Nas X. For this, we’ll have to wait for part two. Tune in then… for… the rest of the unjazz!
+It's time to take a breather. When you're ready, join me in tracing how unjazz developed from “Nothing but the Same” to the present. We’ll look at music by Rihanna, more Drake, SZA, and ultimately Doja Cat and Lil Nas X. [Click here to continue!](/rock-theory/triumph-of-the-unjazz/)
 
 <div style="font-size:12px; font-style:italic; margin-top: 30px">
 
