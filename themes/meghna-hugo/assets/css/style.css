@@ -2464,6 +2464,26 @@ figcaption {
   margin-bottom: 0;
 }
 
+@media (max-width: 480px) {
+  #bio .large-screen {
+    display: none;
+  }
+
+  #bio .small-screen {
+    display: block;
+  }
+}
+
+@media (min-width: 481px) {
+  #bio .small-screen {
+    display: none;
+  }
+
+  #bio .large-screen {
+    display: flex;
+  }
+}
+
 #articles ul {
   padding-bottom: 0;
 }

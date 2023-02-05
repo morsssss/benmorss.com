@@ -49,28 +49,33 @@ URL = "plugins/wow/wow.min.js"
 
   [[menu.main]]
   name = "Things I Do"
-  URL = "about"
+  URL = "#about"
   weight = 1
 
   [[menu.main]]
   name = "Tech"
-  URL = "tech"
+  URL = "#tech"
   weight = 2
 
   [[menu.main]]
   name = "Music"
-  URL = "music"
+  URL = "#music"
   weight = 3
 
   [[menu.main]]
   name = "Rock Theory"
-  URL = "blog"
+  URL = "#blog"
   weight = 4
 
   [[menu.main]]
-  name = "Contact"
-  URL = "contact"
+  name = "Bio"
+  URL = "bio"
   weight = 5
+
+  [[menu.main]]
+  name = "Contact"
+  URL = "#contact"
+  weight = 6
 
 
 ############################# Default Parameters ##########################
