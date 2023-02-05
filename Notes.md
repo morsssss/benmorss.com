@@ -57,6 +57,7 @@
 * [CSS dead code eliminator for Go](https://github.com/client9/csstool)
 * [MacOS keyboard shortcuts](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
 * [Basic editing in VSCode](https://code.visualstudio.com/docs/editor/codebasics)
+* [Great explanation about finding templates](https://stackoverflow.com/questions/71031296/hugo-change-layout)
 
 
 ### Making a landing page

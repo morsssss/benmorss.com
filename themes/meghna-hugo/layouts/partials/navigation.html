@@ -26,7 +26,7 @@
 			<ul class="navbar-nav ml-auto navigation-menu">
 				<li class="nav-item"><a class="nav-link" href="#body">{{ with .Site.Params.home }}{{ . }}{{ end }}</a></li>
 				{{ range .Site.Menus.main }}
-				<li class="nav-item"><a class="nav-link" href="#{{ .URL }}">{{ .Name }}</a></li>
+				<li class="nav-item"><a class="nav-link" href="{{ .URL | safeHTML }}">{{ .Name }}</a></li>
 				{{ end }}
 			</ul>
 		</div>
@@ -35,7 +35,7 @@
 			<ul class="navbar-nav ml-auto navigation-menu">
 				<li class="nav-item"><a class="nav-link" href="{{ .Site.BaseURL | relLangURL }}#body">{{ with .Site.Params.home }}{{ . }}{{ end }}</a></li>
 				{{ range .Site.Menus.main }}
-				<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}#{{ .URL }}">{{ .Name }}</a></li>
+				<li class="nav-item"><a class="nav-link" href="{{ $.Site.BaseURL | relLangURL }}{{ .URL | safeHTML }}">{{ .Name }}</a></li>
 				{{ end }}
 			</ul>
 		</div>
