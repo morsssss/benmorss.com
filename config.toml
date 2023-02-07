@@ -68,14 +68,19 @@ URL = "plugins/wow/wow.min.js"
   weight = 4
 
   [[menu.main]]
+  name = "Song Doctor"
+  URL = "song-doctor"
+  weight = 5
+
+  [[menu.main]]
   name = "Bio"
   URL = "bio"
-  weight = 5
+  weight = 6
 
   [[menu.main]]
   name = "Contact"
   URL = "#contact"
-  weight = 6
+  weight = 7
 
 
 ############################# Default Parameters ##########################

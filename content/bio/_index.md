@@ -1,10 +1,11 @@
 ---
 title: "Bio"
+layout: simple
 imageTop: images/ben-headshot-some-body-small.jpg
 imageBottom: images/vietnam.jpg
 description: "All about Ben Morss, musician and technologist"
 summary: "All about Ben Morss, musician and technologist"
-topText: "Here be a music bio. For more on my tech background, check out"
+topSnippet: "(Here be a music bio. For more on my tech background, check out <a href='https://www.linkedin.com/in/ben-morss-15bab15/' target='_blank'>LinkedIn</a>.)"
 tags:
   - music analysis
   - music theory

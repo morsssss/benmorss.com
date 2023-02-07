@@ -2004,7 +2004,7 @@ blockquote {
   position: relative;
 }
 
-.author-bio h5 {
+.author-simple h5 {
   display: inline-block;
 }
 
@@ -2464,22 +2464,38 @@ figcaption {
   margin-bottom: 0;
 }
 
+#simple {
+  color: #a3afba;
+}
+
+#simple a {
+  color: #e3effa;
+}
+
+#simple li {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
 @media (max-width: 480px) {
-  #bio .large-screen {
+  #simple .large-screen {
     display: none;
   }
 
-  #bio .small-screen {
+  #simple .small-screen {
     display: block;
+  }
+
+  #simple .top-snippet {
+    text-align: center;
   }
 }
 
 @media (min-width: 481px) {
-  #bio .small-screen {
+  #simple .small-screen {
     display: none;
   }
 
-  #bio .large-screen {
+  #simple .large-screen {
     display: flex;
   }
 }
