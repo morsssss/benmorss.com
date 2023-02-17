@@ -7,7 +7,7 @@ description: "Ben Morss doctors songs"
 summary: "Ben Morss doctors songs"
 topSnippet: "<b>I’ll help you improve your song!</b>"
 ctaText: "Get in touch"
-ctaHref: "/#contact"
+ctaHref: "/?subject=I'm interested in song doctoring!#contact"
 tags:
   - music analysis
   - music theory
@@ -38,14 +38,14 @@ I'll work with any musical style that has melodies and chords. For example:
 
 For samples of my thinking about how to write catchy songs and improve others, check out:
 
+* [What makes a tune melodious?](../rock-theory/making-tunes-more-melodious/)
 * [Where did all the chords go?](../rock-theory/where-did-all-the-chords-go/)
 * [How The Weeknd’s “Blinding Lights” Takes Beethoven’s Ideas to #1](https://flypaper.soundfly.com/write/how-the-weeknds-blinding-lights-takes-beethoven-to-no-1/)
-* [What makes a tune melodious?](../rock-theory/making-tunes-more-melodious/)
 * [What “Enemy” didn’t do but “Bruno” did](../rock-theory/imagine-bruno/)
 
 You can also [hear a sampling of my own music here](https://benmorss.com/#music).
 
 But you shouldn't think I'll make your music sound like mine. My goal is to suggest minimal changes that make your song more effective while keeping and even enhancing its unique character.
 
-I don't want any money up front - just a 1% songwriting credit. I promise I'll increase your royalties more than 1%!
+I don't want any money up front - just a 1% songwriting credit. I promise I'll increase your royalties more than 1%! (If you'd prefer to keep 100% of your publishing, let's talk.)
 

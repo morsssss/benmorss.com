@@ -8,6 +8,7 @@ jQuery(function ($) {
 
 	$(window).on('load', function () {
 		$('.preloader').fadeOut(100, setupShuffle);
+		populateSubjectLine();
 	});
 
 	/* ========================================================================= */
@@ -100,6 +101,23 @@ jQuery(function ($) {
 			}
 		}
 	});
+
+	/* ========================================================================= */
+	/*	Populate the "Subject" line of contact form if it exists
+	/*  and if the query string tells us to do so
+	/* ========================================================================= */
+
+	function populateSubjectLine() {
+		const subjectInput = $("form #subject");
+		
+		if (subjectInput.length) {
+			const urlParams = new URLSearchParams(window.location.search);
+			const subjectParam = urlParams.get('subject');
+			if (subjectParam)
+				subjectInput.val(subjectParam);
+		}
+	}
+	
 
 	// easeInOutExpo Declaration
 	jQuery.extend(jQuery.easing, {
