@@ -5,7 +5,7 @@ imageTop: images/song-doctor-best.jpg
 imageBottom: images/song-doctor-ok.jpg
 description: "Ben Morss doctors songs"
 summary: "Ben Morss doctors songs"
-topSnippet: "<b>I’ll help you improve your song!</b>"
+topSnippet: "<b>Let's make your song awesomer.</b>"
 ctaText: "Get in touch"
 ctaHref: "/?subject=I'm interested in song doctoring!#contact"
 tags:
