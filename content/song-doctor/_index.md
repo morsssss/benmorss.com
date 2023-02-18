@@ -8,6 +8,7 @@ summary: "Ben Morss doctors songs"
 topSnippet: "<b>Let's make your song awesomer.</b>"
 ctaText: "Get in touch"
 ctaHref: "/?subject=I'm interested in song doctoring!#contact"
+videoID: wICs1vMqNUk
 tags:
   - music analysis
   - music theory

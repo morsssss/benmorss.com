@@ -2480,6 +2480,10 @@ figcaption {
   display: grid;
   gap: 2em;
 }
+ 
+#simple .row {
+  margin: 0;
+}
 
 @media (max-width: 767px) {
   #simple .top-snippet {
@@ -2506,10 +2510,6 @@ figcaption {
 @media (min-width: 768px) {
   #simple .content {
     grid-template-columns: 40% 60%;
-  }
-
-  #simple .row {
-    margin: 0;
   }
 
   #simple .content img:nth-of-type(1) {
