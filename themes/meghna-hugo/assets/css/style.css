@@ -1034,7 +1034,7 @@ a:hover {
   transition-property: -webkit-transform;
   transition-property: transform;
   transition-property: transform, -webkit-transform
-   
+
 }
 
 .tech-block:hover .tech-icon {
@@ -2402,11 +2402,15 @@ figcaption {
   }
 }
 
-@media (min-width: 641px) { 
+@media (min-width: 641px) {
   .carousel iframe {
     width: 560px;
     height: 315px;
   }
+}
+
+.embed-responsive {
+  max-width: 560px;
 }
 
 #music-single h2 {
@@ -2480,7 +2484,7 @@ figcaption {
   display: grid;
   gap: 2em;
 }
- 
+
 #simple .row {
   margin: 0;
 }
@@ -2504,7 +2508,7 @@ figcaption {
 
   #simple .content .embed-responsive {
     grid-row: 4;
-  }  
+  }
 }
 
 @media (min-width: 768px) {
@@ -2528,7 +2532,6 @@ figcaption {
 
   #simple .content .embed-responsive {
     grid-area: 3 / 1 / 4 / 3;
-    max-width: 560px;
   }
 }
 
@@ -2659,7 +2662,7 @@ figcaption {
 /*=================================================================
 	Ben's music example styles
 ==================================================================*/
-				
+
 code {
   font-family: Courier,"Courier New",sans-serif,monospace;
 }
@@ -2680,7 +2683,7 @@ code {
   font-size: .75em;
   margin-left: -1px;
 }
-				
+
 .measures td {
   border: 2px double #668;
   min-width: 40px;
@@ -2705,7 +2708,7 @@ code {
   border: 2px double #668;
   min-width: 40px;
   padding: 7px;
-  text-align: left; 
+  text-align: left;
 }
 
 td.big-border {
@@ -2726,7 +2729,7 @@ td.wrap {
   white-space: normal;
 }
 
-.musicExample { 
+.musicExample {
   margin: 20px 0 35px;
   overflow: hidden;
   display: flex;
@@ -2739,7 +2742,7 @@ td.wrap {
    margin: 0 auto;
 }
 
-@media (min-width: 641px) { 
+@media (min-width: 641px) {
   .musicExample.twoElements {
     padding: 0 20px;
   }
