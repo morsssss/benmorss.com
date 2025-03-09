@@ -7,7 +7,7 @@ author = "Ben Morss"
 header = "Ben Morss"
 
 # post pagination
-paginate = "6"
+pagination.pagerSize = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name

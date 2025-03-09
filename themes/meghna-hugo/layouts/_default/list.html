@@ -14,6 +14,11 @@
           <div class="border-meghna"></div>
         </div>
       </div>
+      <div class="videos col-12">
+        <div class="embed-responsive embed-responsive-16by9 mx-auto">	
+          <iframe src="https://www.youtube.com/embed/videoseries?list=PLmMqoH6QKiGQtnrjlcMiC1HCx68IPBwsj" title="Rock Theory videos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+      </div>
       {{"<!-- /section title -->" | safeHTML}}
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
@@ -21,11 +26,6 @@
       {{ end }}
       <div class="col-12">
         {{ template "_internal/pagination.html" . }}
-      </div>
-      <div class="col-12 mt-5">
-        <div class="embed-responsive embed-responsive-16by9 mx-auto">	
-          <iframe src="https://www.youtube.com/embed/videoseries?list=PLmMqoH6QKiGQtnrjlcMiC1HCx68IPBwsj" title="Rock Theory videos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
       </div>
     </div>
   </div>

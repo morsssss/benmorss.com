@@ -13,9 +13,15 @@
 			</div>
 			{{"<!-- /section title -->" | safeHTML}}
 
+      <div class="col-12 mb-5">
+        <div class="embed-responsive embed-responsive-16by9 mx-auto">	
+          <iframe src="https://www.youtube.com/embed/videoseries?list=PLmMqoH6QKiGQtnrjlcMiC1HCx68IPBwsj" title="Rock Theory videos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+      </div>
+
 			{{ range first 3 (where .Site.RegularPages "Section" "rock-theory") }}
 			{{"<!-- single blog post -->" | safeHTML}}
-			<article class="col-lg-4 col-md-6 col-12 clearfix wow fadeInUp" data-wow-duration="500ms">
+			<article class="col-lg-4 col-md-6 col-12 mt-5 clearfix wow fadeInUp" data-wow-duration="500ms">
 				<div class="post-block">
 					<div class="media-wrapper">
 						<a href="{{ .Permalink }}">
@@ -37,11 +43,6 @@
 				<a class="btn btn-main"
 					href="{{ `rock-theory` | absLangURL }}">See All Posts!</a>
 			</div>
-      <div class="col-12 mt-5">
-        <div class="embed-responsive embed-responsive-16by9 mx-auto">	
-          <iframe src="https://www.youtube.com/embed/videoseries?list=PLmMqoH6QKiGQtnrjlcMiC1HCx68IPBwsj" title="Rock Theory videos" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-        </div>
-      </div>			
 		</div>
 	</div>
 </section>
