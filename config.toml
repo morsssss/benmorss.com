@@ -6,14 +6,16 @@ publishDir = "public"
 author = "Ben Morss"
 header = "Ben Morss"
 
-# post pagination
-pagination.pagerSize = "6"
 # post excerpt
 summaryLength = "15"
 # disqus short name
 disqusShortname = "benmorss"
 # default content language
 defaultContentLanguage = "en"
+
+# post pagination
+[pagination]
+  pagerSize = "6"
 
 ############################# Plugins ##########################
 # css plugins
