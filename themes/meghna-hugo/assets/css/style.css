@@ -33,7 +33,7 @@ h6 {
   color: #afbac4;
 }
 
-p {
+p, table {
   font-family: "Quattrocento Sans", sans-serif;
 }
 
@@ -2474,6 +2474,17 @@ figcaption {
   max-width: 700px;
   padding-left: 36px;
   margin-bottom: 0;
+}
+
+#conferences th {
+  font-size: 1.25rem;
+  color: #afbac4;
+} 
+
+#conferences td {
+  color: #afbac4;
+  border-color: #454d55;
+  padding: .875rem;
 }
 
 #simple {

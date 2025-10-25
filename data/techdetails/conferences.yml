@@ -1,7 +1,27 @@
 conferences :
   title : Conferences
-  description : "A few of the conferences where I've spoken recently:"
-  item :
+  description : "Selected conferences at which I've recently spoken:"
+  item : 
+  - name: Agentic AI Summit
+    location: Boston
+    date: 10/30/2025
+    href: https://world.aiacceleratorinstitute.com/location/agenticaiboston/agenda
+
+  - name: Google Developer Group DevFest
+    location: New York City
+    date: 10/3/2025
+    href: https://gdg.community.dev/events/details/google-gdg-nyc-presents-devfest-new-york-city-2025/
+ 
+  - name: GenAI Week Silicon Valley
+    location: Santa Clara, CA
+    date: 7/15/2025
+    href: https://audio.dev/schedule/   
+
+  - name: Apidays
+    location: Munich
+    date: 7/3/2025
+    href: https://www.apidays.global/archive/2025/munich
+
   - name: Audio Developer Conference
     location: London
     date: 11/15/2021
