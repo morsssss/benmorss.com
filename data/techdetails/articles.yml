@@ -1,6 +1,9 @@
 articles :
   title : Articles
   item :
+  - title : "A deep dive into MCPs, Part 1: What is MCP, anyway?"
+    href: https://www.deepl.com/en/blog/tech/what-is-mcp
+
   - title : Test your site speed automatically with Speed Demon
     href : https://medium.com/dev-channel/introducing-speed-demon-a36d95dd0174
   
