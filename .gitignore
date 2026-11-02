@@ -1,2 +1,6 @@
+# *.report.html keeps me from committing Lighthouse reports
+
 .DS_Store
 public/*
+.vscode/*
+*report.html

@@ -3,13 +3,21 @@ jQuery(function ($) {
 
 	/* ========================================================================= */
 	/*	Page Preloader
-	/*  Use the callback to run anything that needs to wait until load.
+	/*  Hide as soon as the DOM is ready rather than waiting for every resource.
+	/*  Image sizes are reserved in the markup, so Shuffle can lay out right away.
+	/*  Pages with embedded videos keep the preloader until the iframes load,
+	/*  so visitors don't see blank video areas.
 	/* ========================================================================= */
 
-	$(window).on('load', function () {
-		$('.preloader').fadeOut(100, setupShuffle);
-		populateSubjectLine();
-	});
+	if ($('.carousel iframe').length) {
+		$(window).on('load', function () {
+			$('.preloader').fadeOut(100);
+		});
+	} else {
+		$('.preloader').fadeOut(100);
+	}
+	setupShuffle();
+	populateSubjectLine();
 
 	/* ========================================================================= */
 	/*	Magnific popup

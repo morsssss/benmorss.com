@@ -15,8 +15,8 @@
 				{{ range .item }}
 				<iframe src="https://www.youtube.com/embed/{{ .vid }}"
 						frameborder="0"
-						allow="accelerometer; encrypted-media; gyroscope; picture-in-picture"
-						allowfullscreen>
+						allow="accelerometer; encrypted-media; gyroscope; picture-in-picture; fullscreen"
+						loading="lazy">
 				</iframe>
 				{{ end }}
 			</div>
