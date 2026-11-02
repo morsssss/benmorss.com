@@ -1,7 +1,33 @@
 conferences :
   title : Conferences
-  description : "Selected conferences at which I've recently spoken:"
+  description : "Selected recent conferences where I've spoken, plus some golden oldies:"
   item : 
+
+  - name: AI Engineer
+    location: Paris
+    date: 9/24/2026
+    href: https://ai.engineer/paris/2026#:~:text=Alodie%20Boissonnet-,Ben%20Morss%2C,-Developer%20Evangelist%20%40%20Mistral
+
+  - name: AI4
+    location: Las Vegas
+    date: 8/6/2026
+    href: https://ai4.com
+
+  - name: DrupalCon US
+    location: Chicago
+    date: 3/25/2026
+    href: https://events.drupal.org/chicago2026
+
+  - name: Apidays Paris
+    location: Paris
+    date: 12/10/2025
+    href: https://www.apidays.global/archive/2025/paris
+
+  - name: Google Developer Group DevFest
+    location: Windsor, Ontario
+    date: 11/8/2025
+    href: https://gdg.community.dev/events/details/google-gdg-windsor-presents-windsor-essex-gdg-devfest-2025/
+
   - name: Agentic AI Summit
     location: Boston
     date: 10/30/2025
@@ -11,16 +37,11 @@ conferences :
     location: New York City
     date: 10/3/2025
     href: https://gdg.community.dev/events/details/google-gdg-nyc-presents-devfest-new-york-city-2025/
- 
+
   - name: GenAI Week Silicon Valley
     location: Santa Clara, CA
     date: 7/15/2025
-    href: https://audio.dev/schedule/   
-
-  - name: Apidays
-    location: Munich
-    date: 7/3/2025
-    href: https://www.apidays.global/archive/2025/munich
+    href: https://audio.dev/schedule/
 
   - name: Audio Developer Conference
     location: London
@@ -28,7 +49,7 @@ conferences :
     href: https://audio.dev/schedule/
 
   - name: BrazilJS
-    location: online
+    location: Porto Alegre
     date: 10/23/2021
     href: https://braziljs.org/conf/
 
@@ -37,25 +58,15 @@ conferences :
     date: 9/21/2021
     href: https://www.webexpo.net/prague2021/talk/the-web-is-your-new-os
 
-  - name : DrupalCon North America
-    location: online
-    date: 4/14/2021
-    href: https://pantheon.io/blog/drupalcon-2021-session-recap
-    
   - name : DrupalCon Europe
     location: online
     date: 12/10/2020
     href: https://events.drupal.org/europe2020/workshops
 
-  - name : AMP Fest
-    location: online
-    date: 10/14/2020
-    href: https://www.youtube.com/watch?v=x7vPl0BjdDA
-
-  - name : DrupalCon US
-    location: online
-    date: 7/16/2020
-    href: https://events.drupal.org/global2020/sessions/web-vitals-healthier-open-web
+  - name : AMP Roadshow
+    location: US, China, Nigeria, Kenya, Pakistan, Argentina, Brazil, Colombia, Germany, France, Spain, England, etc
+    date : 2017-2020
+    href : https://amp.dev/events/amp-roadshow/
 
   - name : OpenJS World
     location: online
@@ -68,7 +79,7 @@ conferences :
     href : https://njsi2019.sched.com/event/XeD6
 
   - name : MailCon
-    location: New York
+    location: New York City
     date : 8/10/2019
     href : https://mailcon.com/
 
@@ -101,13 +112,3 @@ conferences :
     location: Atlanta
     date : 5/18/2018
     href : https://atlanta.digitalsummit.com/
-
-  - name : SMX East
-    date : 9/27/2017
-    location : New York
-    href : https://marketinglandevents.com/smx/east/
-  
-  - name : AMP Roadshow
-    location: US, China, Nigeria, Kenya, Pakistan, Argentina, Brazil, Colombia, Germany, France, Spain, England, etc
-    date : 2017-2020
-    href : https://amp.dev/events/amp-roadshow/

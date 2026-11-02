@@ -1020,6 +1020,11 @@ a:hover {
 /*=================================================================
   tech section
 ==================================================================*/
+
+#tech-details .section {
+  padding: 100px 0 60px;
+}
+
 .tech-block {
   padding: 60px 20px;
   border-left: 1px solid rgba(236, 239, 241, 0.07);
@@ -2471,6 +2476,17 @@ figcaption {
 
 .conference-details h4 {
   padding-bottom: 15px;
+}
+
+#conferences .table-responsive {
+  height: 600px;
+  overflow-y: auto;
+}
+
+#conferences .table-responsive thead th {
+  position: sticky;
+  top: 0;
+  z-index: 2;
 }
 
 .conference-details ul {
