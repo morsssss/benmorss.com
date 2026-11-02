@@ -1,14 +1,26 @@
 articles :
   title : Articles
   item :
-  - title : "A deep dive into MCPs, Part 1: What is MCP, anyway?"
-    href: https://www.deepl.com/en/blog/tech/what-is-mcp
+  - title: "How we’re making music creation easier on the web (I ghostwrote this)"
+    href: https://blog.google/products-and-platforms/products/chrome/how-were-making-music-creation-easier-on-the-web/
+
+  - title: "Use a local model to code for free"
+    href: https://x.com/MistralDevs/status/2087577897909325873
+
+  - title: "Build a real-time audio fact-checking agent"
+    href: https://docs.mistral.ai/resources/cookbooks/mistral-audio-realtime-fact-checker-01-realtime-fact-checker
 
   - title : Test your site speed automatically with Speed Demon
     href : https://medium.com/dev-channel/introducing-speed-demon-a36d95dd0174
-  
-  - title : The Shadow Reader, Improved
-    href : https://blog.amp.dev/2018/06/19/the-shadow-reader-improved/
 
-  - title: Streaming in the Shadow Reader
-    href: https://blog.amp.dev/2018/11/05/streaming-in-the-shadow-reader/
+  # Sadly amp.dev has died  
+  # - title : The Shadow Reader, Improved
+  #   href : https://blog.amp.dev/2018/06/19/the-shadow-reader-improved/
+
+  # - title: Streaming in the Shadow Reader
+  #   href: https://blog.amp.dev/2018/11/05/streaming-in-the-shadow-reader/
+
+
+  # Sadly this blog is gone
+  # - title : "A deep dive into MCPs, Part 1: What is MCP, anyway?"
+  #  href: https://www.deepl.com/en/blog/tech/what-is-mcp
