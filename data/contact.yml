@@ -12,21 +12,25 @@ contact:
     mapLongitude: -0.1622023
 
   contact_Details :
+    - icon : ti-linkedin
+      info : LinkedOut
+      link : https://www.linkedin.com/in/ben-morss-15bab15/
+
     - icon : ti-twitter # themify icon pack : https://themify.me/themify-icons
       info : Tweetier
       link : https://twitter.com/benmorss
       
-    - icon : ti-linkedin
-      info : LinkedOut
-      link : https://www.linkedin.com/in/ben-morss-15bab15/
-      
-    - icon : ti-email
-      info : "Email: ben@benmorss.com"
-      link : "mailto:ben@benmorss.com"
-
     - icon : ti-github
       info : "Github"
       link : "https://github.com/morsssss"      
+
+    - icon: ti-instagram
+      info: Instakilogram
+      link: https://www.instagram.com/ben.morss
+      
+    - icon : ti-email
+      info : Email
+      link : /#contact 
 
     - icon : ti-rss-alt
       info : "RSS"
